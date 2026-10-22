@@ -1,0 +1,83 @@
+---
+interface Props {
+  slide: {
+    title?: string;
+    subtitle?: string;
+    author?: string;
+    date?: string;
+    background?: string;
+    backgroundColor?: string;
+    backgroundImage?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  title = '',
+  subtitle = '',
+  author = '',
+  date = '',
+  background,
+  backgroundColor,
+  backgroundImage,
+  transition,
+} = slide;
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-background-image={backgroundImage}
+  data-transition={transition}
+  class="slide-cover"
+>
+  <div class="cover-content">
+    {title && <h1 class="r-fit-text">{title}</h1>}
+    {subtitle && <h3 class="cover-subtitle">{subtitle}</h3>}
+    {(author || date) && (
+      <div class="cover-meta">
+        {author && <span class="cover-author">{author}</span>}
+        {author && date && <span class="meta-separator">•</span>}
+        {date && <span class="cover-date">{date}</span>}
+      </div>
+    )}
+  </div>
+</section>
+
+<style>
+  .slide-cover {
+    height: 100%;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .cover-title {
+    font-weight: 800;
+    margin-bottom: 0.4em;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    font-size: 2.8em;
+  }
+  .cover-subtitle {
+    font-weight: 400;
+    opacity: 0.85;
+    margin-bottom: 1.8em;
+    font-size: 1.3em;
+  }
+  .cover-meta {
+    font-size: 0.95em;
+    opacity: 0.65;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.6em;
+  }
+  .meta-separator {
+    opacity: 0.4;
+  }
+</style>

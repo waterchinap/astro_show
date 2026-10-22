@@ -1,0 +1,19 @@
+{
+  "typeCheckingMode": "standard",
+  "diagnosticMode": "openFilesOnly",
+  "failOnWarnings": false,
+  "diagnosticSeverityOverrides": {
+    "reportAny": "none",
+    "reportExplicitAny": "none",
+    "reportPrivateLocalImportUsage": "none",
+    "reportImplicitRelativeImport": "none",
+    "reportUnusedCallResult": "none",
+    "reportUnknownParameterType": "none",
+    "reportUnknownVariableType": "none",
+    "reportUnknownMemberType": "none",
+    "reportUnknownArgumentType": "none",
+    "reportMissingTypeStubs": "none",
+    "reportUnreachable": "hint",
+    "reportUnusedImport": "information"
+  }
+}

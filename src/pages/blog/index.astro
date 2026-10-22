@@ -1,0 +1,248 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const posts = await getCollection('blog');
+
+// 按发布日期倒序排序
+const sortedPosts = posts.sort((a, b) => {
+  const dateA = a.data.date ? new Date(a.data.date).getTime() : 0;
+  const dateB = b.data.date ? new Date(b.data.date).getTime() : 0;
+  return dateB - dateA;
+});
+---
+
+<Layout title="博客与技术文档 - Astro Show" description="基于 Astro Content Layer 驱动的自动渲染博客系统">
+  <div class="blog-index-page">
+    <div class="header-section">
+      <div class="badge">Knowledge Base</div>
+      <h1 class="page-title">博客与技术文档</h1>
+      <p class="page-desc">
+        基于 Astro 5/7 最新 Content Layer API。在 <code>src/blog/</code> 目录下添加任意 Markdown 文件即可自动生成路由、渲染排版并归档在此。
+      </p>
+    </div>
+
+    {sortedPosts.length === 0 ? (
+      <div class="empty-state">
+        <p>暂无博客文章，请在 <code>src/blog/</code> 目录下添加 Markdown 文件。</p>
+      </div>
+    ) : (
+      <div class="posts-list">
+        {sortedPosts.map((post) => {
+          const slug = post.id.replace(/\.mdx?$/, '');
+          const { title, description, date, author, tags = [] } = post.data;
+          const formattedDate = date
+            ? new Date(date).toLocaleDateString('zh-CN', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric',
+              })
+            : '';
+
+          return (
+            <article class="post-card">
+              <div class="post-card-content">
+                <div class="post-meta-top">
+                  {formattedDate && <time datetime={date?.toISOString()}>{formattedDate}</time>}
+                  {author && <span class="author-name">作者: {author}</span>}
+                </div>
+
+                <h2 class="post-title">
+                  <a href={`/blog/${slug}`}>{title}</a>
+                </h2>
+
+                {description && <p class="post-desc">{description}</p>}
+
+                <div class="post-card-footer">
+                  <div class="tags-group">
+                    {tags.map((tag: string) => (
+                      <span class="tag-pill">{tag}</span>
+                    ))}
+                  </div>
+
+                  <a href={`/blog/${slug}`} class="read-more-link">
+                    <span>阅读全文</span>
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M5 12h14"></path>
+                      <path d="m12 5 7 7-7 7"></path>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    )}
+
+    <div class="tips-box">
+      <h3>💡 如何添加新的博客文章？</h3>
+      <p>
+        在项目目录 <code>src/blog/</code> 下新建任意 <code>.md</code> 文件（例如 <code>hello-world.md</code>），配置 Frontmatter（如 <code>title</code>、<code>date</code> 等），无需编写任何代码，系统构建后自动完成路由生成与文章渲染！
+      </p>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .blog-index-page {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 3.5rem 1.5rem 5rem;
+  }
+  .header-section {
+    text-align: center;
+    margin-bottom: 3.5rem;
+  }
+  .badge {
+    display: inline-block;
+    padding: 0.35rem 0.9rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    background: rgba(129, 140, 248, 0.15);
+    color: #818cf8;
+    border: 1px solid rgba(129, 140, 248, 0.3);
+    border-radius: 9999px;
+    margin-bottom: 1rem;
+  }
+  .page-title {
+    font-size: 2.6rem;
+    font-weight: 800;
+    margin: 0 0 1rem;
+    letter-spacing: -0.025em;
+    background: linear-gradient(135deg, #ffffff 0%, #cbd5e1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .page-desc {
+    color: #94a3b8;
+    font-size: 1.1rem;
+    max-width: 650px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  .page-desc code {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    color: #e2e8f0;
+    font-size: 0.9em;
+  }
+  .posts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.8rem;
+  }
+  .post-card {
+    background: rgba(30, 41, 59, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    padding: 1.8rem;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    backdrop-filter: blur(8px);
+  }
+  .post-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(129, 140, 248, 0.4);
+    box-shadow: 0 12px 28px -6px rgba(0, 0, 0, 0.35);
+  }
+  .post-meta-top {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.85rem;
+    color: #64748b;
+    margin-bottom: 0.8rem;
+  }
+  .author-name {
+    color: #94a3b8;
+  }
+  .post-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0 0 0.8rem;
+    line-height: 1.35;
+  }
+  .post-title a {
+    color: #f8fafc;
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .post-title a:hover {
+    color: #818cf8;
+  }
+  .post-desc {
+    color: #94a3b8;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0 0 1.4rem;
+  }
+  .post-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+  }
+  .tags-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .tag-pill {
+    font-size: 0.78rem;
+    padding: 0.2rem 0.6rem;
+    background: rgba(255, 255, 255, 0.06);
+    color: #cbd5e1;
+    border-radius: 6px;
+  }
+  .read-more-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: #818cf8;
+    text-decoration: none;
+    font-size: 0.92rem;
+    font-weight: 600;
+    transition: color 0.15s, transform 0.15s;
+  }
+  .read-more-link:hover {
+    color: #a5b4fc;
+    transform: translateX(3px);
+  }
+  .empty-state {
+    text-align: center;
+    padding: 4rem 1rem;
+    background: rgba(30, 41, 59, 0.4);
+    border-radius: 12px;
+    color: #94a3b8;
+  }
+  .tips-box {
+    margin-top: 4rem;
+    background: rgba(15, 23, 42, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+  }
+  .tips-box h3 {
+    margin: 0 0 0.6rem;
+    font-size: 1.1rem;
+    color: #e2e8f0;
+  }
+  .tips-box p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #94a3b8;
+    line-height: 1.6;
+  }
+  .tips-box code {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 0.15rem 0.35rem;
+    border-radius: 4px;
+    color: #818cf8;
+  }
+</style>

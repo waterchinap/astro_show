@@ -1,0 +1,95 @@
+{
+  "config": {
+    "title": "Astro 通用幻灯片系统功能展示",
+    "theme": "league",
+    "transition": "slide",
+    "autoslide": false
+  },
+  "decks": [
+    {
+      "template": "Cover",
+      "slide": {
+        "title": "Astro Show",
+        "subtitle": "基于 Astro + Reveal.js 的通用幻灯片播放框架",
+        "author": "Eric",
+        "date": "2026-10"
+      }
+    },
+    {
+      "template": "Default",
+      "slide": {
+        "title": "核心设计理念",
+        "subtitle": "以数据为中心的内容驱动架构",
+        "body": [
+          "<strong>零前端修改：</strong>后端或用户仅需在 <code>src/ppts/</code> 目录下添加 JSON 文件，即可自动完成渲染与路由创建。",
+          "<strong>组件化模板：</strong>每种视觉版式独立为一个 Astro 组件，易于维护与扩展。",
+          "<strong>Reveal.js 强力支撑：</strong>支持键盘导航、全屏播放、Markdown、代码高亮、演讲者视图和多种预设主题。"
+        ]
+      }
+    },
+    {
+      "template": "TwoColumn",
+      "slide": {
+        "title": "双栏对比模式 (TwoColumn)",
+        "subtitle": "适用于特性对比、架构对照与多维度分析",
+        "leftTitle": "传统幻灯片开发",
+        "left": [
+          "❌ 每次新增 PPT 均需手工编写或复制页面代码",
+          "❌ 数据与视觉强耦合，排版难以批量调整",
+          "❌ 不利于后端程序化自动生成幻灯片"
+        ],
+        "rightTitle": "Astro Show 通用框架",
+        "right": [
+          "✅ 纯 JSON 数据驱动，完全解耦视觉与内容",
+          "✅ 自动路由扫描，自动化构建与静态导出",
+          "✅ 丰富的内置模板组件，支持灵活扩展"
+        ]
+      }
+    },
+    {
+      "template": "List",
+      "slide": {
+        "title": "列表模板 (List)",
+        "subtitle": "清晰展示要点与条目",
+        "fragments": false,
+        "items": [
+          "支持无序列表与有序列表",
+          "支持逐步出现的 Fragment 动画（点击下一步渐次展示）",
+          "支持内嵌 HTML 样式高亮"
+        ]
+      }
+    },
+    {
+      "template": "Code",
+      "slide": {
+        "title": "代码高亮模板 (Code)",
+        "subtitle": "支持语法高亮与行号显示",
+        "language": "json",
+        "code": "{\n  \"config\": {\n    \"autoslide\": true,\n    \"time\": 5000\n  },\n  \"decks\": [\n    {\n      \"template\": \"Cover\",\n      \"slide\": { \"title\": \"Hello World\" }\n    }\n  ]\n}",
+        "caption": "简洁规范的 JSON 配置格式"
+      }
+    },
+    {
+      "template": "Quote",
+      "slide": {
+        "quote": "Simplicity is prerequisite for reliability.",
+        "author": "Edsger W. Dijkstra",
+        "source": "Turing Award Lecture"
+      }
+    },
+    {
+      "template": "Center",
+      "slide": {
+        "title": "居中模板",
+        "content": "只保留内容和标题，居中"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "标题加上内容",
+        "content": "使用reveal.js默认的模式"
+      }
+    }
+  ]
+}

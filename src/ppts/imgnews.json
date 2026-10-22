@@ -1,0 +1,334 @@
+{
+  "config": {
+    "autoSlide": 6000
+  },
+  "decks": [
+    {
+      "template": "Cover",
+      "slide": {
+        "title": "中新社图片新闻",
+        "subtitle": "2026-10-22"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "乌克兰首都基辅遭弹道导弹袭击",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-22/U574P4T8D10718947F107DT20261022113049.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "尼日利亚报告一例埃博拉确诊病例",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-22/U574P4T8D10718936F107DT20261022111017.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州威宁：小苹果撑起乡村振兴大产业",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261022/2ae5de41-eb58-42d3-b1b7-2504a203d40a_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国公安机关警务实战教官技能比武 综合体能技能课目检验实战能力",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261022/66487f49-5d1b-4cdf-acbd-cf85370fc704_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "实拍世界灌溉工程遗产甘肃讨赖河绿洲灌溉系统",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-22/U1129P4T8D10718868F107DT20261022095853.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "李强会见俄罗斯总统普京",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-22/U1066P4T8D10718860F107DT20261022090736.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国体操队时隔20年再夺世锦赛女团金牌",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-22/U1066P4T8D10718846F107DT20261022084137.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "聚焦物理AI与世界模型 前沿科技成果集中亮相南京",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/b9a880ae-d13c-425a-86ab-7fdeaaf6aef4_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中外青年走进浙江宁波 探访海洋经济发展实践",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/183ae26d-faa0-4f43-88ff-0e06183643db_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西三江：彩线编吉祥 侗韵焕新彩",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/e3e8af52-e91d-492e-b4ea-8e664fcd38ff_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中、加、新三国合拍纪录电影《象行记》首映礼在京举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-21/U992P4T8D10718775F107DT20261021220319.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "江西省第四届少数民族传统体育运动会：民族健身操比赛活力四射",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/bb5dd87c-6b6c-44e4-a8e8-142d6854982f_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福建与台湾光复档案文献展在福州举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/8072781b-3f01-4c90-81d5-52ebc5c55690_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "外籍人士走进海口社区 习练八段锦感受中国传统文化",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/11610f58-328d-4800-9cbd-4ba51f11c03e_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西乡村晚稻丰收在望 喀斯特田园绘就壮乡秋景",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/879ec8d2-eaed-4951-bccf-5d56a4b97e5a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "香港民众试乘自动驾驶车辆",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/de8318ac-bf78-4323-aaa2-b2eb708612e3_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "西宁市2026年群众优秀摄影作品展开展",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/2763d4d9-b911-4069-924f-d8e4520d0154_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "吉林大学2027届毕业生秋季双选会在长春举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/31320817-697e-483e-a686-684eea03973f_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中东部地区首条国际图定笼车班列从郑州发车",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/44a31a29-36f1-4226-8ec4-0a84bc1138a9_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026世界网联世界网球巡回赛青少年年终总决赛在成都开赛",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/ac9be91e-74be-4c9d-ac77-0700ee55ad89_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "山东荣成：金秋果园好“丰”景",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/04219078-6582-4472-8bae-71dc63400198_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "明代水陆壁画走入城市烟火 毗卢寺壁画研学成果展开展",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/f99b7c56-e450-4a3f-8f88-467aa7dbe635_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（长征胜利90周年）长征胜利纪念日前夕 民众北京军博参观主题展览",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-21/U1129P4T8D10718481F107DT20261021144257.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "世界在建最大跨径路轨两用悬索桥实现主桥合龙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/8c0dda1a-f4ef-4bbe-b9df-2e8e3783cb4c_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国男团摘得体操世锦赛铜牌 锁定洛杉矶奥运会团体参赛席位",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-21/U574P4T8D10718440F107DT20261021140054.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国国际友好城市大会在陕西西安开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/986ad806-d964-4239-ba27-4b256373a54f_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "谷神星一号海射型遥八运载火箭发射成功",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-21/U1066P4T8D10718388F107DT20261021123608.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "印度尼西亚一客轮起火",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-21/U574P4T8D10718378F107DT20261021115116.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026全国警务实战教官技能比武 手枪实战应用射击课目比拼激烈",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/fc5bbd70-8154-434c-a688-dd9ad77a02a4_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "江西省第四届少数民族传统体育运动会在江西瑞昌开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/0f56ab43-e06e-40ed-9976-adfda10898ce_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "CBA常规赛：南京同曦宙光队不敌广州智都集团队",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/867b952d-c38e-47c7-8381-55d11856e908_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "拉萨团结公园秋景如画",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261021/15f67dd9-c0a0-47b0-a672-e486facdf34e_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【这个城市有点潮】甘肃会宁：90年，一座城的红色记忆",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-21/U1129P4T8D10718269F107DT20261021093416.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "CBA常规赛：北京首钢队战胜广东东阳光队",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-21/U1066P4T8D10718229F107DT20261021072723.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "湖南省第十一届少数民族传统体育运动会：板鞋选手齐步竞速",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261020/d06b6ea6-603b-4f5a-a018-de720fb2ff03_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "稻田渐黄芦花如雪 杭州良渚浓郁秋色令人流连",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261020/1b492fcd-e737-44f5-91dd-bcaa32f2e2df_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访青海湖博物馆：大湖生态全景呈现",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261020/19ab7255-d0e4-4720-ba63-c2f11d54a8cd_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“望东方”戴政生木刻艺术展在蓉开展",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261020/3d63fecd-c0ac-45a9-87bb-1ecb1aa32750_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国首个新建“平急两用”城郊大仓将全面投用",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261020/1da6e8ce-4413-4d59-8d53-28b70fb3498c_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探寻敦煌石窟“诞生密码”：莫高里工匠村复现传统技艺",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261020/7a6eb2b0-6fd2-4be0-a2b7-fb310f6069d2_zsite.jpg",
+        "subtitle": "  "
+      }
+    }
+  ]
+}

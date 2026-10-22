@@ -1,0 +1,97 @@
+---
+interface Props {
+  slide: {
+    title?: string;
+    subtitle?: string;
+    left?: string | string[];
+    right?: string | string[];
+    leftTitle?: string;
+    rightTitle?: string;
+    background?: string;
+    backgroundColor?: string;
+    backgroundImage?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  title = '',
+  subtitle = '',
+  left = '',
+  right = '',
+  leftTitle = '',
+  rightTitle = '',
+  background,
+  backgroundColor,
+  backgroundImage,
+  transition,
+} = slide;
+
+const leftList = Array.isArray(left) ? left : (left ? [left] : []);
+const rightList = Array.isArray(right) ? right : (right ? [right] : []);
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-background-image={backgroundImage}
+  data-transition={transition}
+  class="slide-two-column"
+>
+  <div class="twocol-container">
+    {title && <h2 class="twocol-title">{title}</h2>}
+    {subtitle && <h4 class="twocol-subtitle">{subtitle}</h4>}
+    <div class="twocol-grid">
+      <div class="twocol-col">
+        {leftTitle && <h3 class="col-heading">{leftTitle}</h3>}
+        {leftList.map((item) => (
+          <p class="col-text" set:html={item} />
+        ))}
+      </div>
+      <div class="twocol-col">
+        {rightTitle && <h3 class="col-heading">{rightTitle}</h3>}
+        {rightList.map((item) => (
+          <p class="col-text" set:html={item} />
+        ))}
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .slide-two-column {
+    text-align: left;
+  }
+  .twocol-title {
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.25);
+    padding-bottom: 0.3em;
+  }
+  .twocol-subtitle {
+    font-size: 1.1em;
+    opacity: 0.75;
+    margin-bottom: 1em;
+  }
+  .twocol-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+    margin-top: 1.2rem;
+  }
+  .col-heading {
+    font-size: 1.25em;
+    font-weight: 600;
+    margin-bottom: 0.6em;
+    opacity: 0.9;
+  }
+  .col-text {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 0.6em;
+  }
+</style>

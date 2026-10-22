@@ -1,0 +1,92 @@
+---
+interface Props {
+  slide: {
+    title?: string;
+    subtitle?: string;
+    image?: string;
+    src?: string;
+    alt?: string;
+    caption?: string;
+    background?: string;
+    backgroundColor?: string;
+    backgroundImage?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  title = '',
+  subtitle = '',
+  image,
+  src,
+  alt = '',
+  caption = '',
+  background,
+  backgroundColor,
+  backgroundImage,
+  transition,
+} = slide;
+
+const imgSrc = image || src;
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-background-image={backgroundImage}
+  data-transition={transition}
+  class="slide-image"
+>
+  <div class="image-container">
+    {title && <h2 class="image-title">{title}</h2>}
+    {subtitle && <h4 class="image-subtitle">{subtitle}</h4>}
+    {imgSrc && (
+      <div class="image-wrapper">
+        <img src={imgSrc} alt={alt || title} class="slide-img" />
+      </div>
+    )}
+    {caption && <p class="image-caption">{caption}</p>}
+  </div>
+</section>
+
+<style>
+  .slide-image {
+    text-align: center;
+  }
+  .image-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem 0;
+  }
+  .image-title {
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+  }
+  .image-subtitle {
+    font-size: 1.1em;
+    opacity: 0.75;
+    margin-bottom: 1em;
+  }
+  .image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem auto;
+  }
+  .slide-img {
+    max-height: 52vh;
+    max-width: 100%;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+  .image-caption {
+    font-size: 0.85em;
+    opacity: 0.7;
+    margin-top: 0.8em;
+  }
+</style>

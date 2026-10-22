@@ -1,0 +1,112 @@
+---
+interface Props {
+  slide: {
+    title?: string;
+    subtitle?: string;
+    items?: (string | { text: string; subitems?: string[] })[];
+    ordered?: boolean;
+    fragments?: boolean;
+    background?: string;
+    backgroundColor?: string;
+    backgroundImage?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  title = '',
+  subtitle = '',
+  items = [],
+  ordered = false,
+  fragments = false,
+  background,
+  backgroundColor,
+  backgroundImage,
+  transition,
+} = slide;
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-background-image={backgroundImage}
+  data-transition={transition}
+  class="slide-list"
+>
+  <div class="list-container">
+    {title && <h2 class="list-title">{title}</h2>}
+    {subtitle && <h4 class="list-subtitle">{subtitle}</h4>}
+    {ordered ? (
+      <ol class="list-content">
+        {items.map((item) => {
+          const text = typeof item === 'string' ? item : item.text;
+          const sub = typeof item === 'object' ? item.subitems : undefined;
+          return (
+            <li class={fragments ? 'fragment' : ''}>
+              <span set:html={text} />
+              {sub && sub.length > 0 && (
+                <ul>
+                  {sub.map((s) => (
+                    <li set:html={s} />
+                  ))}
+                </ul>
+              )}
+            </li>
+          );
+        })}
+      </ol>
+    ) : (
+      <ul class="list-content">
+        {items.map((item) => {
+          const text = typeof item === 'string' ? item : item.text;
+          const sub = typeof item === 'object' ? item.subitems : undefined;
+          return (
+            <li class={fragments ? 'fragment' : ''}>
+              <span set:html={text} />
+              {sub && sub.length > 0 && (
+                <ul>
+                  {sub.map((s) => (
+                    <li set:html={s} />
+                  ))}
+                </ul>
+              )}
+            </li>
+          );
+        })}
+      </ul>
+    )}
+  </div>
+</section>
+
+<style>
+  .slide-list {
+    text-align: left;
+  }
+  .list-container {
+  }
+  .list-title {
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.25);
+    padding-bottom: 0.3em;
+  }
+  .list-subtitle {
+    font-size: 1.1em;
+    opacity: 0.75;
+    margin-bottom: 1em;
+    font-weight: 400;
+  }
+  .list-content {
+    font-size: 1.15em;
+    line-height: 1.8;
+    margin-top: 1.2em;
+    padding-left: 1.5em;
+  }
+  .list-content li {
+    margin-bottom: 0.6em;
+  }
+</style>

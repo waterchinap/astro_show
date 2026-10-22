@@ -1,0 +1,64 @@
+---
+import { getCollection } from 'astro:content';
+import PptLayout from '../../layouts/PptLayout.astro';
+
+export async function getStaticPaths() {
+  const ppts = await getCollection('ppts');
+  return ppts.map((ppt) => {
+    const slug = ppt.id.replace(/\.json$/, '');
+    return {
+      params: { slug },
+      props: { ppt },
+    };
+  });
+}
+
+const { ppt } = Astro.props;
+const { config = {}, decks = [] } = ppt.data;
+
+// 动态自动发现并加载 src/components/ppts 目录下的所有 .astro 模板组件
+const templateModules = import.meta.glob<{ default: any }>(
+  '../../components/ppts/*.astro',
+  { eager: true }
+);
+
+const templateMap: Record<string, any> = {};
+for (const [filePath, module] of Object.entries(templateModules)) {
+  const fileName = filePath.split('/').pop()?.replace('.astro', '') || '';
+  if (fileName) {
+    templateMap[fileName] = module.default;
+    // 同时支持小写索引（如 "cover" 匹配 "Cover.astro"）
+    templateMap[fileName.toLowerCase()] = module.default;
+  }
+}
+
+// 自动提取标题：优先 config.title，其次第一页带 title 的 slide，最后使用文件名
+const pageTitle =
+  config.title ||
+  decks.find((d: any) => d.slide?.title)?.slide?.title ||
+  ppt.id ||
+  '幻灯片演示';
+---
+
+<PptLayout title={pageTitle} config={config}>
+  {
+    decks.map((deck: any, index: number) => {
+      const templateName = deck.template || 'Default';
+      const TemplateComponent =
+        templateMap[templateName] ||
+        templateMap[templateName.toLowerCase()] ||
+        templateMap['Default'] ||
+        templateMap['default'];
+
+      return TemplateComponent ? (
+        <TemplateComponent slide={deck.slide || {}} config={config} index={index} />
+      ) : (
+        <section>
+          <h2>未知模板: {templateName}</h2>
+          <p>请在 src/components/ppts/ 目录下创建对应的模板组件。</p>
+          <pre>{JSON.stringify(deck.slide, null, 2)}</pre>
+        </section>
+      );
+    })
+  }
+</PptLayout>

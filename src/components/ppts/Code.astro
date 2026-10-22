@@ -1,0 +1,81 @@
+---
+interface Props {
+  slide: {
+    title?: string;
+    subtitle?: string;
+    code?: string;
+    language?: string;
+    caption?: string;
+    lineNumbers?: string | boolean;
+    background?: string;
+    backgroundColor?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  title = '',
+  subtitle = '',
+  code = '',
+  language = 'javascript',
+  caption = '',
+  lineNumbers = true,
+  background,
+  backgroundColor,
+  transition,
+} = slide;
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-transition={transition}
+  class="slide-code"
+>
+  <div class="code-container">
+    {title && <h2 class="code-title">{title}</h2>}
+    {subtitle && <h4 class="code-subtitle">{subtitle}</h4>}
+    <pre><code class={`language-${language}`} data-trim data-noescape data-line-numbers={typeof lineNumbers === 'string' ? lineNumbers : lineNumbers ? '' : undefined}>{code}</code></pre>
+    {caption && <p class="code-caption">{caption}</p>}
+  </div>
+</section>
+
+<style>
+  .slide-code {
+    text-align: left;
+  }
+  .code-container {
+  }
+  .code-title {
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.25);
+    padding-bottom: 0.3em;
+  }
+  .code-subtitle {
+    font-size: 1.1em;
+    opacity: 0.75;
+    margin-bottom: 1em;
+  }
+  pre {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+    border-radius: 8px;
+    margin-top: 1rem !important;
+  }
+  pre code {
+    font-size: 0.85em !important;
+    line-height: 1.5 !important;
+    padding: 1.2em !important;
+    border-radius: 8px;
+  }
+  .code-caption {
+    font-size: 0.85em;
+    opacity: 0.65;
+    margin-top: 0.8em;
+    text-align: center;
+  }
+</style>

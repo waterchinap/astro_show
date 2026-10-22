@@ -1,0 +1,173 @@
+---
+import resetCss from 'reveal.js/reset.css?url';
+import revealCss from 'reveal.js/reveal.css?url';
+import hljsCss from 'reveal.js/plugin/highlight/monokai.css?url';
+
+import blackTheme from 'reveal.js/theme/black.css?url';
+import blackContrastTheme from 'reveal.js/theme/black-contrast.css?url';
+import whiteTheme from 'reveal.js/theme/white.css?url';
+import whiteContrastTheme from 'reveal.js/theme/white-contrast.css?url';
+import leagueTheme from 'reveal.js/theme/league.css?url';
+import beigeTheme from 'reveal.js/theme/beige.css?url';
+import nightTheme from 'reveal.js/theme/night.css?url';
+import serifTheme from 'reveal.js/theme/serif.css?url';
+import simpleTheme from 'reveal.js/theme/simple.css?url';
+import solarizedTheme from 'reveal.js/theme/solarized.css?url';
+import bloodTheme from 'reveal.js/theme/blood.css?url';
+import moonTheme from 'reveal.js/theme/moon.css?url';
+import draculaTheme from 'reveal.js/theme/dracula.css?url';
+
+interface Props {
+  title?: string;
+  config?: Record<string, any>;
+}
+
+const { title = '幻灯片演示', config = {} } = Astro.props;
+
+const themeMap: Record<string, string> = {
+  black: blackTheme,
+  'black-contrast': blackContrastTheme,
+  white: whiteTheme,
+  'white-contrast': whiteContrastTheme,
+  league: leagueTheme,
+  beige: beigeTheme,
+  night: nightTheme,
+  serif: serifTheme,
+  simple: simpleTheme,
+  solarized: solarizedTheme,
+  blood: bloodTheme,
+  moon: moonTheme,
+  dracula: draculaTheme,
+};
+
+const themeKey = typeof config.theme === 'string' ? config.theme.toLowerCase() : 'black';
+const themeUrl = themeMap[themeKey] || themeMap['black'];
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+
+    <!-- 按规范顺序加载 Reveal 基础样式与主题样式：reset -> reveal -> highlight -> theme -->
+    <link rel="stylesheet" href={resetCss} />
+    <link rel="stylesheet" href={revealCss} />
+    <link rel="stylesheet" href={hljsCss} />
+    <link rel="stylesheet" href={themeUrl} id="reveal-theme" />
+  </head>
+  <body>
+    <!-- 悬浮返回导航 -->
+    <a href="/ppts" class="reveal-nav-back" title="返回幻灯片列表">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="m15 18-6-6 6-6"/>
+      </svg>
+      <span>幻灯片列表</span>
+    </a>
+
+    <div class="reveal">
+      <div class="slides">
+        <slot />
+      </div>
+    </div>
+
+    <script id="reveal-config-data" type="application/json" set:html={JSON.stringify(config)} />
+
+    <script>
+      import Reveal from 'reveal.js';
+      import RevealHighlight from 'reveal.js/plugin/highlight';
+      import RevealNotes from 'reveal.js/plugin/notes';
+      import RevealZoom from 'reveal.js/plugin/zoom';
+
+      let userConfig: Record<string, any> = {};
+      const configEl = document.getElementById('reveal-config-data');
+      if (configEl && configEl.textContent) {
+        try {
+          userConfig = JSON.parse(configEl.textContent);
+        } catch (e) {
+          console.error('Failed to parse reveal config:', e);
+        }
+      }
+
+      // 处理 autoslide / time 配置映射
+      let autoSlideVal = 0;
+      if (userConfig.autoslide) {
+        if (typeof userConfig.time === 'number') {
+          autoSlideVal = userConfig.time;
+        } else if (typeof userConfig.autoslide === 'number') {
+          autoSlideVal = userConfig.autoslide;
+        } else {
+          autoSlideVal = 5000;
+        }
+      } else if (typeof userConfig.autoSlide === 'number') {
+        autoSlideVal = userConfig.autoSlide;
+      }
+
+      const deck = new Reveal({
+        hash: true,
+        slideNumber: true,
+        plugins: [RevealHighlight, RevealNotes, RevealZoom],
+        width: 1920,
+        height: 1080,
+        ...userConfig,
+        ...(autoSlideVal > 0 ? { autoSlide: autoSlideVal } : {}),
+      });
+
+      deck.initialize();
+    </script>
+
+    <style is:global>
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: var(--r-background-color, #191919);
+        color: var(--r-main-color, #fff);
+      }
+
+      /* 确保 reveal-viewport 严格继承当前主题变量，防止被默认样式覆盖 */
+      .reveal-viewport,
+      body.reveal-viewport {
+        background: var(--r-background) !important;
+        background-color: var(--r-background-color) !important;
+        color: var(--r-main-color, #fff);
+      }
+
+      .reveal {
+        color: var(--r-main-color, #fff);
+      }
+
+      .reveal-nav-back {
+        position: fixed;
+        top: 14px;
+        left: 14px;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 6px 12px;
+        background: rgba(20, 20, 25, 0.65);
+        color: #f1f5f9;
+        font-size: 13px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        text-decoration: none;
+        border-radius: 8px;
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(8px);
+        opacity: 0.35;
+        transition: opacity 0.25s ease, background 0.25s ease, transform 0.2s ease;
+      }
+      .reveal-nav-back:hover {
+        opacity: 1;
+        background: rgba(15, 23, 42, 0.95);
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+      }
+    </style>
+  </body>
+</html>

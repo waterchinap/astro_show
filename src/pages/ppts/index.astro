@@ -1,0 +1,254 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const ppts = await getCollection('ppts');
+
+// 对幻灯片列表进行信息整理
+const pptList = ppts.map((ppt) => {
+  const slug = ppt.id.replace(/\.json$/, '');
+  const config = ppt.data.config || {};
+  const decks = ppt.data.decks || [];
+
+  // 提取首选标题与副标题
+  const firstCover = decks.find((d: any) => d.template?.toLowerCase() === 'cover');
+  const firstTitled = decks.find((d: any) => d.slide?.title);
+
+  const title = config.title || firstCover?.slide?.title || firstTitled?.slide?.title || slug;
+  const subtitle = firstCover?.slide?.subtitle || firstTitled?.slide?.subtitle || firstTitled?.slide?.body || '';
+
+  const autoslide = config.autoslide
+    ? typeof config.time === 'number'
+      ? `自动播放 (${config.time / 1000}秒/页)`
+      : '自动播放'
+    : '手动翻页';
+
+  const theme = config.theme || 'black';
+
+  return {
+    slug,
+    title,
+    subtitle,
+    slideCount: decks.length,
+    autoslide,
+    theme,
+  };
+});
+---
+
+<Layout title="幻灯片列表 - Astro Show" description="浏览与播放所有已配置的幻灯片">
+  <div class="ppts-page">
+    <div class="header-section">
+      <div class="badge">Presentation Hub</div>
+      <h1 class="page-title">幻灯片展示中心</h1>
+      <p class="page-desc">
+        基于 Astro 内容集合与 Reveal.js 驱动。在 <code>src/ppts/</code> 目录下添加 JSON 文件即可自动生成路由与演示。
+      </p>
+    </div>
+
+    {pptList.length === 0 ? (
+      <div class="empty-state">
+        <p>暂无幻灯片文件，请在 <code>src/ppts/</code> 目录下添加 JSON 文件。</p>
+      </div>
+    ) : (
+      <div class="ppt-grid">
+        {pptList.map((ppt) => (
+          <div class="ppt-card">
+            <div class="card-header">
+              <span class="theme-tag">主题: {ppt.theme}</span>
+              <span class="count-tag">{ppt.slideCount} 页</span>
+            </div>
+
+            <div class="card-body">
+              <h2 class="ppt-title">{ppt.title}</h2>
+              {ppt.subtitle && <p class="ppt-subtitle">{ppt.subtitle}</p>}
+            </div>
+
+            <div class="card-footer">
+              <span class="autoslide-tag">{ppt.autoslide}</span>
+              <a href={`/ppts/${ppt.slug}`} class="play-btn">
+                <span>开始播放</span>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    )}
+
+    <div class="tips-card">
+      <h3>💡 如何添加新的幻灯片？</h3>
+      <p>在项目目录 <code>src/ppts/</code> 下新建一个 <code>.json</code> 文件（例如 <code>report.json</code>），定义 <code>config</code> 和 <code>decks</code>，无需修改任何前端代码，刷新或重新构建后即可在此页面查看并自动访问 <code>/ppts/report</code>！</p>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .ppts-page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 5rem;
+  }
+  .header-section {
+    text-align: center;
+    margin-bottom: 3.5rem;
+  }
+  .badge {
+    display: inline-block;
+    padding: 0.35rem 0.9rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    background: rgba(56, 189, 248, 0.15);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    border-radius: 9999px;
+    margin-bottom: 1rem;
+  }
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin: 0 0 1rem;
+    letter-spacing: -0.025em;
+    background: linear-gradient(135deg, #ffffff 0%, #cbd5e1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .page-desc {
+    color: #94a3b8;
+    font-size: 1.1rem;
+    max-width: 650px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  .page-desc code {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    color: #e2e8f0;
+    font-size: 0.9em;
+  }
+  .ppt-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+  .ppt-card {
+    background: rgba(30, 41, 59, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    backdrop-filter: blur(8px);
+  }
+  .ppt-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(56, 189, 248, 0.4);
+    box-shadow: 0 12px 28px -6px rgba(0, 0, 0, 0.35);
+  }
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    font-size: 0.82rem;
+  }
+  .theme-tag {
+    color: #94a3b8;
+    background: rgba(255, 255, 255, 0.06);
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+  }
+  .count-tag {
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.1);
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 600;
+  }
+  .card-body {
+    margin-bottom: 1.8rem;
+  }
+  .ppt-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #f8fafc;
+    margin: 0 0 0.5rem;
+    line-height: 1.35;
+  }
+  .ppt-subtitle {
+    color: #94a3b8;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1.2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .autoslide-tag {
+    font-size: 0.8rem;
+    color: #64748b;
+  }
+  .play-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: #0284c7;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.2s, transform 0.15s;
+  }
+  .play-btn:hover {
+    background: #0369a1;
+    transform: scale(1.02);
+  }
+  .empty-state {
+    text-align: center;
+    padding: 4rem 1rem;
+    background: rgba(30, 41, 59, 0.4);
+    border-radius: 12px;
+    color: #94a3b8;
+  }
+  .tips-card {
+    margin-top: 4rem;
+    background: rgba(15, 23, 42, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+  }
+  .tips-card h3 {
+    margin: 0 0 0.6rem;
+    font-size: 1.1rem;
+    color: #e2e8f0;
+  }
+  .tips-card p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #94a3b8;
+    line-height: 1.6;
+  }
+  .tips-card code {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 0.15rem 0.35rem;
+    border-radius: 4px;
+    color: #38bdf8;
+  }
+</style>

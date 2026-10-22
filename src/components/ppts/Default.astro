@@ -1,0 +1,86 @@
+---
+interface Props {
+  slide: {
+    title?: string;
+    subtitle?: string;
+    body?: string | string[];
+    content?: string | string[];
+    footer?: string;
+    background?: string;
+    backgroundColor?: string;
+    backgroundImage?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  title = '',
+  subtitle = '',
+  body,
+  content,
+  footer = '',
+  background,
+  backgroundColor,
+  backgroundImage,
+  transition,
+} = slide;
+
+const mainContent = body ?? content;
+const contentList = Array.isArray(mainContent) ? mainContent : (mainContent ? [mainContent] : []);
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-background-image={backgroundImage}
+  data-transition={transition}
+  class="slide-default"
+>
+  <div class="default-container">
+    {title && <h2 class="default-title">{title}</h2>}
+    {subtitle && <h4 class="default-subtitle">{subtitle}</h4>}
+    <div class="default-body">
+      {contentList.map((item) => (
+        <p class="default-text" set:html={item} />
+      ))}
+    </div>
+    {footer && <div class="default-footer">{footer}</div>}
+  </div>
+</section>
+
+<style>
+  .slide-default {
+    text-align: left;
+  }
+  .default-title {
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.25);
+    padding-bottom: 0.3em;
+  }
+  .default-subtitle {
+    font-size: 1.1em;
+    opacity: 0.75;
+    margin-bottom: 1em;
+    font-weight: 400;
+  }
+  .default-body {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-top: 1.2em;
+  }
+  .default-text {
+    margin-bottom: 0.8em;
+  }
+  .default-footer {
+    margin-top: 2em;
+    font-size: 0.75em;
+    opacity: 0.5;
+    border-top: 1px solid rgba(128, 128, 128, 0.2);
+    padding-top: 0.5em;
+  }
+</style>

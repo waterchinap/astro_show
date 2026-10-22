@@ -1,0 +1,87 @@
+---
+interface Props {
+  slide: {
+    quote?: string;
+    text?: string;
+    author?: string;
+    source?: string;
+    background?: string;
+    backgroundColor?: string;
+    backgroundImage?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  quote,
+  text,
+  author = '',
+  source = '',
+  background,
+  backgroundColor,
+  backgroundImage,
+  transition,
+} = slide;
+
+const quoteContent = quote || text || '';
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-background-image={backgroundImage}
+  data-transition={transition}
+  class="slide-quote"
+>
+  <div class="quote-container">
+    {quoteContent && (
+      <blockquote class="quote-text">
+        “{quoteContent}”
+      </blockquote>
+    )}
+    {(author || source) && (
+      <div class="quote-citation">
+        {author && <span class="quote-author">— {author}</span>}
+        {source && <cite class="quote-source">, {source}</cite>}
+      </div>
+    )}
+  </div>
+</section>
+
+<style>
+  .slide-quote {
+    height: 100%;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .quote-container {
+  }
+  .quote-text {
+    font-size: 2em;
+    font-style: italic;
+    line-height: 1.45;
+    font-weight: 300;
+    margin: 0 0 1.2em 0;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    color: inherit;
+  }
+  .quote-citation {
+    font-size: 1.1em;
+    opacity: 0.75;
+  }
+  .quote-author {
+    font-weight: 600;
+  }
+  .quote-source {
+    font-style: normal;
+    opacity: 0.8;
+  }
+</style>

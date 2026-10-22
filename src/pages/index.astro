@@ -1,11 +1,277 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="Astro Show - 通用数据展示与幻灯片前端">
+  <div class="home-container">
+    <section class="hero-section">
+      <div class="hero-badge">Astro 7 + Reveal.js 6</div>
+      <h1 class="hero-title">
+        通用数据与幻灯片<br />
+        <span class="gradient-text">展示前端框架</span>
+      </h1>
+      <p class="hero-description">
+        纯 JSON 数据驱动的通用演示播放框架。后端将幻灯片写入 <code>src/ppts/</code> 目录，构建即自动生成动态路由与模板渲染，前端代码<strong>零修改</strong>。
+      </p>
+
+      <div class="cta-group">
+        <a href="/ppts" class="btn btn-primary">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect width="18" height="14" x="3" y="3" rx="2"></rect>
+            <path d="M7 21h10"></path>
+            <path d="M12 17v4"></path>
+          </svg>
+          <span>进入幻灯片展示中心</span>
+        </a>
+        <a href="/blog" class="btn btn-secondary">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"></path>
+            <path d="M6 6h10"></path>
+            <path d="M6 10h10"></path>
+          </svg>
+          <span>浏览技术博客</span>
+        </a>
+        <a href="/ppts/demo" class="btn btn-tertiary">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+            <polygon points="5 3 19 12 5 21 5 3"></polygon>
+          </svg>
+          <span>播放 Demo 幻灯片</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">🚀</div>
+        <h3>零前端代码修改</h3>
+        <p>基于 Astro Content Layer，后端将 JSON 写入 <code>src/ppts/</code> 目录即可自动生成路由与页面，实现完全的数据与视图解耦。</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">🧩</div>
+        <h3>动态模板自动加载</h3>
+        <p>在 <code>src/components/ppts/</code> 下扩展模板，页面路由根据 <code>template</code> 参数动态匹配并渲染对应的 Astro 模板组件。</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon">✨</div>
+        <h3>全功能 Reveal.js</h3>
+        <p>支持配置驱动的自动轮播、自定义主题（Black, White, League 等）、转场动效、代码语法高亮与演讲者注释。</p>
+      </div>
+    </section>
+
+    <section class="code-preview-section">
+      <div class="code-header">
+        <span class="code-dot red"></span>
+        <span class="code-dot yellow"></span>
+        <span class="code-dot green"></span>
+        <span class="code-title">src/ppts/demo.json</span>
+      </div>
+      <pre class="code-body"><code>{`{
+  "config": {
+    "autoslide": true,
+    "time": 6000,
+    "theme": "black"
+  },
+  "decks": [
+    {
+      "template": "Cover",
+      "slide": {
+        "title": "This Year",
+        "subtitle": "by someone"
+      }
+    },
+    {
+      "template": "Default",
+      "slide": {
+        "title": "This Year",
+        "body": "by someone"
+      }
+    }
+  ]
+}`}</code></pre>
+    </section>
+  </div>
 </Layout>
+
+<style>
+  .home-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 6rem;
+  }
+  .hero-section {
+    text-align: center;
+    margin-bottom: 4.5rem;
+  }
+  .hero-badge {
+    display: inline-block;
+    padding: 0.35rem 0.9rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    background: rgba(56, 189, 248, 0.12);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.25);
+    border-radius: 9999px;
+    margin-bottom: 1.5rem;
+  }
+  .hero-title {
+    font-size: 3.2rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin: 0 0 1.2rem;
+    letter-spacing: -0.03em;
+  }
+  .gradient-text {
+    background: linear-gradient(135deg, #38bdf8 0%, #818cf8 50%, #c084fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .hero-description {
+    font-size: 1.15rem;
+    color: #94a3b8;
+    max-width: 680px;
+    margin: 0 auto 2.5rem;
+    line-height: 1.7;
+  }
+  .hero-description code {
+    background: rgba(255, 255, 255, 0.1);
+    color: #e2e8f0;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+  .hero-description strong {
+    color: #f8fafc;
+  }
+  .cta-group {
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    flex-wrap: wrap;
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.8rem 1.6rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: transform 0.15s ease, box-shadow 0.2s ease, background 0.2s ease;
+  }
+  .btn-primary {
+    background: linear-gradient(135deg, #0284c7 0%, #2563eb 100%);
+    color: #ffffff;
+    box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+  }
+  .btn-primary:hover {
+    background: linear-gradient(135deg, #0369a1 0%, #1d4ed8 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(2, 132, 199, 0.45);
+  }
+  .btn-secondary {
+    background: rgba(129, 140, 248, 0.15);
+    color: #c7d2fe;
+    border: 1px solid rgba(129, 140, 248, 0.35);
+  }
+  .btn-secondary:hover {
+    background: rgba(129, 140, 248, 0.25);
+    color: #ffffff;
+    transform: translateY(-2px);
+  }
+  .btn-tertiary {
+    background: rgba(30, 41, 59, 0.8);
+    color: #f8fafc;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+  }
+  .btn-tertiary:hover {
+    background: rgba(51, 65, 85, 0.9);
+    transform: translateY(-2px);
+  }
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 4.5rem;
+  }
+  .feature-card {
+    background: rgba(30, 41, 59, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    padding: 1.8rem;
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .feature-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(56, 189, 248, 0.3);
+  }
+  .feature-icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  .feature-card h3 {
+    margin: 0 0 0.6rem;
+    font-size: 1.25rem;
+    color: #f8fafc;
+  }
+  .feature-card p {
+    margin: 0;
+    color: #94a3b8;
+    line-height: 1.6;
+    font-size: 0.95rem;
+  }
+  .feature-card code {
+    background: rgba(255, 255, 255, 0.08);
+    color: #38bdf8;
+    padding: 0.15rem 0.35rem;
+    border-radius: 4px;
+  }
+  .code-preview-section {
+    background: #0f172a;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    overflow: hidden;
+    max-width: 680px;
+    margin: 0 auto;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  }
+  .code-header {
+    background: rgba(255, 255, 255, 0.04);
+    padding: 0.75rem 1rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  .code-dot {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    margin-right: 6px;
+  }
+  .code-dot.red { background: #ef4444; }
+  .code-dot.yellow { background: #eab308; }
+  .code-dot.green { background: #22c55e; }
+  .code-title {
+    margin-left: 0.75rem;
+    font-size: 0.85rem;
+    color: #94a3b8;
+    font-family: monospace;
+  }
+  .code-body {
+    margin: 0;
+    padding: 1.25rem 1.5rem;
+    color: #e2e8f0;
+    font-family: 'Fira Code', Consolas, Monaco, monospace;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    overflow-x: auto;
+  }
+  @media (max-width: 640px) {
+    .hero-title {
+      font-size: 2.3rem;
+    }
+  }
+</style>

@@ -1,0 +1,113 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.2",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "ac20ab1b7b79f192251655fc829d1969",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "92a02fe0244d8fc4d426d6719c7035c3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "83e08313a5c4fdb64e658ad0a5166a1c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BuTD",
+      "code_hash": "ebf8a4eda59ff50805bbdca2d1749c74",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "f87835bdf9bae0278600a544fd258730",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "bedf0a586557fae95181fc2080a11635",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "b53174066f85a14c1fb50ea386f5008b",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">\"/tmp/marimo_734762/__marimo__cell_PKri_.py\"</span>, line <span class=\"m\">2</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">get_doc_arr</span><span class=\"p\">(</span><span class=\"n\">front_ppts</span> <span class=\"o\">/</span> <span class=\"s1\">'imgnews.json'</span><span class=\"p\">)</span>\n<span class=\"w\">    </span><span class=\"pm\">~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</span>\n  File <span class=\"nb\">\"/tmp/marimo_734762/__marimo__cell_lEQa_.py\"</span>, line <span class=\"m\">4</span>, in <span class=\"n\">get_doc_arr</span>\n<span class=\"w\">    </span><span class=\"k\">with</span> <span class=\"n\">sync_playwright</span><span class=\"p\">()</span> <span class=\"k\">as</span> <span class=\"n\">p</span><span class=\"p\">:</span>\n<span class=\"w\">         </span><span class=\"pm\">~~~~~~~~~~~~~~~^^</span>\n  File <span class=\"nb\">\"/home/eric/00works/astro_show/.venv/lib/python3.13/site-packages/playwright/sync_api/_context_manager.py\"</span>, line <span class=\"m\">46</span>, in <span class=\"n\">__enter__</span>\n<span class=\"w\">    </span>            <span class=\"k\">raise</span> <span class=\"n\">Error</span><span class=\"p\">(</span>\n<span class=\"w\">    </span><span class=\"o\">...&lt;</span><span class=\"mi\">2</span> <span class=\"n\">lines</span><span class=\"o\">&gt;...</span>\n<span class=\"w\">    </span>            <span class=\"p\">)</span>\n<span class=\"gr\">playwright._impl._errors.Error</span>: <span class=\"n\">It looks like you are using Playwright Sync API inside the asyncio loop.</span>\n<span class=\"x\">Please use the Async API instead.</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "Xref",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => {
+    const slug = post.id.replace(/\.mdx?$/, '');
+    return {
+      params: { slug },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+const { title, description, date, author, tags = [] } = post.data;
+
+const formattedDate = date ? new Date(date).toLocaleDateString('zh-CN', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}) : '';
+---
+
+<Layout title={`${title} - Astro Show 博客`} description={description}>
+  <div class="blog-post-page">
+    <div class="nav-back-wrapper">
+      <a href="/blog" class="back-link">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="m15 18-6-6 6-6"></path>
+        </svg>
+        <span>返回文章列表</span>
+      </a>
+    </div>
+
+    <header class="post-header">
+      {tags.length > 0 && (
+        <div class="post-tags">
+          {tags.map((tag: string) => (
+            <span class="tag-badge">{tag}</span>
+          ))}
+        </div>
+      )}
+      <h1 class="post-title">{title}</h1>
+      {description && <p class="post-description">{description}</p>}
+      <div class="post-meta">
+        <span class="post-author">{author}</span>
+        {formattedDate && (
+          <>
+            <span class="meta-dot">•</span>
+            <time datetime={date?.toISOString()}>{formattedDate}</time>
+          </>
+        )}
+      </div>
+    </header>
+
+    <div class="content-wrapper">
+      <article class="prose-content">
+        <Content />
+      </article>
+
+      {headings.length > 0 && (
+        <aside class="toc-sidebar">
+          <div class="toc-card">
+            <h3 class="toc-title">目录导航</h3>
+            <ul class="toc-list">
+              {headings.map((h: any) => (
+                <li class={`toc-item level-${h.depth}`}>
+                  <a href={`#${h.slug}`}>{h.text}</a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </aside>
+      )}
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .blog-post-page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 5rem;
+  }
+  .nav-back-wrapper {
+    margin-bottom: 2rem;
+  }
+  .back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: #94a3b8;
+    text-decoration: none;
+    font-size: 0.92rem;
+    transition: color 0.2s, transform 0.15s;
+  }
+  .back-link:hover {
+    color: #38bdf8;
+    transform: translateX(-2px);
+  }
+  .post-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 2.5rem;
+    margin-bottom: 3rem;
+  }
+  .post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.2rem;
+  }
+  .tag-badge {
+    font-size: 0.78rem;
+    padding: 0.2rem 0.65rem;
+    background: rgba(56, 189, 248, 0.12);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.25);
+    border-radius: 6px;
+    font-weight: 500;
+  }
+  .post-title {
+    font-size: 2.6rem;
+    font-weight: 800;
+    line-height: 1.25;
+    margin: 0 0 1rem;
+    letter-spacing: -0.02em;
+    color: #f8fafc;
+  }
+  .post-description {
+    font-size: 1.2rem;
+    color: #94a3b8;
+    line-height: 1.6;
+    margin: 0 0 1.5rem;
+  }
+  .post-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.95rem;
+    color: #64748b;
+  }
+  .post-author {
+    color: #cbd5e1;
+    font-weight: 500;
+  }
+  .meta-dot {
+    opacity: 0.4;
+  }
+  .content-wrapper {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 260px;
+    gap: 3.5rem;
+    align-items: start;
+  }
+  @media (max-width: 900px) {
+    .content-wrapper {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .toc-sidebar {
+      display: none;
+    }
+  }
+
+  /* 文章排版样式 */
+  .prose-content {
+    color: #cbd5e1;
+    font-size: 1.08rem;
+    line-height: 1.8;
+  }
+  .prose-content :global(h1),
+  .prose-content :global(h2),
+  .prose-content :global(h3),
+  .prose-content :global(h4) {
+    color: #f8fafc;
+    font-weight: 700;
+    line-height: 1.35;
+    margin-top: 2.2em;
+    margin-bottom: 0.8em;
+    scroll-margin-top: 80px;
+  }
+  .prose-content :global(h1) { font-size: 2rem; border-bottom: 1px solid rgba(255, 255, 255, 0.1); padding-bottom: 0.4em; }
+  .prose-content :global(h2) { font-size: 1.6rem; border-bottom: 1px solid rgba(255, 255, 255, 0.08); padding-bottom: 0.3em; }
+  .prose-content :global(h3) { font-size: 1.3rem; }
+  .prose-content :global(p) {
+    margin-bottom: 1.4em;
+  }
+  .prose-content :global(strong) {
+    color: #f8fafc;
+    font-weight: 600;
+  }
+  .prose-content :global(a) {
+    color: #38bdf8;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .prose-content :global(a:hover) {
+    color: #7dd3fc;
+  }
+  .prose-content :global(ul),
+  .prose-content :global(ol) {
+    padding-left: 1.6em;
+    margin-bottom: 1.4em;
+  }
+  .prose-content :global(li) {
+    margin-bottom: 0.4em;
+  }
+  .prose-content :global(blockquote) {
+    border-left: 4px solid #38bdf8;
+    background: rgba(56, 189, 248, 0.06);
+    margin: 1.5em 0;
+    padding: 0.8em 1.2em;
+    border-radius: 0 8px 8px 0;
+    color: #94a3b8;
+    font-style: italic;
+  }
+  .prose-content :global(blockquote p) {
+    margin: 0;
+  }
+  .prose-content :global(code) {
+    background: rgba(255, 255, 255, 0.1);
+    color: #e2e8f0;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-family: 'Fira Code', Consolas, Monaco, monospace;
+  }
+  .prose-content :global(pre) {
+    background: #0f172a !important;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 1.2rem;
+    overflow-x: auto;
+    margin: 1.6em 0;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+  .prose-content :global(pre code) {
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+    font-size: 0.92rem;
+    line-height: 1.6;
+  }
+  .prose-content :global(hr) {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 3em 0;
+  }
+  .prose-content :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.8em 0;
+  }
+  .prose-content :global(th),
+  .prose-content :global(td) {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0.75rem 1rem;
+    text-align: left;
+  }
+  .prose-content :global(th) {
+    background: rgba(255, 255, 255, 0.04);
+    font-weight: 600;
+    color: #f8fafc;
+  }
+
+  /* 目录侧边栏 */
+  .toc-sidebar {
+    position: sticky;
+    top: 90px;
+  }
+  .toc-card {
+    background: rgba(30, 41, 59, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.2rem 1.4rem;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+  }
+  .toc-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #94a3b8;
+    margin: 0 0 1rem;
+  }
+  .toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.88rem;
+  }
+  .toc-item {
+    margin-bottom: 0.5rem;
+  }
+  .toc-item.level-3 {
+    padding-left: 1rem;
+    font-size: 0.84rem;
+  }
+  .toc-item a {
+    color: #94a3b8;
+    text-decoration: none;
+    display: inline-block;
+    transition: color 0.15s, transform 0.15s;
+    line-height: 1.4;
+  }
+  .toc-item a:hover {
+    color: #38bdf8;
+    transform: translateX(2px);
+  }
+</style>

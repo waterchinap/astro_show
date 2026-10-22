@@ -1,0 +1,36 @@
+---
+interface Props {
+  slide: {
+    title?: string;
+    subtitle?: string;
+    background?: string;
+    backgroundColor?: string;
+    backgroundImage?: string;
+    transition?: string;
+    [key: string]: any;
+  };
+  config?: Record<string, any>;
+  index?: number;
+}
+
+const { slide = {} } = Astro.props;
+const {
+  title = '',
+  subtitle = '',
+  background,
+  backgroundColor,
+  backgroundImage,
+  transition,
+} = slide;
+
+---
+
+<section
+  data-background-color={backgroundColor || background}
+  data-background-image={backgroundImage}
+  data-transition={transition}
+>
+    {title && <h1>{title}</h1>}
+    {subtitle && <h4 class="r-stretch">{subtitle}</h4>}
+</section>
+
