@@ -29,6 +29,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "三峡水库水位突破175米 重庆巫山护航黄金水道通行安全",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-23/U1129P4T8D10719823F107DT20261023171409.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南镇平五垛山秋景如画",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-23/U1129P4T8D10719819F107DT20261023170834.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "河南林州：深秋红旗渠畔层林尽染",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/7fb2a096-82a6-4f8a-989c-df0259f29fff_zsite.jpg",
         "subtitle": "  "
@@ -311,22 +327,6 @@
       "slide": {
         "title": "北京顺义：中国国际医疗器械博览会吸引参观者",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-22/U1129P4T8D10719110F107DT20261022160324.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "全国油画与纸本艺术品保护修复展览在渝开幕 展出修复案例33项",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261022/b6b4fcc0-f5fa-4ab9-899e-ecb274a8e0aa_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "杨瀚森NBA新赛季首秀5分2篮板 开拓者主场大胜太阳",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-22/U574P4T8D10719053F107DT20261022150029.jpg",
         "subtitle": "  "
       }
     }
