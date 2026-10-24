@@ -13,6 +13,118 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "新疆沙雅县：金秋胡杨引客来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/4d23d6c8-824d-49f7-a6f8-dcc36dd9020d_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中超联赛：武汉三镇主场不敌山东泰山",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720492F107DT20261024212342.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国游泳锦标赛（25米）：徐嘉余打破男子100米仰泳亚洲纪录",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720491F107DT20261024205700.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720485F107DT20261024204333.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河北任丘抢抓农时迎丰收",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/e965ff0d-306a-41df-9307-2c53541621b9_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "世界摄影人相聚浙江丽水 共赴光影之约",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/6e947439-e98b-4944-852f-6e4adb08dcbf_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "内蒙古草原小城秋末迎降雪 市民尽享雪趣",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/2841c8e6-6e92-4933-a4b4-930062b19060_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西农博会萌宠主题馆萌趣不断 “可逛可买可体验”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/dd155f44-3f6a-443e-921b-61f6322c5cfd_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“冀南棉海”采收忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/27b3a97a-3f3e-48ff-a8ad-4eb5d7bcaad2_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026赛季中超联赛：河南俱乐部彩陶坊3比4负于北京国安",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720453F107DT20261024200706.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“阅·见中国”中国文化交流体验活动在韩国首尔举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720448F107DT20261024192335.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福州各界缅怀吴石等在台牺牲英烈",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/05297993-deb1-4a0d-94d2-608db6309bd1_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第140届广交会第二期：东方美学饰品“圈粉”采购商",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/6323a28d-614c-4c52-945d-5d974342eeca_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "粤港澳大湾区移民管理研讨会在广州举办",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/7717e7a4-ae86-43a0-99d4-a9015b9cb4aa_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "第140届广交会第二期：境外采购商扎堆“看房”",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/892720a2-53cb-43ac-8206-832b2aca56fa_zsite.jpg",
         "subtitle": "  "
@@ -94,7 +206,7 @@
       "template": "ImgTitle",
       "slide": {
         "title": "探访西藏巴青7.0级地震安置现场",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720337F107DT20261024153149.jpg",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/10-24/U1066P4T8D10720337F107DT20261024153149.jpg",
         "subtitle": "  "
       }
     },
@@ -215,118 +327,6 @@
       "slide": {
         "title": "2026年全国游泳锦标赛（25米）：中国香港选手陈梓瑜亮相女子100米仰泳半决赛",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720233F107DT20261024104750.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“抖摄”实验作品联展《瞬间的褶皱》亮相丽水世界摄影人大会",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720226F107DT20261024104007.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "《追逐大力神》——刘占崑世界杯摄影精品展亮相2026世界摄影人大会",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720216F107DT20261024102124.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子1500米自由泳冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720206F107DT20261024100649.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：李冰洁获得女子400米自由泳冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720201F107DT20261024095751.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "直击西藏巴青7.0级地震一线",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/313e8141-fe87-44e7-991d-b582382dcc36_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米个人混合泳冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720191F107DT20261024091629.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福建永定：客家乡村如“金色海洋”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/cc550ae2-2074-4c22-b5bf-bc5cc2b6d24e_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南老界岭霜降时节现绝美云海",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/c8e21e57-425f-438c-a7e2-43165bf5a0c8_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "海外华文媒体探访“非遗古茶”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/f1363dde-f5fa-4efe-ba3b-df4f7c48a648_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "在博物馆对话长城本体 中国长城博物馆焕新亮相",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-23/U992P4T8D10720085F107DT20261023214756.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "35位中外学子在成都体验薛涛笺制作技艺 感受巴蜀文化魅力",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/fd7c1a4c-8989-4f08-8628-345920a028d2_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年青海省“国际雪豹日”主场活动举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/78062adf-b224-48ea-ba46-636ae0189586_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "学科专业与岗位需求精准对接 东南大学秋季双选会启动",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/0fc6e1b0-6e2f-4656-884d-5a2ae2ee2551_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山东荣成：秋日盐田丰收忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/98fe74d8-19a7-4f48-8c6c-2ab6f25782ff_zsite.jpg",
         "subtitle": "  "
       }
     }
