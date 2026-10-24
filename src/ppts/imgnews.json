@@ -7,7 +7,47 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-10-23"
+        "subtitle": "2026-10-24"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米个人混合泳冠军",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720191F107DT20261024091629.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福建永定：客家乡村如“金色海洋”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/cc550ae2-2074-4c22-b5bf-bc5cc2b6d24e_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南老界岭霜降时节现绝美云海",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/c8e21e57-425f-438c-a7e2-43165bf5a0c8_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "海外华文媒体探访“非遗古茶”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/f1363dde-f5fa-4efe-ba3b-df4f7c48a648_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "在博物馆对话长城本体 中国长城博物馆焕新亮相",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-23/U992P4T8D10720085F107DT20261023214756.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -287,46 +327,6 @@
       "slide": {
         "title": "CBA常规赛：山西主场力克上海 送卫冕冠军赛季首败",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-23/U1129P4T8D10719557F107DT20261023102606.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "两岸媒体人参访世纪工程 感受广西发展脉动",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/dcf2bae2-6c8f-4ba4-83a0-7e4f8ed33874_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西举行纪念中国工农红军长征胜利90周年交响音乐会",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261023/0b520d53-61cc-49c0-9794-271e80ef96c2_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "台商台企代表探访广西最大侨乡玉林",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-23/U1129P4T8D10719515F107DT20261023091911.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "援柬埔寨中国医疗队为当地民众带来健康福祉",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/10-23/U1129P4T8D10719505F107DT20261023115357.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【诗画中国】画里赏金秋 诗中庆丰年",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-23/U1066P4T8D10719504F107DT20261023090358.jpg",
         "subtitle": "  "
       }
     }
