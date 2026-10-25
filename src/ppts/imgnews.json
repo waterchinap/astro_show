@@ -7,7 +7,15 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-10-24"
+        "subtitle": "2026-10-25"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国游泳锦标赛（25米）：彭旭玮获得女子100米仰泳冠军",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-25/U992P4T8D10720571F107DT20261025092720.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -319,14 +327,6 @@
       "slide": {
         "title": "2026年全国游泳锦标赛（25米）：徐嘉余晋级男子100米仰泳决赛",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720234F107DT20261024105559.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：中国香港选手陈梓瑜亮相女子100米仰泳半决赛",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-24/U1066P4T8D10720233F107DT20261024104750.jpg",
         "subtitle": "  "
       }
     }
