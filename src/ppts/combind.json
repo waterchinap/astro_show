@@ -14,7 +14,532 @@
       "template": "TitleContent",
       "slide": {
         "title": "东方财富即时信息",
-        "content": "2026-10-25 15:20:00"
+        "content": "2026-10-25 18:06:01"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美国桂格麦片一工厂爆炸起火",
+        "content": "2026-10-25 18:06:01"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "俄方称愿在11月4日后恢复俄美乌三方谈判",
+        "content": "2026-10-25 17:47:51"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "十大机构论市：“深V”阻断负向反馈 拒绝恐慌、迎接反弹",
+        "content": "2026-10-25 17:40:17"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "三利谱：拟将1490mm宽幅偏光片生产线迁移至莆田三利谱现有厂区 项目总投资约5亿元",
+        "content": "2026-10-25 17:24:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "纳尔股份：拟回购注销1.95万股限制性股票",
+        "content": "2026-10-25 17:00:41"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "沙特领导的联军称 沙特拦截了也门胡塞武装向南部地区发射的10枚弹道导弹",
+        "content": "2026-10-25 16:54:38"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "高盛将韩国Kospi指数12个月目标价下调25% 因对AI交易担忧加剧",
+        "content": "2026-10-25 16:49:01"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华瓷股份：第三季度净利润3902.36万元 同比下降43.6%",
+        "content": "2026-10-25 16:47:28"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "伊朗议会议长：伊朗人民不会屈服于美国",
+        "content": "2026-10-25 16:35:28"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "科瑞思：拟购买宏钢光电100%股份 股票复牌",
+        "content": "2026-10-25 16:34:43"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "金溢科技：子公司签署两笔采购合同 采购算力服务器相关配件",
+        "content": "2026-10-25 16:29:28"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "ST易购：部分董高及核心业务骨干拟增持不低于220万元股份",
+        "content": "2026-10-25 16:28:03"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "永利股份：第三季度归母净利润6450.45万元 同比增长30.06%",
+        "content": "2026-10-25 16:27:49"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华神科技：向特定对象发行股票申请获证监会同意注册批复",
+        "content": "2026-10-25 16:25:12"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "民德电子：向特定对象发行股票获证监会同意注册批复",
+        "content": "2026-10-25 16:25:08"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "天振股份：第三季度归母净利润3671.04万元 同比增长2.67%",
+        "content": "2026-10-25 16:21:42"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "百利天恒：双抗ADC新药上市申请获受理",
+        "content": "2026-10-25 16:21:13"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "百利天恒：T-Bren III期临床试验达主要终点",
+        "content": "2026-10-25 16:21:10"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "金价一周跌去超3% 下跌背后有三大推手",
+        "content": "2026-10-25 16:18:01"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中光防雷：前三季度净利润同比增长17.32%",
+        "content": "2026-10-25 16:17:54"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美利云：第三季度归母净利润1914.1万元 同比增长53.65%",
+        "content": "2026-10-25 16:16:59"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华尔泰：第三季度净利润同比下降300.88%",
+        "content": "2026-10-25 16:16:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "弘亚数控：第三季度净利润同比增长0.46%",
+        "content": "2026-10-25 16:16:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "漫步者：前三季度净利润同比增长13.37%",
+        "content": "2026-10-25 16:10:48"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美国佛罗里达州枪击事件11人中枪",
+        "content": "2026-10-25 16:09:33"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "郑中设计：第三季度归母净利润5213.87万元 同比增长26.09%",
+        "content": "2026-10-25 16:07:33"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "三利谱：拟投资5亿元迁移产线并升级改造",
+        "content": "2026-10-25 16:06:21"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "洁美科技：前三季度净利润同比增长26.93%",
+        "content": "2026-10-25 16:06:16"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "大连电瓷：前三季度净利润同比增长144.35%",
+        "content": "2026-10-25 16:06:12"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "万里石：前三季度净利润同比增长3682.08%",
+        "content": "2026-10-25 16:06:07"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "金溢科技：全资子公司签署2.18亿元算力服务器配件采购合同",
+        "content": "2026-10-25 16:06:03"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "罗普斯金：拟2.07亿元收购盟萤科技51%股权",
+        "content": "2026-10-25 16:05:40"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "大洋生物：第三季度归母净利润1087.87万元 同比下降63.16%",
+        "content": "2026-10-25 16:00:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "弘亚数控：第三季度归母净利润9742.15万元 同比增长0.46%",
+        "content": "2026-10-25 16:00:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "贤丰控股：第三季度归母净利润同比增长3315.14%",
+        "content": "2026-10-25 16:00:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "德明利：第三季度净利润同比增长2903% 环比增长2%",
+        "content": "2026-10-25 15:59:41"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "新莱福：第三季度归母净利润4283.31万元 同比增长15.01%",
+        "content": "2026-10-25 15:58:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "山东路桥：第三季度归母净利润3.18亿元 同比下降16.56%",
+        "content": "2026-10-25 15:56:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华瓷股份：第三季度归母净利润3902.36万元 同比下降43.6%",
+        "content": "2026-10-25 15:56:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "康冠科技：第三季度归母净利润1.95亿元 同比增长64.02%",
+        "content": "2026-10-25 15:56:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "东莞控股：第三季度归母净利润2.7亿元 同比下降10.92%",
+        "content": "2026-10-25 15:54:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "宏景科技：第三季度归母净利润1.75亿元 同比增长269.68%",
+        "content": "2026-10-25 15:54:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "国元证券：第三季度归母净利润3.79亿元 同比下降37.83%",
+        "content": "2026-10-25 15:54:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "天齐锂业：第三季度净利润同比增长1324% 环比下降42%",
+        "content": "2026-10-25 15:54:09"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "天原股份：第三季度净利润同比增长305.80%",
+        "content": "2026-10-25 15:54:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "贝肯能源：第三季度净利润同比下降128.30%",
+        "content": "2026-10-25 15:54:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "锡业股份：第三季度归母净利润10.65亿元 同比增长55.88%",
+        "content": "2026-10-25 15:50:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中信证券：AI势头回落并非牛熊分界",
+        "content": "2026-10-25 15:49:03"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "獐子岛：第三季度归母净利润1997.74万元 同比增长146.98%",
+        "content": "2026-10-25 15:48:07"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "瑞立科密：第三季度归母净利润1.18亿元 同比增长23.26%",
+        "content": "2026-10-25 15:48:07"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "锦鸡股份：第三季度归母净利润1411.77万元 同比增长223.74%",
+        "content": "2026-10-25 15:48:06"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "光迅科技：第三季度归母净利润7.02亿元 同比增长102.62%",
+        "content": "2026-10-25 15:48:06"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "礼来：靶向抗癌药物Olomorasib在一线非小细胞肺癌中显示出持久活性",
+        "content": "2026-10-25 15:48:03"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "三峡旅游：第三季度归母净利润5896.08万元 同比增长165.05%",
+        "content": "2026-10-25 15:47:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "大博医疗：第三季度归母净利润1.18亿元 同比下降34.59%",
+        "content": "2026-10-25 15:45:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "博盈特焊：第三季度归母净利润1459.67万元 同比增长40.35%",
+        "content": "2026-10-25 15:45:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华鑫股份：筹划控股股东变更事项 股票停牌",
+        "content": "2026-10-25 15:45:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "秋收进度快于上年 新技术新品种助提质增效",
+        "content": "2026-10-25 15:44:17"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "德明利：第三季度归母净利润27.29亿元 同比增长2902.75%",
+        "content": "2026-10-25 15:43:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华鑫股份：筹划控股股东变更 股票停牌",
+        "content": "2026-10-25 15:41:53"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "高争民爆：筹划发行股份购买资产等事项 股票停牌",
+        "content": "2026-10-25 15:41:39"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "钧崴电子：第三季度归母净利润5324.41万元 同比增长15.92%",
+        "content": "2026-10-25 15:41:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "北路智控：实控人提议回购2500万元-3000万元公司股份",
+        "content": "2026-10-25 15:41:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "东方雨虹：第三季度归母净利润4417.54万元 同比下降81.99%",
+        "content": "2026-10-25 15:41:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "天齐锂业：第三季度归母净利润13.6亿元 同比增长1323.97%",
+        "content": "2026-10-25 15:41:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "马来西亚总理表示 软银集团董事长孙正义计划在马来西亚进行500亿美元科技投资",
+        "content": "2026-10-25 15:40:32"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "天原股份：前三季度净利润同比增长753.11%",
+        "content": "2026-10-25 15:40:04"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "凤凰航运：第三季度归母净利润1756.76万元 同比增长130.9%",
+        "content": "2026-10-25 15:39:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华盛锂电：第三季度归母净利润3.13亿元，同比增长800.58%",
+        "content": "2026-10-25 15:39:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "九芝堂：前三季度净利润同比增长100.33%",
+        "content": "2026-10-25 15:38:37"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "高能环境：证券简称将变更为“高能时代”",
+        "content": "2026-10-25 15:35:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "伊朗军方称击落一架美国无人机",
+        "content": "2026-10-25 15:35:24"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "新益昌：前三季度净利润同比增长778.55%",
+        "content": "2026-10-25 15:34:49"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华能水电：拟87.01亿元收购控股股东所持HNYL公司100%股权",
+        "content": "2026-10-25 15:33:23"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "兴发集团：控股股东全资子公司拟增持1亿元至1.2亿元股份",
+        "content": "2026-10-25 15:32:11"
       }
     },
     {
@@ -193,535 +718,42 @@
       }
     },
     {
-      "template": "TitleContent",
-      "slide": {
-        "title": "浙江调整防台风应急响应为Ⅳ级",
-        "content": "2026-10-25 11:30:20"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "沙特首都传出巨响",
-        "content": "2026-10-25 11:09:56"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "蓝皮书：数字人直播加速普及 AI数字人市场规模达52.4亿元",
-        "content": "2026-10-25 11:09:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "64家科创板公司披露三季报 净利润同比增长超九成",
-        "content": "2026-10-25 10:48:38"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "瓦努阿图发生6.1级地震",
-        "content": "2026-10-25 10:48:37"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "自然资源部海啸预警中心：本次地震不会引发海啸",
-        "content": "2026-10-25 10:33:53"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "江苏：前三季度GDP同比增长5.2%",
-        "content": "2026-10-25 10:29:43"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "日本小笠原群岛附近海域发生7.0级地震",
-        "content": "2026-10-25 10:29:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "不应继续悲观！下周哪些方向最可能“超跌反弹”？",
-        "content": "2026-10-25 10:28:29"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "日本小笠原群岛地区附近发生6.8级左右地震",
-        "content": "2026-10-25 10:19:31"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "64家科创板公司已披露三季报 前三季度净利润同比增长逾90%",
-        "content": "2026-10-25 10:18:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "宁夏引黄灌区2026年度冬灌工作启动",
-        "content": "2026-10-25 09:59:21"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "10月25日上海地铁全网络各线路执行正常运营计划",
-        "content": "2026-10-25 09:58:38"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "马斯克称乌曾违规使用“星链”发动进攻",
-        "content": "2026-10-25 09:45:55"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "标普出台新规 调整成长股和价值股的划分规则 3750亿美元基金将受影响",
-        "content": "2026-10-25 09:44:08"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美股财报季高潮来了！AI交易能否顶住美联储压力",
-        "content": "2026-10-25 09:22:42"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "冲突升级！胡塞武装对沙特发起多次袭击 目标直指能源设施和机场",
-        "content": "2026-10-25 09:04:10"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "提醒：欧洲多国开始实施冬令时",
-        "content": "2026-10-25 08:50:33"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "西藏那曲市巴青县发生3.2级地震",
-        "content": "2026-10-25 08:49:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "澳门三展联动 搭建多元产业交流合作平台",
-        "content": "2026-10-25 08:43:09"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "沙特主导联军称在利雅得拦截一架无人机",
-        "content": "2026-10-25 08:41:51"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "生态环境部就地下水污染防治重点区管理征求意见",
-        "content": "2026-10-25 08:40:20"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "日本宫崎县日向滩发生5.3级地震",
-        "content": "2026-10-25 08:14:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "靳伟任湖南省委副书记",
-        "content": "2026-10-25 08:12:27"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "国家海洋预报台根据《海洋灾害应急预案》发布海浪黄色警报",
-        "content": "2026-10-25 08:10:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "从单品到成套供给 广交会家居外贸跑出增长新曲线",
-        "content": "2026-10-25 08:08:17"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "本周港股通成交活跃股净买入排行出炉 腾讯控股获净买入超12亿港元",
-        "content": "2026-10-25 08:00:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中央气象台10月25日6时继续发布台风蓝色预警",
-        "content": "2026-10-25 07:46:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伊朗总统指责美国未能与伊朗达成协议",
-        "content": "2026-10-25 07:42:33"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "台风预警持续！“蔷琵”拐弯强度减弱 江浙沿海仍有大风",
-        "content": "2026-10-25 07:30:25"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中信证券：AI融资热潮下 CDS利差透露什么信号？",
-        "content": "2026-10-25 07:21:22"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "法国内政部长：警方在示威活动中逮捕近千人",
-        "content": "2026-10-25 07:17:42"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开",
-        "content": "2026-10-25 07:15:32"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "20类物资陆续运抵、电力全面恢复 西藏巴青地震救援最新进展",
-        "content": "2026-10-25 06:58:50"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "歼-15T有何独家优势？全球仅此一款“滑弹一体”舰载机",
-        "content": "2026-10-25 06:46:39"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "时间已敲定 俄乌局部同步停火能否成为打破僵局契机？",
-        "content": "2026-10-25 06:38:58"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "台风预警持续！“蔷琵”强度减弱 江浙沿海仍有大风",
-        "content": "2026-10-25 06:26:52"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
-        "content": "2026-10-25 06:25:42"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "泽连斯基：各方已就阿列什基人道主义行动达成协议",
-        "content": "2026-10-25 06:24:57"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "“六年暴涨近百倍”！国产“钢铁巨兽”迎来爆发期",
-        "content": "2026-10-25 06:15:55"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
-        "content": "2026-10-25 06:03:03"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "长期限大额存单密集上新 银行负债逻辑生变",
-        "content": "2026-10-25 05:43:09"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "又一省份加入提前偿债行列 多地算起了“省息账”",
-        "content": "2026-10-25 05:31:57"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伊拉克北部一处伊朗库尔德反对派营地遭无人机袭击",
-        "content": "2026-10-25 05:20:02"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "也门胡塞武装称沙特一天内发动百次空袭",
-        "content": "2026-10-25 05:18:06"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美司法部要求加州官员核查选民身份 不配合者或将遭审查",
-        "content": "2026-10-25 05:11:03"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加",
-        "content": "2026-10-25 04:56:45"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首",
-        "content": "2026-10-25 04:45:46"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
-        "content": "2026-10-25 04:31:12"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "大买家与大卖家：39.94万亿中的双向机遇",
-        "content": "2026-10-25 04:18:17"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "南方区域电力市场正式运行 全球最大“电力超市”开业",
-        "content": "2026-10-25 04:04:30"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "爱奇艺AIGC（大湾区）创意中心正式落地广州",
-        "content": "2026-10-25 03:50:40"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "实控人出借5000万“输血”华神科技",
-        "content": "2026-10-25 03:35:14"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
-        "content": "2026-10-25 03:25:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "加速新品研发节奏 茶百道秋季新品累计销量超3000万杯",
-        "content": "2026-10-25 03:05:58"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "煤市“淡季不淡”！中国神华第三季度营收超千亿 创同期新高",
-        "content": "2026-10-25 02:51:21"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "俄乌将为奥列什基人道主义行动同步停火",
-        "content": "2026-10-25 02:40:41"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "尼日利亚一社区遭武装分子袭击 至少37人死亡",
-        "content": "2026-10-25 02:35:59"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "法国内政部长：警方在示威活动中逮捕近千人",
-        "content": "2026-10-25 02:30:21"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "OpenAI批量生成数学研究手稿引发争议 AI抢了数学家饭碗？国内校企这样“接招”",
-        "content": "2026-10-25 02:10:34"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
-        "content": "2026-10-25 01:50:29"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "俄称打击乌能源等设施 乌称打击俄集结区",
-        "content": "2026-10-25 01:31:39"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "葡萄牙多个城市举行示威游行和民众集会",
-        "content": "2026-10-25 01:30:55"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "巴勒斯坦谴责以军强驱希伯伦平民 呼吁国际社会采取威慑措施",
-        "content": "2026-10-25 01:22:48"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
-        "content": "2026-10-25 01:09:08"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伦康依隆妥单抗III期研究登上《柳叶刀》 HR+/HER2-乳腺癌实现无进展生存期翻倍",
-        "content": "2026-10-25 00:54:16"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "云汉芯城三季度净利最高预增613%！股价近期大涨",
-        "content": "2026-10-25 00:30:03"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "法国示威活动致多地文化场所临时关闭",
-        "content": "2026-10-25 00:25:13"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "泽连斯基：不会为结束冲突放弃更多领土",
-        "content": "2026-10-25 00:09:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "全国统一电力市场体系建设取得重大突破 我国首个区域电力市场 “转正”",
-        "content": "2026-10-25 00:00:43"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "兆丰股份拟在韩国设立全资子公司 投建海外生产基地 总投资额不超2800万美元",
-        "content": "2026-10-24 23:55:37"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "也门胡塞武装称打击亚丁沙特军事目标",
-        "content": "2026-10-24 23:37:51"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "日本拟就修订“安保三文件”采取差异化宣传引担忧",
-        "content": "2026-10-24 23:25:44"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "“双11”前夕 Swisse抗糖丸因铅超标被召回",
-        "content": "2026-10-24 23:22:13"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美国驻阿联酋大使馆表示可能会实施人员调整",
-        "content": "2026-10-24 23:02:46"
-      }
-    },
-    {
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
         "subtitle": "2026-10-25"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（结图纪事）走进贵州都匀",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-25/U992P4T8D10720729F107DT20261025171634.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "四川成都：菊花展引客来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/86bfa5ee-5308-4286-a2cc-02ea3a7a6a76_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026上合组织农业博览会在陕西杨凌开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/948a03a0-3a75-4174-8ccc-b38f415a2c65_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "漫步雄安新区 感受“千年之城”新韵",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/bf9fafad-465a-47bb-96e6-d74de804e766_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -801,6 +833,14 @@
       "slide": {
         "title": "云南省第十三届少数民族传统体育运动会开幕",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/c789e29f-dbbb-450c-8a0a-0020d23d5421_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "《台湾光复纪念日》纪念邮票发行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/e0990852-b918-4e4d-95b3-124e8524460b_zsite.JPG",
         "subtitle": "  "
       }
     },
@@ -1001,46 +1041,6 @@
       "slide": {
         "title": "福州各界缅怀吴石等在台牺牲英烈",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/05297993-deb1-4a0d-94d2-608db6309bd1_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第140届广交会第二期：东方美学饰品“圈粉”采购商",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/6323a28d-614c-4c52-945d-5d974342eeca_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "粤港澳大湾区移民管理研讨会在广州举办",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/7717e7a4-ae86-43a0-99d4-a9015b9cb4aa_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第140届广交会第二期：境外采购商扎堆“看房”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/892720a2-53cb-43ac-8206-832b2aca56fa_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第十七届中国长江三峡国际旅游节文艺交流展演在渝举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/2fa750f7-1e32-4282-b5a3-902930ba12ee_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026世界网联世界网球巡回赛青少年年终总决赛：中国选手孙心然晋级决赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/242c5bcb-d292-43ff-8991-a41dd2346114_zsite.JPG",
         "subtitle": "  "
       }
     }

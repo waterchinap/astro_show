@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "（结图纪事）走进贵州都匀",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-25/U992P4T8D10720729F107DT20261025171634.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "四川成都：菊花展引客来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/86bfa5ee-5308-4286-a2cc-02ea3a7a6a76_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026上合组织农业博览会在陕西杨凌开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/948a03a0-3a75-4174-8ccc-b38f415a2c65_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "漫步雄安新区 感受“千年之城”新韵",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/bf9fafad-465a-47bb-96e6-d74de804e766_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "视障人士在三峡文物科技保护基地“看见”历史",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/c5514508-4aab-4ac4-9802-9bd7601551fd_zsite.jpg",
         "subtitle": "  "
@@ -87,6 +119,14 @@
       "slide": {
         "title": "云南省第十三届少数民族传统体育运动会开幕",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/c789e29f-dbbb-450c-8a0a-0020d23d5421_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "《台湾光复纪念日》纪念邮票发行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/e0990852-b918-4e4d-95b3-124e8524460b_zsite.JPG",
         "subtitle": "  "
       }
     },
@@ -287,46 +327,6 @@
       "slide": {
         "title": "福州各界缅怀吴石等在台牺牲英烈",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/05297993-deb1-4a0d-94d2-608db6309bd1_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第140届广交会第二期：东方美学饰品“圈粉”采购商",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/6323a28d-614c-4c52-945d-5d974342eeca_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "粤港澳大湾区移民管理研讨会在广州举办",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/7717e7a4-ae86-43a0-99d4-a9015b9cb4aa_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第140届广交会第二期：境外采购商扎堆“看房”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/892720a2-53cb-43ac-8206-832b2aca56fa_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第十七届中国长江三峡国际旅游节文艺交流展演在渝举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/2fa750f7-1e32-4282-b5a3-902930ba12ee_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026世界网联世界网球巡回赛青少年年终总决赛：中国选手孙心然晋级决赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261024/242c5bcb-d292-43ff-8991-a41dd2346114_zsite.JPG",
         "subtitle": "  "
       }
     }
