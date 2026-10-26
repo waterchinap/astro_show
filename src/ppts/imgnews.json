@@ -13,6 +13,54 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "海内外6000余种蔬菜鲜果亮相河南郑州",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261026/7107cad1-8a8d-4a9d-8a1b-63ba2282a900_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026世界旅游小姐中国区总决赛在广西宁明上演",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261026/4f309b36-ae80-46c3-92f7-af8ebcd8f470_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026桂林艺术节：梦游仙境音乐节火热上演",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261026/af1d7611-efd4-4ce4-b20f-86f3458d7137_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "日本前首相福田康夫去世 终年90岁",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U574P4T8D10721060F107DT20261026132741.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "山东荣成：碧海金秋捕参忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261026/9c940047-397c-470d-ade8-2dcc313ad52a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州六盘水：秋意渐浓 山水怡人",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261026/a58c6489-82bb-44fc-ab60-4024eb817224_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "“华夏遇见·诗琳画卷——光明行·锦绣章 李小琳诗书画展”走进四川成都",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-26/U1132P4T8D10721003F107DT20261026105916.jpg",
         "subtitle": "  "
@@ -279,54 +327,6 @@
       "slide": {
         "title": "三峡水库完成年度175米蓄水 沿江小镇再现高峡平湖美景",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/5f949d55-7016-49bb-9051-aa219c8e6198_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西柳州：武警官兵开展实战化战术训练",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/70148e71-988c-4ced-af6a-d1e5fd2d7a4e_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "两岸书画家安徽挥毫泼墨忆先贤",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/cc314c5b-3271-46b2-8c31-020f1d2120cc_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026天津马拉松开跑 3万跑者金秋遇见天津",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/9c4e7203-7c7a-438b-8be4-e8e101ec092a_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026成都马拉松比赛鸣枪开跑",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/ce9bcca9-020e-4517-87f0-60a865491372_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026成都马拉松鸣枪开跑 35000名跑者齐聚赛道",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/05cf8363-8a0c-4af3-81a1-dba5a4764df8_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "海外华媒走进三峡工程 感受“中国力量”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/b30f4d08-9c58-47df-957a-6b1e06ed6ead_zsite.jpg",
         "subtitle": "  "
       }
     }
