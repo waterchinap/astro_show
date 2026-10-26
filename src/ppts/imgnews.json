@@ -13,6 +13,14 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "首届CMG世界机器人登泰山大赛排位赛开赛",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-26/U1132P4T8D10721189F107DT20261026164319.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "海内外6000余种蔬菜鲜果亮相河南郑州",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261026/7107cad1-8a8d-4a9d-8a1b-63ba2282a900_zsite.jpg",
         "subtitle": "  "
@@ -319,14 +327,6 @@
       "slide": {
         "title": "视障人士在三峡文物科技保护基地“看见”历史",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/c5514508-4aab-4ac4-9802-9bd7601551fd_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "三峡水库完成年度175米蓄水 沿江小镇再现高峡平湖美景",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261025/5f949d55-7016-49bb-9051-aa219c8e6198_zsite.jpg",
         "subtitle": "  "
       }
     }
