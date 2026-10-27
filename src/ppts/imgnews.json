@@ -13,6 +13,30 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "贵州从江：油茶丰收 产业富民",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/6ef113b7-8263-47a5-aba5-0ee098a4f31c_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访四川省人形机器人训练场",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/e8c72d80-1532-4623-86ee-fd80c53d1048_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "逾340家展商汇聚香港第21届国际环保博览 展示环球绿色科技",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-27/U1132P4T8D10721591F107DT20261027141318.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "甘肃省博物馆里有座“动物秘境” 八百件标本展现陇原生物之美",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/d20baa5b-d1b1-48a8-9e87-16bd99ea07d8_zsite.jpg",
         "subtitle": "  "
@@ -303,30 +327,6 @@
       "slide": {
         "title": "CBA常规赛：辽宁本钢主场胜新疆广汇能源",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U893P4T8D10720930F107DT20261026102925.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "巴西总统选举开启第二轮投票",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U574P4T8D10720901F107DT20261026082021.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：唐钱婷获得女子100米蛙泳冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U574P4T8D10720897F107DT20261026081312.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：汪顺晋级男子100米个人混合泳决赛",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U574P4T8D10720893F107DT20261026080715.jpg",
         "subtitle": "  "
       }
     }
