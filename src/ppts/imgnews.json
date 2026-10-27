@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "甘肃省博物馆里有座“动物秘境” 八百件标本展现陇原生物之美",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/d20baa5b-d1b1-48a8-9e87-16bd99ea07d8_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "科尔沁沙地：沙湖秋末迎候鸟 翩跹入画来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/3cec15ab-54ba-4045-8138-6561f2d4583a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "哈里·凯恩斩获2026年金球奖",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-27/U574P4T8D10721453F107DT20261027083014.jpg",
         "subtitle": "  "
@@ -311,22 +327,6 @@
       "slide": {
         "title": "2026年全国游泳锦标赛（25米）：汪顺晋级男子100米个人混合泳决赛",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U574P4T8D10720893F107DT20261026080715.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：潘展乐获得男子100米自由泳冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U574P4T8D10720891F107DT20261026080012.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：于子迪获得女子200米蝶泳冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-26/U574P4T8D10720888F107DT20261026075243.jpg",
         "subtitle": "  "
       }
     }
