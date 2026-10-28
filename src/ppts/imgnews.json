@@ -13,6 +13,70 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "云南省第十三届少数民族传统体育运动会：花炮赛场上演精彩对决",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/2b97d298-6c60-4e90-a6cf-97876c85b91b_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "澳大利亚向中方返还两件流失文物",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722196F107DT20261028152100.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福州菊展迎客来 千菊竞放绘秋景",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/4c66bbec-30c5-4411-bf45-608506f8a654_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "陕西西安：幸福林带秋色浓",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/b2c5127b-4783-4768-8000-a543b478d7cd_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "欧洲华文媒体探访长沙铜官窑 感受千年窑火传承",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722184F107DT20261028150116.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第四届临沂商城国际采购商大会在山东临沂开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/9edc7e7f-2ad6-43ee-8ac6-1c0f6a417161_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "年接卸能力将破2000万吨 江苏如东国家级能源岛建设如火如荼",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/cb64d755-0f86-4060-a13b-110f2f73712d_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "三峡库区蓄水至175米 重庆开州汉丰湖水满湖阔景致美",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722127F107DT20261028135246.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "江西南康“村超”开赛 赣黔两地选手绿茵“过招”",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722069F107DT20261028111706.jpeg",
         "subtitle": "  "
@@ -263,70 +327,6 @@
       "slide": {
         "title": "云南凤庆5000余亩荞花盛开引客来",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/b2782a6a-2fe6-466b-9957-9bcb6ac7e435_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第28届香港国际秋季灯饰展开幕 展示智能照明设备",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-27/U1132P4T8D10721724F107DT20261027164100.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州威宁：智能分选助力苹果精准分级销往海内外",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/f9ef261b-a373-49fd-b2c1-dcfce7b463c3_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山西太原：晋祠一雄一雌明代古银杏满树金黄",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/c3c901b9-708b-4008-8a1a-cab0191a6987_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "智利中部遭受龙卷风袭击 房屋受损严重",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-27/U1132P4T8D10721693F107DT20261027155230.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州从江：油茶丰收 产业富民",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/6ef113b7-8263-47a5-aba5-0ee098a4f31c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探访四川省人形机器人训练场",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/e8c72d80-1532-4623-86ee-fd80c53d1048_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "逾340家展商汇聚香港第21届国际环保博览 展示环球绿色科技",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-27/U1132P4T8D10721591F107DT20261027141318.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "甘肃省博物馆里有座“动物秘境” 八百件标本展现陇原生物之美",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/d20baa5b-d1b1-48a8-9e87-16bd99ea07d8_zsite.jpg",
         "subtitle": "  "
       }
     }
