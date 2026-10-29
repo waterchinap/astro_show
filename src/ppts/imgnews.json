@@ -13,6 +13,30 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "稻谷渐黄 福建南靖迎来秋日限定美景",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-29/U1132P4T8D10722808F107DT20261029162844.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河北任丘：传承百年的古建青砖制作技艺",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/def7c486-d04f-4a57-8b21-d05178776d25_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "香港网络安全攻防演练启动 冀提升网络安全应变能力",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/48744356-7656-4f62-8144-7c0076c1469b_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "山西屯留：深秋绛河碧水斑斓入画来",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/a816e89b-ca7d-4ea5-8120-d9d62416dc41_zsite.jpeg",
         "subtitle": "  "
@@ -303,30 +327,6 @@
       "slide": {
         "title": "深秋江西乡村稻田金黄 绘就丰收画卷",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/37d310c1-e562-4422-adaf-4922e3cc7a9d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福建顺昌“生态味”爱媛橙迎丰收",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/be090659-a112-40c8-b2e2-a615c8638610_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "青海西宁：冬储腌菜忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/e21444b5-401a-4a52-8b9d-b42e9619372a_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西三江油茶飘香侗韵浓",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/80272056-1abe-4b2f-b29f-3d82276f6c36_zsite.jpg",
         "subtitle": "  "
       }
     }
