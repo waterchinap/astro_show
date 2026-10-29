@@ -7,7 +7,63 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-10-28"
+        "subtitle": "2026-10-29"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "西班牙列车相撞已致68人死亡 直击救援现场",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-29/U855P4T8D10722522F107DT20261029083630.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国游泳锦标赛（25米）：唐钱婷获得女子50米蛙泳冠军",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-28/U1067P4T8D10722478F107DT20261028221556.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“AI+自动驾驶”技术 探访浙江桐乡无人车智造中心",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/0e107e4c-4d6c-4201-864f-d46136a035c6_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国游泳锦标赛（25米）：彭旭玮获得女子200米仰泳冠军",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-28/U1067P4T8D10722463F107DT20261028220011.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国游泳锦标赛（25米）：张展硕获得男子200米自由泳冠军",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-28/U1067P4T8D10722459F107DT20261028215411.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国游泳锦标赛（25米）：张雨霏获得女子50米自由泳冠军",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-28/U1067P4T8D10722454F107DT20261028214556.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广东高州迎来油茶果丰收",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/469ce560-8240-4116-8e16-95927d67c05d_zsite.jpeg",
+        "subtitle": "  "
       }
     },
     {
@@ -55,6 +111,14 @@
       "slide": {
         "title": "江西鄱阳湖陆续迎来候鸟越冬栖息",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/39539c37-cde3-4a0e-872b-82b2f066f952_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "翼翔东海展江海风华 新建沪宁合高铁南通站过渡站房投用",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/a0099939-aaf7-4539-9283-583e1a04cd46_zsite.jpg",
         "subtitle": "  "
       }
     },
@@ -263,70 +327,6 @@
       "slide": {
         "title": "年接卸能力将破2000万吨 江苏如东国家级能源岛建设如火如荼",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/cb64d755-0f86-4060-a13b-110f2f73712d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "三峡库区蓄水至175米 重庆开州汉丰湖水满湖阔景致美",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722127F107DT20261028135246.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西南康“村超”开赛 赣黔两地选手绿茵“过招”",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722069F107DT20261028111706.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "CBA常规赛：浙江队81比75战胜新疆队",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/e73e7cb9-466a-4116-ab7b-11f8d214bad9_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "走进江苏如东“镜观”城市生态新图景",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722010F107DT20261028100600.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“10后”中国小将孙心然收获广网首胜",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-28/U1132P4T8D10722008F107DT20261028094613.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第140届广交会第二期闭展 27.8万名境外采购商到会",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/e4569429-50cd-47ab-bd53-f4618af586e2_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【这个城市有点潮】河南安阳：三千年文明，如何“潮”出圈？",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/10-28/U893P4T8D10721999F107DT20261028094654.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州：“爱心厨房”暖了医院门口 百余份午餐免费送病患",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261027/9bab0677-0113-4975-9172-d0f5fc8aaa86_zsite.jpg",
         "subtitle": "  "
       }
     }
