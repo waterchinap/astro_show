@@ -7,7 +7,63 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-10-29"
+        "subtitle": "2026-10-30"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南洛阳：层林尽染小浪底 黄河秋景入画来",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/10-30/U992P4T8D10723124F107DT20261030092856.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "CBA常规赛：北京控股队战胜四川锦城队",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U855P4T8D10723096F107DT20261030074544.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "江西南昌：城市秋日花海“醉”迷人",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/978a3a2b-e349-457e-91a8-e2a56eb6af0f_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "山东仲村镇：小手套“织”出大产业 年产劳保手套60亿副",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/6d14663a-0496-4f2f-941d-838ede82ec80_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "杭州新添音乐空间 5000张黑胶唱片奏响老街",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/5820d085-bf01-4801-bbeb-9f07910bc685_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第九届新疆红十字应急救护大赛在乌鲁木齐举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/56d032a1-af48-4208-a269-dbbe3452bb9b_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国共产党第二十届中央委员会第五次全体会议在京举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-29/U992P4T8D10723015F107DT20261029215042.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -271,62 +327,6 @@
       "slide": {
         "title": "江西余干：鄱阳湖畔网箱养鳝管护忙",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/06ef6fcd-7e72-4255-88d5-5bdf208463dd_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "兰州百合迎采挖季",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/89ba75cc-e7d9-4f4c-a551-ae509189fc6c_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "西班牙列车相撞事故造成至少50人死亡 一列列车两节车厢脱轨坠落",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-28/U1067P4T8D10722450F107DT20261028212510.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "今日丝绸之路国际艺术邀请展吸引市民参观",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/13ef8ef4-1aa6-44e0-855b-f9757670313c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北青县：盐碱地上高粱红",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/7895d5e7-856f-4e89-9b30-d68fc42c838c_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西鄱阳湖陆续迎来候鸟越冬栖息",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/39539c37-cde3-4a0e-872b-82b2f066f952_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "翼翔东海展江海风华 新建沪宁合高铁南通站过渡站房投用",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/a0099939-aaf7-4539-9283-583e1a04cd46_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "雄安大学城疏解配套二期标段五项目主体结构全面封顶",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/8933a9e2-6ba1-4494-b73a-ad5fb0c9b2fb_zsite.JPG",
         "subtitle": "  "
       }
     }
