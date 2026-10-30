@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "中共中央举行新闻发布会 介绍和解读党的二十届五中全会精神",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/10-30/U1132P4T8D10723343F107DT20261030152238.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访河南开封州桥遗址",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261030/424181ce-1cc0-4c39-b604-ae4d5ec82fa9_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中欧班列（西安）今年以来累计开行超5000列",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261030/d48e0105-745b-430f-97a2-3a7e2d77e8fc_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "走进“中国城市里坊制度活化石”——福州三坊七巷历史文化街区",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261030/7c4ece31-2d54-4229-9087-94ad586b768e_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "赛事引流文旅升温 全国“村BA”在湖北咸丰收官",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261030/53537983-b8f0-480a-a129-0ccdc3981823_zsite.jpg",
         "subtitle": "  "
@@ -295,38 +327,6 @@
       "slide": {
         "title": "航拍长江下游开沙岛 草木斑斓绘就秋日生态画卷",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/1b334161-b042-4bff-bcfa-812a45289625_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "欧洲华媒橘子洲观“江天暮雪” 沉浸式感受湖湘文化美学",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/156a703d-e59f-4474-9664-f01373d63153_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "西班牙列车相撞已致68人死亡 直击救援现场",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-29/U855P4T8D10722522F107DT20261029083630.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国游泳锦标赛（25米）：唐钱婷获得女子50米蛙泳冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-28/U1067P4T8D10722478F107DT20261028221556.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“AI+自动驾驶”技术 探访浙江桐乡无人车智造中心",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261028/0e107e4c-4d6c-4201-864f-d46136a035c6_zsite.JPG",
         "subtitle": "  "
       }
     }
