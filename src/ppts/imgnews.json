@@ -7,7 +7,47 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-10-30"
+        "subtitle": "2026-10-31"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "日本民众举行抗议集会反对高市政府扩军修宪",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10723782F107DT20261031092809.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "赵乐际会见德国总统施泰因迈尔",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723662F107DT20261030221737.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平同德国总统施泰因迈尔会谈",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723661F107DT20261030220941.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平会见瑞士联邦主席帕姆兰",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723660F107DT20261030220731.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "合肥秋色次第铺展 水上“小提琴”层林尽染",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261030/2a14c3b5-06c6-4f3b-b754-69a06fa32a03_zsite.jpeg",
+        "subtitle": "  "
       }
     },
     {
@@ -287,46 +327,6 @@
       "slide": {
         "title": "中国—东盟职业院校学生在南宁比拼烹饪技能",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/85588bbe-f0ae-4d3b-9a0e-cb504043ceed_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探访任丘油气装备企业 深耕海洋井控装备研发",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/7b02b57d-1c04-4798-a90c-2ad3a8f4fbb9_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广东茂名探索“油茶+N”模式 拓宽林下收益",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/f26aabbc-b4e5-4c8a-8e20-e53ea5545244_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山东省—全北特别自治道庆祝结好20周年体育交流展演举办",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/0e04fc45-7514-4026-9add-9be8bad37a37_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福州：高架桥底遇见“三角梅银河”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/ae1305e9-5998-4856-9145-0d585bbdea74_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山西柳林：红高粱开镰 颗粒尽归仓",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261029/11220d14-1b32-4e7a-93c1-f57a29399acb_zsite.jpg",
         "subtitle": "  "
       }
     }
