@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "上海11月第一天最高气温27℃ 下周将迎阵雨降温",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/021670c3-68dc-4560-a7d0-d318edfab71c_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "沈阳秋假期间游客游览沈阳故宫",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/0bff2147-24b2-4338-a500-70fe67d94d76_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "江苏常熟：虞山古城墙西城楼阁吸引游客",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-01/U1067P4T8D10724273F107DT20261101140921.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "秋意浓 河北民众踏秋赏景",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/bea94217-c924-44eb-9a9a-d9c4ed14903b_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "湖北宜昌：1.6万跑者穿行“水电之都”",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/8f96d52e-18f2-4914-aed8-2943620f3bc1_zsite.jpg",
         "subtitle": "  "
@@ -295,38 +327,6 @@
       "slide": {
         "title": "“苏超”决赛即将打响 无锡常州争夺联赛桂冠",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/af9a3815-677d-4a68-9399-4b519686c540_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "莫斯科国立语言大学孔子学院庆祝成立15周年",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10723788F107DT20261031095100.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江苏常熟：以制造之力铸大国重器",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10723784F107DT20261031093743.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "日本民众举行抗议集会反对高市政府扩军修宪",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10723782F107DT20261031092809.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "赵乐际会见德国总统施泰因迈尔",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723662F107DT20261030221737.jpg",
         "subtitle": "  "
       }
     }
