@@ -7,7 +7,23 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-10-31"
+        "subtitle": "2026-11-01"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国航空产业大会开幕：数千架无人机点亮江西南昌夜空",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/82975404-777d-40f4-8ed3-0f8704fea1e2_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国发明创新成果亮相纽伦堡国际发明展",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-01/U1067P4T8D10724156F107DT20261101090840.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -311,22 +327,6 @@
       "slide": {
         "title": "中共全国政协党组召开会议 传达学习贯彻党的二十届五中全会精神 王沪宁主持并讲话",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723611F107DT20261030203528.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中国医疗队赴柬埔寨特本克蒙省中柬友谊医院开展义诊活动",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723599F107DT20261030202140.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "农村交通安全宣传走进平谷 警伴童行筑牢出行安全防线",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/10-30/U1067P4T8D10723594F107DT20261030200717.jpg",
         "subtitle": "  "
       }
     }
