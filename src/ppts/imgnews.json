@@ -13,8 +13,56 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "湖北宜昌：1.6万跑者穿行“水电之都”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/8f96d52e-18f2-4914-aed8-2943620f3bc1_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "云南省第十三届少数民族传统体育运动会在昆明闭幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/5478a027-afa5-432c-a7ca-bc42eb4183d6_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖（上海奖）颁奖活动在福州举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/0b0a673c-f6cb-4eea-983b-d841e23a84fa_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "桂北山村收稻忙  劳动场景与周边山水形成美丽画卷",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/14f056e7-c4a5-4723-933b-b863aa2469cd_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "妈祖故里湄洲岛上演湄洲女发髻技艺秀",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/d20d6d11-dff4-48ff-83a9-fe6324e19c53_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "2026中国航空产业大会开幕：数千架无人机点亮江西南昌夜空",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/82975404-777d-40f4-8ed3-0f8704fea1e2_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“苏超”决赛上演巅峰对决 无锡队战胜常州队夺冠",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/36d85b70-09f3-410c-b8f9-fd30fe7bafc9_zsite.jpg",
         "subtitle": "  "
       }
     },
@@ -279,54 +327,6 @@
       "slide": {
         "title": "赵乐际会见德国总统施泰因迈尔",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723662F107DT20261030221737.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平同德国总统施泰因迈尔会谈",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723661F107DT20261030220941.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见瑞士联邦主席帕姆兰",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723660F107DT20261030220731.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "合肥秋色次第铺展 水上“小提琴”层林尽染",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261030/2a14c3b5-06c6-4f3b-b754-69a06fa32a03_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福州：留学生泛舟内河 乐享“福水福船”闽都风韵",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261030/45ff12ea-8138-4298-ae4f-4dce187a2653_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“纪念中国工农红军长征胜利90周年文物联展”在北京开幕",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723615F107DT20261030205029.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中共全国政协党组召开会议 传达学习贯彻党的二十届五中全会精神 王沪宁主持并讲话",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-30/U1067P4T8D10723611F107DT20261030203528.jpg",
         "subtitle": "  "
       }
     }

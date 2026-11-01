@@ -7,7 +7,161 @@
             "template": "TitleContent",
             "slide": {
                 "title": "东方财富即时信息",
-                "content": "2026-11-01 09:18:10"
+                "content": "2026-11-01 12:25:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "蔚来公司1—10月交付33.45万台 同比增长38.5%",
+                "content": "2026-11-01 12:25:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "币安将于11月1日14:00至17:00期间恢复第一阶段提现服务",
+                "content": "2026-11-01 12:23:45"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "极氪10月交付32483辆 同比增长51.6%",
+                "content": "2026-11-01 12:00:12"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "广汽丰田10月销量同比下降25.95%",
+                "content": "2026-11-01 11:32:51"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "上汽通用五菱10月销量142757辆",
+                "content": "2026-11-01 11:22:11"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "零跑汽车：10月全球交付10.61万台 同比增长51%",
+                "content": "2026-11-01 11:21:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "东风本田10月终端销量同比降逾四成",
+                "content": "2026-11-01 11:18:11"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "1–10月韩企上市公司股份回购规模增467% 系三星电子与SK海力士带动",
+                "content": "2026-11-01 11:08:04"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "零跑汽车10月全球交付106127台 同比增长51%",
+                "content": "2026-11-01 11:06:50"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "特朗普称美国还需“处理”伊朗一两个目标",
+                "content": "2026-11-01 11:05:28"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "我国计划在2030年前实现登月",
+                "content": "2026-11-01 11:03:56"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "中国—秘鲁自贸协定升级议定书正式生效",
+                "content": "2026-11-01 11:02:50"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "“妈祖”海洋预报数值模式2.0版本正式发布",
+                "content": "2026-11-01 11:01:37"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "涉电动自行车3C认证、儿童用品强制性国标等 一批新规今起施行",
+                "content": "2026-11-01 10:56:04"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "高盛缘何大砍韩国股市预期25%？",
+                "content": "2026-11-01 10:55:08"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "小鹏汽车：10月共交付新车50237台 创单月交付量历史新高",
+                "content": "2026-11-01 10:28:44"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "10月北京二手住宅网签量同比增长8.2%",
+                "content": "2026-11-01 10:19:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "理想汽车10月交付29025辆汽车",
+                "content": "2026-11-01 10:16:36"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "冷空气进一步南下 江南西南多地开启降温模式",
+                "content": "2026-11-01 09:47:30"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "上汽MG：MG品牌10月全球新能源销量超8.5万台",
+                "content": "2026-11-01 09:39:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "乘联分会崔东树：中国主流车企在欧洲市场表现极其突出",
+                "content": "2026-11-01 09:30:50"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "美伊局势传来大消息！美国国务卿最新发声！",
+                "content": "2026-11-01 09:28:25"
             }
         },
         {
@@ -554,160 +708,6 @@
             "slide": {
                 "title": "商务部：积极做好扩消费稳外贸稳外资、多双边经贸合作等重点工作",
                 "content": "2026-10-31 18:38:00"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "奇瑞高管：解决国内车市盈利问题不能靠简单低价竞争",
-                "content": "2026-10-31 18:29:41"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "德国纽伦堡国际发明展聚焦绿色与智能创新",
-                "content": "2026-10-31 18:16:33"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "俄称打击乌基础设施 乌称击退俄进攻",
-                "content": "2026-10-31 18:10:12"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "11月1日起一批国家标准开始实施",
-                "content": "2026-10-31 18:04:53"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "上海首座外海大型灯浮完成抛设",
-                "content": "2026-10-31 17:56:50"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "长鑫科技：已与多家头部客户协商长期供货协议",
-                "content": "2026-10-31 17:44:46"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "印度取消汽油出口税 上调航空燃油和柴油出口税",
-                "content": "2026-10-31 17:43:30"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "伊朗媒体：两艘渔船遭“敌方”无人机袭击",
-                "content": "2026-10-31 17:36:42"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "原中国石油化工集团公司党组书记、董事长傅成玉接受审查调查",
-                "content": "2026-10-31 17:32:25"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "首款国产新能源公务机已进入研发周期",
-                "content": "2026-10-31 17:29:38"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "伊朗军方：若美国再采取冒险行动 战火必将蔓延",
-                "content": "2026-10-31 17:20:32"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "今年前三季度东北地区货物贸易进出口超9900亿元 创历史同期新高",
-                "content": "2026-10-31 17:12:02"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "法国中部城市发生火灾事故致3人死亡",
-                "content": "2026-10-31 17:09:24"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "加政府推动提升港口吞吐能力以降低对美出口依赖",
-                "content": "2026-10-31 17:04:12"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "国新、诚通出手 三季度加仓名单曝光",
-                "content": "2026-10-31 17:00:00"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "哥伦比亚国防部宣布对与委内瑞拉接壤边境城市实施军事管制",
-                "content": "2026-10-31 16:59:09"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "中信证券：银行板块有望从“高股息防御资产”向“高确定性权益资产”重估，预计全年仍将演绎估值上行方向",
-                "content": "2026-10-31 16:52:00"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "第140届广交会第三期开幕 逾1.2万展商携新品亮相",
-                "content": "2026-10-31 16:42:22"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "美国今年麻疹确诊病例超4000例",
-                "content": "2026-10-31 16:33:23"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "第92次中国改革国际论坛在海口举行",
-                "content": "2026-10-31 16:31:00"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "第30个GDP万亿城市要来了",
-                "content": "2026-10-31 16:29:03"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "利好来了！北京重磅发布！事关千亿产业",
-                "content": "2026-10-31 16:27:20"
             }
         }
     ]
