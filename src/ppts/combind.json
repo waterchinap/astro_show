@@ -14,7 +14,105 @@
       "template": "TitleContent",
       "slide": {
         "title": "东方财富即时信息",
-        "content": "2026-11-01 18:03:38"
+        "content": "2026-11-01 21:08:11"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "OPEC+同意在12月维持产量配额不变",
+        "content": "2026-11-01 21:08:11"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "奥精医疗：涉嫌定期报告等财务数据虚假记载 公司被证监会立案",
+        "content": "2026-11-01 21:01:16"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "泽连斯基称对俄境内军事设施发动远程打击",
+        "content": "2026-11-01 20:47:31"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "塞尔维亚议会选举部分投票站重新投票",
+        "content": "2026-11-01 20:10:20"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "沪市前三季度806家公司营收利润双增长 441家利润增速超50%",
+        "content": "2026-11-01 20:01:31"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "币安恢复Solana网络SOL、USDT及USDC提现",
+        "content": "2026-11-01 19:46:42"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "伊朗：美国若再发动战事将立即遭到“毁灭性回击”",
+        "content": "2026-11-01 19:45:42"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "国有某大行计划向中国国新和中国诚通各新增千亿级股票回购增持专项贷款额度",
+        "content": "2026-11-01 19:44:13"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "ST万邦：枸橼酸西地那非口服混悬液渠道布局进一步完善",
+        "content": "2026-11-01 19:38:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "粤开证券罗志恒：积极因素正在积累 短期波动不改优质企业长期投资价值",
+        "content": "2026-11-01 19:22:05"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "十大机构论市：超跌反弹条件进一步改善",
+        "content": "2026-11-01 19:00:28"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中信建投：后续底部确认的关键在于多重信号能否逐步出现 保持耐心等待做多机会",
+        "content": "2026-11-01 18:51:03"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "最新报告显示我国人工智能推理数据量首超训练数据量",
+        "content": "2026-11-01 18:49:38"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "比亚迪：10月新能源汽车销量49.02万辆",
+        "content": "2026-11-01 18:26:07"
       }
     },
     {
@@ -50,6 +148,13 @@
       "slide": {
         "title": "沪深上市公司前三季度净利润超5万亿元 创四年新高",
         "content": "2026-11-01 16:35:13"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "武超则直击AI分歧：产业没泡沫 是市场用线性思维给技术革命定价",
+        "content": "2026-11-01 16:05:00"
       }
     },
     {
@@ -118,7 +223,7 @@
     {
       "template": "TitleContent",
       "slide": {
-        "title": "央行、证监会将于明天召开座谈会 研究推动支持资本市场工具使用",
+        "title": "央行、证监会将于周一召开座谈会 研究推动支持资本市场工具使用",
         "content": "2026-11-01 15:03:09"
       }
     },
@@ -613,115 +718,178 @@
       }
     },
     {
-      "template": "TitleContent",
-      "slide": {
-        "title": "联合国秘书长强烈谴责苏丹冲突各方不断升级的无人机袭击",
-        "content": "2026-11-01 02:43:03"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伊朗官员：伊方目前尚未作出任何新的修改核战略的决定",
-        "content": "2026-11-01 02:25:45"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伊朗最高国家安全委员会秘书：尚未回应美国信函",
-        "content": "2026-11-01 02:05:50"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伊朗称一艘违规油轮在霍尔木兹海峡东部触雷起火",
-        "content": "2026-11-01 01:45:45"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "乌土两国总统举行会谈 聚焦黑海安全局势",
-        "content": "2026-11-01 01:25:58"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "鲁比奥称特朗普尚未就针对伊朗的军事行动做出决定",
-        "content": "2026-11-01 01:05:25"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "AI巨头融资压力显现？OpenAI据称将融资目标下调百亿美元",
-        "content": "2026-11-01 00:50:24"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "10月PMI进入收缩区间 受季节性因素影响企业生产经营放缓",
-        "content": "2026-11-01 00:40:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "斥资万亿日元 村田加码MLCC 锚定AI服务器、算力硬件市场",
-        "content": "2026-11-01 00:39:34"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "俄方称从美方获悉莫斯科可能发生恐袭",
-        "content": "2026-11-01 00:30:40"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "巴拿马南部地区发生6.1级地震",
-        "content": "2026-11-01 00:10:57"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "上海推动公共数据开发利用 首批近300个产品发布",
-        "content": "2026-10-31 23:51:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "伊朗外长称目前没有与美方会谈计划",
-        "content": "2026-10-31 23:32:08"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "消息人士称伊朗正在研究万斯来信中的提议",
-        "content": "2026-10-31 23:12:04"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "刚果（金）埃博拉疫情已致5026人死亡",
-        "content": "2026-10-31 22:55:05"
-      }
-    },
-    {
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
         "subtitle": "2026-11-01"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "澜湄六国50余名青年云南“香遇普洱”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/c7d39232-2987-4f56-8e45-cffe856f35cf_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "三亚湾：椰风海韵醉游人",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/a370c9b6-673e-444c-9fec-36fa7f0a3bda_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第九届进博会开幕在即 国家会展中心(上海)开启“夜景模式”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/98b23f85-0de7-4fe9-8c64-206f8b680681_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第四届广西技能大赛在南宁开赛",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/2af0e41d-69ea-48c7-bb34-e175203de8e2_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西龙胜：龙脊水稻收割 吸引中外游客体验",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/f8605f6a-04e3-451e-b1dc-cab9d8ff1317_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“璀璨中华·大美无疆”2026周锡玮（成都）艺术展启幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/a80581f5-b511-4478-811f-6044c1e276b5_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年内蒙古草垛拳王争霸赛开赛 百余名青少年擂台切磋",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/1446452d-39d7-418f-89d4-ec52650a2b2e_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国海拔最高气田31年累计生产天然气超1091亿立方米",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-01/U1067P4T8D10724466F107DT20261101203342.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第九届进博会开幕在即 首次参展“新面孔”企业超2000家",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/1e711f61-ccfe-4b34-9bae-d1f555afc15d_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中乙联赛：山西崇德荣海战平杭州临平吴越",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/ec892cd7-2d21-4aae-8b60-d32a4ece1e41_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "世界杰出华人颁奖典礼在香港举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/8ac17d53-d6a1-44c1-b5b8-c3ef769f28e3_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第十一届世界妈祖文化论坛在福建湄洲岛开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/bda00570-a727-43d0-a436-c0b70430eff6_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "西安举办警营开放日活动",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/88f144eb-d8a0-42f9-b3e3-6be3c5c5c09a_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "128名制鞋能手在河南商丘展开比拼",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/53d7ec57-1d9a-4477-8682-bcbd7b25b1f2_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南郑州：东盟好物吸引市民选购",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/8ced85d3-e170-4835-b004-cae408e3fc58_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "山西：秋染五寨沟 林海泛金波",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/7bdf425e-c76c-449b-9f15-51ced6251715_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福州：2026年世界城市日全球主场活动现场体验区吸引参观者",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/b62e488c-8cba-406f-96ea-9c155a67b920_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福州：高校学子展演服装设计获奖作品",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/d073f3ce-e329-472f-81d0-ecd2ab7c03e0_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "汇聚海内外英才 2026首届南京人才周启幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/a75e9e53-e66c-4a97-b692-a708600338b6_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第九届进博会布展工作基本就绪",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/9a44e1d6-2bc4-4785-b283-69e229239611_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第140届广交会第三期：中国服装企业携时尚新品觅商机",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/553246d7-0bcf-40c7-a590-69da5b581af0_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -873,174 +1041,6 @@
       "slide": {
         "title": "四川成都龙泉驿站启用 首趟客运列车始发",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/7d60c00c-cc74-4823-a3a6-a1cc87f79d8d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "浙江杭州：2026杭州创马精英赛举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/609989f3-e6e1-4c2f-b35a-924debc24c93_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026中国航空产业大会暨南昌航空产业博览会开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/a3b5b22f-5603-4bb2-bc7c-0372136c708e_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江苏常熟：探访世界领先的AI领航羽绒服科创中心",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10724012F107DT20261031193648.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江苏常熟：康博村的幸福生活",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10724009F107DT20261031192332.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "世界城市日 福州上下杭历史文化街区——有记忆更有活力",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/6f9895cc-474d-46de-ab93-49a33d7ab353_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第140届广交会第三期开展 “智慧医疗”专区展示“智能健康”趋势",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/cb73a329-acdb-4e2e-81a0-8b723fc895f2_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第五届中国村网（京山）开赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/1c121413-38d4-47d6-8fbb-3d942131a646_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年川渝匹克球公开赛暨川陕甘青匹克球邀请赛开赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/52d329e1-fcde-4cb0-a147-e5b865015953_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第三届铸牢中华民族共同体意识美术作品展在青海西宁开展",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/6f4ab6fe-5ab6-411b-982f-22580c55b264_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第140届广交会第三期开幕迎客",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/e2921983-05b8-4872-b344-5f9353fa8cc2_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "海内外顶尖登高跑选手齐聚上海展开云端竞速",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/86293092-69ec-421c-9ad3-49a191835dde_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "人宠同台共演舞台剧 狗狗“演员”长春首秀萌动全场",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/c25889d7-c177-4352-9ee4-c710df60a6f1_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山东荣成：秋粮丰收晒场忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/ae11b434-4ea4-471c-9482-0e93318c0875_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“重庆之夜”非遗专场音乐会奏响巴渝文化乐章",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/74e09848-13f9-4556-803c-3692fea4ba26_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026第四届广州塔国际时尚周开幕式在穗举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/f28264a5-c80c-4cc9-a209-f73e52d2fcb4_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "灯火映碧波 湖北通城“两河四岸”激活夜经济",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/618a4ad2-934c-4d19-8790-1859f976631c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山水福州迎接世界城市日盛会",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/6d6606e8-1785-4d41-ba66-2eaeafeca6c3_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "解锁新材料的“转化密码” 探访浙江桐乡乌镇实验室",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/ae703993-773f-4f30-b235-741aa9e278ec_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "暨南大学原创文化精品大师剧《振铎》焕新公演",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/93926b09-7875-4233-87b9-8a11ce20cbdf_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026中国（大营）国际皮草博览会开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/a0b78e11-29ed-4c49-8f21-8c4ca7e2f925_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "北京：“求索与担当——罗工柳艺术文献展”吸引参观者",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10723797F107DT20261031102946.jpg",
         "subtitle": "  "
       }
     }
