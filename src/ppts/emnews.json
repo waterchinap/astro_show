@@ -7,7 +7,105 @@
             "template": "TitleContent",
             "slide": {
                 "title": "东方财富即时信息",
-                "content": "2026-11-01 15:03:09"
+                "content": "2026-11-01 18:03:38"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "大风蓝色预警继续：山西河北北京等地部分地区有阵风8～9级",
+                "content": "2026-11-01 18:03:38"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "乌克兰总统泽连斯基表示 俄罗斯夜间轰炸了乌克兰四个地区的能源基础设施 数十万人断电",
+                "content": "2026-11-01 17:52:57"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "科创成长层37家公司营收增长51.73% 亏损同比收窄九成 9家扭亏为盈",
+                "content": "2026-11-01 17:18:56"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "岚图汽车：10月交付13030辆",
+                "content": "2026-11-01 16:35:27"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "沪深上市公司前三季度净利润超5万亿元 创四年新高",
+                "content": "2026-11-01 16:35:13"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "A股三季度分红榜：迈瑞医疗豪派近16亿、吉比特每股派6元",
+                "content": "2026-11-01 16:00:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "币安恢复以太坊及BNB智能链网络提现",
+                "content": "2026-11-01 15:55:56"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "海洋王：公司AI+智慧照明相关业务收入规模有限",
+                "content": "2026-11-01 15:52:56"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "近岸蛋白：赋能AI的高通量湿实验与数据包服务尚处于市场拓展初期",
+                "content": "2026-11-01 15:52:19"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "长城汽车：10月汽车销量12.04万台 同比下降15.87%",
+                "content": "2026-11-01 15:52:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "海洋王：AI+智慧照明相关业务收入规模有限",
+                "content": "2026-11-01 15:49:11"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "高争民爆：拟购买紫源铜业51%股权和晟源矿业100%股权 股票2日起复牌",
+                "content": "2026-11-01 15:49:00"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "ST合纵：因涉嫌信息披露违法违规被证监会立案",
+                "content": "2026-11-01 15:48:56"
+            }
+        },
+        {
+            "template": "TitleContent",
+            "slide": {
+                "title": "央行将召开股票回购增持再贷款座谈会",
+                "content": "2026-11-01 15:31:29"
             }
         },
         {
@@ -610,104 +708,6 @@
             "slide": {
                 "title": "刚果（金）埃博拉疫情已致5026人死亡",
                 "content": "2026-10-31 22:55:05"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "DeepSeek发布全新Agent架构",
-                "content": "2026-10-31 22:35:58"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "铱加科技1.6T CPO光引擎将部署量产",
-                "content": "2026-10-31 22:30:45"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "招商轮船卡气二期项目首制船“LEKHRAIB”轮命名仪式在韩国举行",
-                "content": "2026-10-31 22:22:00"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "英伟达披露下一代CPO技术 原型样品已就位",
-                "content": "2026-10-31 22:12:43"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "福莱新材：触觉传感器月产能已超万套 正筹划增加夜班并新建产线",
-                "content": "2026-10-31 22:08:06"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "俄罗斯称打击乌克兰能源和物流基础设施",
-                "content": "2026-10-31 21:55:07"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "孟加拉国登革热疫情持续蔓延",
-                "content": "2026-10-31 21:53:06"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "撤往乌克兰的阿列什基居民已从白俄罗斯入境",
-                "content": "2026-10-31 21:36:32"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "无锡队夺得苏超冠军",
-                "content": "2026-10-31 21:35:19"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "伊朗外长：目前没有与美国官员会面的计划",
-                "content": "2026-10-31 21:17:01"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "2026年10月票房20.44亿元",
-                "content": "2026-10-31 21:09:05"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "伊朗代表团前往多哈 与卡塔尔举行会谈",
-                "content": "2026-10-31 21:00:20"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "2026世界物联网博览会在无锡开幕",
-                "content": "2026-10-31 20:49:00"
-            }
-        },
-        {
-            "template": "TitleContent",
-            "slide": {
-                "title": "大额存单回来了 银行密集上线",
-                "content": "2026-10-31 20:43:12"
             }
         }
     ]

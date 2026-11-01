@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "第四届中国研究生“美丽中国”创新设计大赛福州落幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/66ccb051-7d23-45f0-bcdf-e074b226bc69_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "京郊古刹晚秋美景宜人",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-01/U1067P4T8D10724342F107DT20261101163333.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "上海11月第一天最高气温27℃ 下周将迎阵雨降温",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/021670c3-68dc-4560-a7d0-d318edfab71c_zsite.JPG",
         "subtitle": "  "
@@ -311,22 +327,6 @@
       "slide": {
         "title": "北京：“求索与担当——罗工柳艺术文献展”吸引参观者",
         "backgroundImage": "http://www.chinanews.com.cn/2026/10-31/U992P4T8D10723797F107DT20261031102946.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第五届“一带一路”(河南)国际农业合作博览会在河南郑州开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/9b7f0c1f-a9af-49bc-8cf8-c7d1e9729b75_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“苏超”决赛即将打响 无锡常州争夺联赛桂冠",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/af9a3815-677d-4a68-9399-4b519686c540_zsite.jpg",
         "subtitle": "  "
       }
     }
