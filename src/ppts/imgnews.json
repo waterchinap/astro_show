@@ -7,7 +7,31 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-01"
+        "subtitle": "2026-11-02"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【诗画中国】秋味入诗 食与时和",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-02/U992P4T8D10724558F107DT20261102092659.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "美国佛州一飞机在居民区坠毁 机上9人全部遇难",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-02/U855P4T8D10724545F107DT20261102083351.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "国际摩联世界摩托车锦标赛（MotoGP）马来西亚大奖赛正赛：马克·马奎斯夺冠",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-02/U855P4T8D10724538F107DT20261102075156.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -63,6 +87,14 @@
       "slide": {
         "title": "2026年内蒙古草垛拳王争霸赛开赛 百余名青少年擂台切磋",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/1446452d-39d7-418f-89d4-ec52650a2b2e_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“妈祖故里”福建湄洲岛举行秋祭妈祖大典",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261101/8fc4d45a-7958-453f-8e32-1ba322384e82_zsite.jpeg",
         "subtitle": "  "
       }
     },
@@ -295,38 +327,6 @@
       "slide": {
         "title": "第140届广交会第三期开展 玩具展区汇聚全球商机",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/7908673e-5e12-4460-b145-cef0b8835a7d_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026世界斯诺克巡回赛国际锦标赛在南京开赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/e3485189-8a15-4090-a019-0033bd80f385_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "湖北姚家平水利枢纽工程成功截流",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/ec996ca5-c0ae-4b8c-9019-0bb7f87f4c90_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "武汉国际车展：民众追捧新能源汽车",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/2e01d6c0-003a-4ad8-9951-bc577ccafe61_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川成都龙泉驿站启用 首趟客运列车始发",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261031/7d60c00c-cc74-4823-a3a6-a1cc87f79d8d_zsite.jpg",
         "subtitle": "  "
       }
     }
