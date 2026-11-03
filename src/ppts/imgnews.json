@@ -7,7 +7,111 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-02"
+        "subtitle": "2026-11-03"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "走进“中国宣笔之乡” 定格千年传承的“毫”厘功夫",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725125F107DT20261103091702.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "李强会见阿曼苏丹海赛姆",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-03/U855P4T8D10725102F107DT20261103080828.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "非洲青年走进秦始皇兵马俑 感触中国历史",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/6837e830-6764-48f5-a41f-8d25c7040d53_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "三亚大东海：中外游客乐享惬意慢生活",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/a5a3e8ed-a342-4805-acd7-d6d25e417165_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "雨后初霁张家界 云海翻涌绕奇峰",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/83c11cdb-4ee9-4a75-86b4-9607a40ba488_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福建工艺美术名家雕刻作品纪念展在福州启幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/6fe70129-22ed-4aa7-9c63-dc719b650fb9_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年世界互联网大会领先科技奖在浙江乌镇发布",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/fcf5a496-1e92-42b8-9bff-39368dd6fcfd_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "新疆国际大巴扎引游人",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/81e8e968-6f91-4bc3-9e2b-d1ca2b479c34_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“人工智能+低空安全”装备应用展亮相浙江乌镇",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/089735a3-6299-4062-ad37-1661d6f4d446_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南尉氏：菊香满园丰收忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/4c94416d-ef85-4aa4-a7cc-0d1828f41beb_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“互联网之光”博览会浙江乌镇启幕 机器人展示“上岗作业”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/0b6b7fcf-b2fd-458a-8b0c-2b2256b0b6f8_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“互联网之光”博览会乌镇启幕 6G、卫星互联网等千余技术产品亮相",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/a658b01b-7867-47f4-9ee7-36ff73bd4088_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "王沪宁会见越南共产党代表团",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-02/U1066P4T8D10725032F107DT20261102213107.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -223,110 +327,6 @@
       "slide": {
         "title": "甘肃武都：白龙江畔黄澄澄的“柿”界",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/53e88ccd-a5b0-416e-be7c-1fcfc0852620_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【四时映画】三亚湾：椰风海韵醉游人",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-02/U1132P4T8D10724698F107DT20261102125347.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "足协杯：云南玉昆胜大连英博海发",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-02/U855P4T8D10724674F107DT20261102120343.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "雨夜秀霓裳 2026南京国际时尚周收官",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/689c2407-7d74-4ddc-8189-a552dcb20fe8_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南第十届少数民族传统体育运动会在古都洛阳开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/961a10a5-4392-476a-b3d8-a7ce028331d3_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南郑州：金色晨光映天鹅",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/bfcd666c-bfe1-40be-9341-4b4400230d10_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西省第十七届运动会在萍乡开幕 烟花与无人机表演点亮文体展演",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-02/U1132P4T8D10724639F107DT20261102110733.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中欧班列沿线国家代表在敦煌共话丝路交融与当代合作",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/e1c476d1-5d42-48af-a47a-756a01065833_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "非洲青年夜游西安 邂逅唐风雅韵",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/eee5b7c9-9e0a-46c4-a751-8e26503e6623_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "CBA常规赛：山西汾酒胜四川锦城",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/b962ab6f-764d-43ca-aeea-2338079108b6_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026甬港企业家帆船赛在浙江宁波举办",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-02/U1132P4T8D10724560F107DT20261102104417.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "CBA常规赛：辽宁本钢队战胜深圳马可波罗队",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-02/U1132P4T8D10724596F107DT20261102111545.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026粤港澳大湾区时尚周启幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/053c5f0f-c0f8-4b83-8af3-f85afca1c6dc_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第10届中国校园戏剧节闭幕 音乐剧《金沙》在成都精彩上演",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/9d6f3a3c-246e-4e9a-a868-ae1411b3b113_zsite.jpeg",
         "subtitle": "  "
       }
     }
