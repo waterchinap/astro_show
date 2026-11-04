@@ -7,7 +7,87 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-03"
+        "subtitle": "2026-11-04"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "陕西西安：秦岭翠华山云雾缭绕",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U574P4T8D10725726F107DT20261104080827.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "美国举行2026年中期选举",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U574P4T8D10725715F107DT20261104074016.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "甘肃陇南：深秋时节的甜蜜收获",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U574P4T8D10725712F107DT20261104073033.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年世界互联网大会乌镇峰会主论坛举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/ce98da49-ab4d-4a6a-a913-0f1429edf7e6_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "新疆：探索绿色算力发展新路径",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-03/U1066P4T8D10725632F107DT20261103221321.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "浙江乌镇：中国首个开源主题生态体验馆引人关注",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/d9d25baa-c0ea-4f30-a0a7-19cda512f0c4_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026粤港澳大湾区全球招商大会在穗举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/3fa51b9f-5b1c-4466-adb4-91df43ad8028_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "香港故宫推出“清宫四时”展览 呈现宫廷四季生活轨迹",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/d2a4aabe-2411-438f-a63f-3c04bb8707a9_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河北临漳韭菜香飘京津冀",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/4be90163-fd76-4eef-9c19-e5ce7bf48234_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第九届“敦煌文博会”敦煌研究院“典范”“高地”建设成果展开展",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/dcf00e85-7421-40a9-88b1-2eed10d7b7c7_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -158,7 +238,7 @@
       "template": "ImgTitle",
       "slide": {
         "title": "（第九届进博会）第九届进博会已完成全部布展工作 展览总面积首次超过44万平方米",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-03/U1066P4T8D10725420F107DT20261103170354.jpg",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-03/U1066P4T8D10725420F107DT20261103170354.jpg",
         "subtitle": "  "
       }
     },
@@ -247,86 +327,6 @@
       "slide": {
         "title": "2026世界斯诺克巡回赛国际锦标赛：中国选手赵心童晋级16强",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/511c6255-6a47-41b2-844e-12b5f92bd3e4_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "新疆：乳业“智造”工厂助力经济高质量发展",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725230F107DT20261103113413.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "甘肃文县天池秋色如画",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725214F107DT20261103110008.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026国际版权论坛敦煌开幕  聚焦数智时代版权与创意产业",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/e7b8baa3-2890-4c12-8590-954784f6dbf3_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "浙江乌镇：无人警队“空地协同”守交通安全",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725184F107DT20261103104647.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "力箭二号遥二运载火箭发射成功",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-03/U1067P4T8D10725163F107DT20261103095821.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【这个城市有点潮】浙江乌镇：藏在千年古镇里的诗意与数字新风",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725156F107DT20261103101852.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "走进“中国宣笔之乡” 定格千年传承的“毫”厘功夫",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725125F107DT20261103091702.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "李强会见阿曼苏丹海赛姆",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-03/U855P4T8D10725102F107DT20261103080828.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "非洲青年走进秦始皇兵马俑 感触中国历史",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/6837e830-6764-48f5-a41f-8d25c7040d53_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "三亚大东海：中外游客乐享惬意慢生活",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261102/a5a3e8ed-a342-4805-acd7-d6d25e417165_zsite.jpg",
         "subtitle": "  "
       }
     }
