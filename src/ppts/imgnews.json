@@ -13,6 +13,30 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "秋日氛围感拉满 北京钓鱼台银杏大道换上“金装”",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-04/U1067P4T8D10725990F107DT20261104152601.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）第九届中国国际进口博览会将于11月5日在上海举办",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/d1f4fe53-8add-4ff7-8ea6-3f5d27478e51_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国老年体育助力乡村振兴交流展示活动在河南漯河开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/7267f3be-d508-40e9-99bb-ed5d320e30f5_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "合肥一单亲妈妈夜市摆摊 为白化病女儿攒“一份光亮”",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-04/U1132P4T8D10725870F107DT20261104112809.jpg",
         "subtitle": "  "
@@ -303,30 +327,6 @@
       "slide": {
         "title": "甘肃陇南：文县发展油橄榄产业助力乡村振兴",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725362F107DT20261103154606.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北博物院亚美尼亚文物展 百余件珍品见证中外文明互鉴",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/ebcea33c-6900-44bd-9896-c97bf7bbfb67_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西三江侗乡：立冬将至腊味香",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/ad32dc18-1178-4e94-859a-0ed54a6c8486_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西庐山：红叶入画 秋色醉人",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-03/U1132P4T8D10725302F107DT20261103143251.jpeg",
         "subtitle": "  "
       }
     }
