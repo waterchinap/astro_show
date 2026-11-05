@@ -13,6 +13,54 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "成都网约公交正式投入运营",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/e3fa0bff-5b8c-484a-94eb-3a376845e241_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "新疆阿克苏：冰糖心苹果迎来采摘季",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/e63f93bd-0490-4fd6-88a1-4bab29db8810_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）第九届进博会医疗展区亮点纷呈 多款前沿医疗黑科技集中亮相",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/1dea747d-e878-4e3c-b0a8-4c20f9586918_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "托克托县黄河湿地迎来候鸟迁徙高峰",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/c2b1725f-ace9-4a8d-b4f8-db4695bde601_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）第九届中国国际进口博览会开幕式在上海举行",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-05/U1067P4T8D10726556F107DT20261105140832.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "美国花旗集团一办公区突发枪击 已致2死4伤",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-05/U574P4T8D10726542F107DT20261105133754.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "三峡库区重庆忠县现壮美平湖景观",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/378ccecc-123a-4cac-95ea-9af601df8969_zsite.JPG",
         "subtitle": "  "
@@ -279,54 +327,6 @@
       "slide": {
         "title": "香港举行眼镜展  汇聚逾600家展商",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/97c74735-9e44-4dc0-8250-5101e2bbf209_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南郑州：农产品市场里的“买全球”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/b1a4f509-6d78-47a8-8341-6f62729f6052_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "重庆鹅岭公园菊展迎客来 满园菊香醉游人",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/b1ab2205-dc9d-4d6b-923e-be8d05c1438b_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探秘甘肃文县白马河畔的藏族聚居地——文县铁楼藏族乡",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-04/U1132P4T8D10726014F107DT20261104160005.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "从天涯海角到大小洞天：三亚美景引客来",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-04/U1132P4T8D10726012F107DT20261104173904.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "秋日氛围感拉满 北京钓鱼台银杏大道换上“金装”",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-04/U1067P4T8D10725990F107DT20261104152601.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）第九届中国国际进口博览会将于11月5日在上海举办",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/d1f4fe53-8add-4ff7-8ea6-3f5d27478e51_zsite.JPG",
         "subtitle": "  "
       }
     }
