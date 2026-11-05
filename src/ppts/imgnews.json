@@ -7,7 +7,111 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-04"
+        "subtitle": "2026-11-05"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "法国卢浮宫举办特展纪念摄影术诞生200周年",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-05/U574P4T8D10726380F107DT20261105083757.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "俄罗斯首都莫斯科庆祝“人民团结日”",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-05/U574P4T8D10726364F107DT20261105074404.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访哈萨克斯坦欧亚大学孔子学院",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-05/U574P4T8D10726360F107DT20261105073743.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "WTA250香港公开赛：威廉姆斯/徐一璠晋级女双八强",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-05/U574P4T8D10726357F107DT20261105073140.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "游客参观新疆吐鲁番坎儿井",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U1066P4T8D10726316F107DT20261104222816.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“兰亭·雅集”暨汉字之美·中韩书法交流展在韩开幕",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U1066P4T8D10726315F107DT20261104222333.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/2c029f46-f7f7-41a8-a995-36f58b48b5f2_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "多国市长走进浙江宁波 感受城市风貌与人文魅力",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/c499df09-ed5e-4c98-aef5-36362f12cc7a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026世界斯诺克巡回赛国际锦标赛：丁俊晖惜败 无缘四强",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/7e60ee2f-0c3d-4199-91d4-d9889c4887fc_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026世界斯诺克巡回赛国际锦标赛：范争一战胜对手 晋级四强",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/88892e62-3b76-483f-93b4-d93ea9f95f2a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第140届广交会收官 超35万名境外采购商到会",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/a9878e3a-197b-425c-9f2a-5880f3555e2f_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）第九届进博会期间 上海市景观照明开启重大活动模式",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/6cc67a94-ba4f-453a-ac5a-e386a0f2a804_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "李强会见世界知识产权组织总干事邓鸿森",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U1066P4T8D10726270F107DT20261104213233.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -223,110 +327,6 @@
       "slide": {
         "title": "CBA常规赛：山西汾酒战胜新疆广汇能源",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261104/70d87829-673e-43f5-9b33-02db1f2bf58e_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "英国冒险家历时28年徒步环球重返家乡",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U855P4T8D10725759F107DT20261104093034.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "陕西西安：秦岭翠华山云雾缭绕",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U574P4T8D10725726F107DT20261104080827.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "美国举行2026年中期选举",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U574P4T8D10725715F107DT20261104074016.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "甘肃陇南：深秋时节的甜蜜收获",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-04/U574P4T8D10725712F107DT20261104073033.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年世界互联网大会乌镇峰会主论坛举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/ce98da49-ab4d-4a6a-a913-0f1429edf7e6_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "新疆：探索绿色算力发展新路径",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-03/U1066P4T8D10725632F107DT20261103221321.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "浙江乌镇：中国首个开源主题生态体验馆引人关注",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/d9d25baa-c0ea-4f30-a0a7-19cda512f0c4_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026粤港澳大湾区全球招商大会在穗举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/3fa51b9f-5b1c-4466-adb4-91df43ad8028_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "香港故宫推出“清宫四时”展览 呈现宫廷四季生活轨迹",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/d2a4aabe-2411-438f-a63f-3c04bb8707a9_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北临漳韭菜香飘京津冀",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/4be90163-fd76-4eef-9c19-e5ce7bf48234_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第九届“敦煌文博会”敦煌研究院“典范”“高地”建设成果展开展",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/dcf00e85-7421-40a9-88b1-2eed10d7b7c7_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "台湾自媒体人在四川西昌邂逅生态之美",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261103/096d8f2c-3d1e-47e7-baa8-d77534e124ab_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年伦敦世界旅游交易会开幕 中国展区人气高",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-03/U1066P4T8D10725593F107DT20261103205210.jpg",
         "subtitle": "  "
       }
     }
