@@ -13,6 +13,166 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "黄山贡菊采收忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/e4d3e488-c8a4-4988-bb62-067aeb184aa8_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "40余位旅居云南艺术家笔墨丹青展滇韵",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/5a8f46e3-f93e-470e-ab86-b28fd1e3c0cb_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "十四届全国人大常委会第二十五次会议在京闭幕 赵乐际主持会议",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727586F107DT20261106212630.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年“岭南粤剧周”系列活动在广州开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/801a9234-0c7f-43e1-bf0e-1c3da31768ba_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）进博会上的中国元素",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727553F107DT20261106204201.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）进博会上看情绪消费",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727547F107DT20261106203154.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）第九届进博会在国家会展中心（上海）举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/9dc82aea-483e-4351-8924-cfce2c832314_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平参加北京市区人大代表换届选举投票",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727502F107DT20261106195032.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）机器人集中亮相第九届进博会",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/0dd689a0-478e-47d5-8149-70a05470cceb_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州黄平：欢度“九·二七”芦笙会",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/0be082a0-7346-4138-9c0b-48e25e68a056_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "哈尔滨亚布力滑雪场“开板”迎客",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/d0c87a6c-02f8-4917-b61e-efb1b1f0a638_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "雄安新区2026年“119”消防宣传月启动",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/fd2f6091-f9ca-4a5f-88bd-84f246406f9b_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "重庆五里坡国家级自然保护区云海翻涌 层林尽染",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/c3fac3b0-886a-4a76-967c-66ad59262148_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国杯世界花样滑冰大奖赛在深圳开赛",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/fc60bd09-d396-4928-b572-66911a5f45ce_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "湖北巴东：秋染巫峡",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/c05d320e-4ae0-465e-9686-51dc78544cf8_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西北海武警开展多课目训练强能力",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/500cd664-e2eb-4ddf-959a-b7764c749b39_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "长春庙香山滑雪场“开板”迎客 雪友乐享雪趣",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/dc268aab-af60-412c-80c5-2da3d9e767b2_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "云南昆明：消防安全进高校 提高自防自救能力",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/45c52ec9-074e-464d-a976-5fc5a66242e5_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国（重庆）老博会开幕：高科技产品为养老赋能",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/38c1ba98-2627-4df5-80ed-9695e5f29987_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第四届济南书市启幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/11a3099e-3008-4055-a76f-04676af9d142_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "敦煌印象：游客“错峰游”赴大漠之约",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/c279ba8a-e0b7-4227-902d-5660cb1deed9_zsite.jpg",
         "subtitle": "  "
@@ -167,166 +327,6 @@
       "slide": {
         "title": "石榴籽联欢晚会在四川理县举行 庆祝羌历新年",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/fc289b7f-4620-4777-8923-4c25f7075a08_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "亚冠二级联赛小组赛：中国香港杰志队战胜柬埔寨金边皇冠队",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/55e650a8-2bdc-465f-8b1a-e20af499b662_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：英格兰选手凯伦·威尔逊晋级决赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/3493e05b-f955-46cb-8959-00591d83bb7f_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "美国纽约一住宅楼火灾致6亡9伤",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U574P4T8D10727033F107DT20261106091747.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "北京中山公园银杏染金 游人赏秋",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U574P4T8D10726994F107DT20261106074310.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "我国成功发射遥感五十一号07-09星",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U574P4T8D10726990F107DT20261106073122.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）第九届进博会开幕 “全勤生”带来新一轮首发成果",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/cfa60e07-82c9-4fdb-9488-d162a92f44b2_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "安徽歙县：游客“入戏”读徽州",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/e2bb240a-ef88-48c0-8eab-a87496178c6e_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“一带一路”国家人文交流主题展敦煌亮相",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/baa09bc8-1ebf-4df7-80ce-622dcac4098a_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）港澳台企业踊跃参加第九届进博会",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/93a2a0d2-75c9-4d98-b1c6-0207c0c0cbc8_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西平乐柿红引客来 产值突破60亿元",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/b1b9a64f-f781-4de4-adc1-b0f56993e368_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州乡村小学的快乐足球赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/b06f9d84-e401-4652-ac69-f8b6120f5bc7_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "外籍人士走进重庆社区 近距离感受基层协商民主实践",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/c8bccce9-a2ee-43b2-906e-1ca498db002c_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026中国—东盟服饰联合展演在广西艺术学院上演",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-05/U1066P4T8D10726899F107DT20261105214041.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）丁薛祥出席第九届中国国际进口博览会开幕式",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-05/U1066P4T8D10726893F107DT20261105212147.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西三江：载歌载舞庆瑶年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/ca29c1ef-4d04-4ca2-b5ed-dbc7d3bfbab0_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川理县瓦斯寨低海拔彩林美如画",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/923583d2-ff64-40cc-b71c-2d20291c236c_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026厦门海洋科技装备博览会启幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/c88aac59-2215-4eb8-b092-d42b7dc5d90b_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北峰峰荒地蝶变休闲地 600亩红枫尽显秋日浪漫",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/e005cd37-bc16-4bee-adab-2494a96b3cc1_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探访三亚蜈支洲岛：海天一色美如画",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/41c7961b-90f7-4d37-b9f2-52e45c863fee_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026第28届中国绍兴柯桥纺织品博览会（秋季）启幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261105/c740303e-60e8-47eb-9d18-ebc25ea3dac9_zsite.JPG",
         "subtitle": "  "
       }
     }
