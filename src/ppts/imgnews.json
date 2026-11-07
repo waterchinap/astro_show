@@ -13,6 +13,46 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "新疆哈密：匠心守护甜蜜产业",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727807F107DT20261107111231.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "新疆：游客体验红色军垦文化",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727805F107DT20261107110754.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "旅美大熊猫“平平”“福双”亮相亚特兰大动物园",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727787F107DT20261107102003.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "曼谷湄南河龙舟巡游",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727782F107DT20261107100519.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "赵乐际会见奥地利总理施托克尔",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727768F107DT20261107094339.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "谷神星二号遥三运载火箭发射成功",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727757F107DT20261107090542.jpg",
         "subtitle": "  "
@@ -287,46 +327,6 @@
       "slide": {
         "title": "广西北海武警开展多课目训练强能力",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/500cd664-e2eb-4ddf-959a-b7764c749b39_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "长春庙香山滑雪场“开板”迎客 雪友乐享雪趣",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/dc268aab-af60-412c-80c5-2da3d9e767b2_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "云南昆明：消防安全进高校 提高自防自救能力",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/45c52ec9-074e-464d-a976-5fc5a66242e5_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中国（重庆）老博会开幕：高科技产品为养老赋能",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/38c1ba98-2627-4df5-80ed-9695e5f29987_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第四届济南书市启幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/11a3099e-3008-4055-a76f-04676af9d142_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "敦煌印象：游客“错峰游”赴大漠之约",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/c279ba8a-e0b7-4227-902d-5660cb1deed9_zsite.jpg",
         "subtitle": "  "
       }
     }
