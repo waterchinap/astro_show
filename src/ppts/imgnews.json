@@ -7,7 +7,151 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-06"
+        "subtitle": "2026-11-07"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "谷神星二号遥三运载火箭发射成功",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727757F107DT20261107090542.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中俄品牌日活动在莫斯科举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727644F107DT20261106223427.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）指尖上的进博会",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727635F107DT20261106222927.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "李强同奥地利总理施托克尔会谈",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727632F107DT20261106222534.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "李强会见加蓬总统恩圭马",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727624F107DT20261106222121.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探秘敦煌鸣沙山下“骆驼村”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/a065cf5a-3fb2-4042-a535-542270b6bbb3_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（第九届进博会）进博会美国食品与农业馆开馆",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/538fbcab-a29c-4ee6-b347-14277004f344_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国杯世界花样滑冰大奖赛：双人滑·短节目项目展开角逐",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/f3e1e7bf-bc9e-449f-971e-2cb9e45b282b_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026SIGP三圈国际车辆模型（平路）大奖赛厦门开赛",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/f93fe866-f822-455e-87be-8455fc26f7ac_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访江西新余蜜桔智能化分选中心：科技赋能“甜蜜事业”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/65d7609c-152b-4808-b280-e6af8281d7ae_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "云南石林风景区引中外游客打卡喀斯特奇观",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/e8110eae-b12b-4d9c-a68f-daa7ccb7813d_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国杯世界花样滑冰大奖赛：“四周跳女王”伊格纳托娃登场亮相",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/8a72da00-cd85-4730-9626-9560e2664340_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第二十届新疆冬博会在乌鲁木齐启幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/192fe8b0-de38-46dd-9a45-f096dd4251e9_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“美美与共——中俄美术交流展”在河北秦皇岛开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/a843aecc-0538-4f35-82e3-07e1b9363595_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国（广西）—东盟矿业合作大会在南宁开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/b9b966ff-fbe0-46ac-9de6-2308c9cc90d6_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平同加蓬总统恩圭马会谈",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727597F107DT20261106213819.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平会见奥地利总理施托克尔",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727594F107DT20261106213547.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年羌历新年庆祝活动在四川理县举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/2aaf4ce7-d433-460a-9efe-ef686767cbb3_zsite.JPG",
+        "subtitle": "  "
       }
     },
     {
@@ -31,6 +175,14 @@
       "slide": {
         "title": "十四届全国人大常委会第二十五次会议在京闭幕 赵乐际主持会议",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727586F107DT20261106212630.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第九届中国非遗博览会在渝开幕 890余个非遗代表性项目亮相",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/8693fb0f-b5ec-46c7-be0f-d6296f745bc6_zsite.JPG",
         "subtitle": "  "
       }
     },
@@ -175,158 +327,6 @@
       "slide": {
         "title": "敦煌印象：游客“错峰游”赴大漠之约",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/c279ba8a-e0b7-4227-902d-5660cb1deed9_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）主宾国斯里兰卡携锡兰红茶“回娘家”",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U1066P4T8D10727374F107DT20261106170916.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北井陉：黑鹳翩跹，列车驶过绘就人与自然和谐画卷",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/165c380b-bc55-41b2-922f-584dddc6a735_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "三峡库区：溪江相连 水清岸阔",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/ddfb3def-ed88-4543-a247-4b4003ebe9d2_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“银龄”模特“穿”重庆地标走秀 展巴渝风华",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/6f1c5ced-4570-4e83-8c35-32c8d1606f50_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第九届中国非物质文化遗产博览会在重庆开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/44ed6432-7859-450a-a840-d59ba2fa3bf0_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "海内外旅行商及华文媒体代表探访长江巫峡云雾美景",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/bb45f8ab-ade9-47be-b482-52b65cccb99e_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南：15万亩“虞城荠菜”进入收获季",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/d7f18316-16c7-4e6a-937e-fd2e5c5b8382_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第二艘国产大型邮轮“爱达·花城号”在上海正式交付",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/b1c2dc76-32a7-412b-912d-85a51dbd803a_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西新余：蜜桔丰收满枝头 农旅融合引客来",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/04e57d4c-5452-4e89-8412-ed3505588141_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "托万克吾库萨克村：古乐弦歌代代传",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/d51fa981-c36d-47fb-bdf9-cde31dc00e0b_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "八一飞行表演队飞越黄崖关长城 献礼人民空军成立77周年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/92eabf4f-fe47-44c1-9947-64a6ae44d656_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "青海：高原“小金果”沙棘助农增收",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/49ab7c69-d2a2-45d8-926f-3800072651ab_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026CFA中国之队·银川五人制足球国际邀请赛开赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/d21bce20-28c1-4f12-a975-f3ced8a3a40d_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北宽城生态向好 迁徙候鸟翩跹而至",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/7ed077ca-8bf7-4124-a53a-4f07584f4e95_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "23年传奇谢幕！C罗宣布退出葡萄牙国家队",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-06/U855P4T8D10727162F107DT20261106114013.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川攀枝花：台湾自媒体人探访“天下彝家第一村”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/c804b362-12ec-4e68-ad37-407b10ad2348_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州毕节：黔货出山添“天路”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/645d02b7-7c6f-4ab7-a323-2204fb98503a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【四时映画】南京：秋染莫愁湖 斑斓入画来",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-06/U1066P4T8D10727134F107DT20261106163856.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "石榴籽联欢晚会在四川理县举行 庆祝羌历新年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261106/fc289b7f-4620-4777-8923-4c25f7075a08_zsite.JPG",
         "subtitle": "  "
       }
     }
