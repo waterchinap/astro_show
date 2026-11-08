@@ -13,6 +13,62 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "福建龙岩：“五彩龙岩·山水有约”主题演出上演",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/cb8faff0-3eb8-4b12-a0cb-6856f0d4116a_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南新乡：2026中原农谷种业大会“芯”成果引人关注",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/6ef9e41c-29b2-4d5b-8e38-2be78d9c7c07_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026世界斯诺克巡回赛国际锦标赛：凯伦·威尔逊夺冠",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/80e560da-55df-4c35-926e-8cfa3d32fe1f_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "胡塞武装称沙特空袭也门萨那周边",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728271F107DT20261108105420.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "民众参观红军西路军进疆纪念馆",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728263F107DT20261108102743.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国杯世界花样滑冰大奖赛：双人滑·自由滑项目展开角逐",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/e5fc2a92-7cce-4a1b-a8f6-d62c933b7a46_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "智利一公共汽车与卡车相撞 事故致12人遇难",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728256F107DT20261108100422.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "日本静冈县西部发生5.7级地震",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728235F107DT20261108091615.jpg",
         "subtitle": "  "
@@ -271,62 +327,6 @@
       "slide": {
         "title": "福州高架三角梅盛开成空中花廊",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/0c9e5a31-e341-4901-83c7-4019013b7a66_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "武汉江滩芦荻花绽放引客来",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/33e37a6f-7c6c-48a3-8b1b-d87bc0d4b9ed_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年石家庄高层次人才交流洽谈会举办",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/06962d4f-b057-4db5-ae3b-86ec9e005947_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中国第43次南极考察队从三亚启航执行南极科学考察任务",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/f6dd7508-70b5-49aa-84aa-a0a6003fabbd_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）免费展位扩容17% 进博会带“最不发达国家”互利共赢",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727922F107DT20261107160423.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "非遗展演邂逅无人机灯光秀 重庆上演“非遗之夜”",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727894F107DT20261107153319.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "乌鲁木齐：援疆精品舞台剧《觉醒年代》吸引民众观看",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/26c87ebc-ff51-4719-bdbf-d2a60518896f_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：苏格兰选手约翰·希金斯晋级决赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/f6ee4277-3710-43f1-afc2-a48a26629c24_zsite.jpg",
         "subtitle": "  "
       }
     }
