@@ -7,7 +7,63 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-07"
+        "subtitle": "2026-11-08"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "日本静冈县西部发生5.7级地震",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728235F107DT20261108091615.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "四川广元：航拍曾家山数万亩林海披上“黄金甲”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/24bf941b-098c-41e2-8807-945b7ada156c_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "湖北巴东：600余人立冬横渡三峡",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/6b951f43-2687-4a4d-8b3c-7af281796f53_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026中国杯世界花样滑冰大奖赛：女子单人滑·自由滑项目展开角逐",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/3f6c3a01-dc1a-4049-9d04-90d7936b95a0_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "浙江杭州：市民游客打卡杭州ADM展 解锁多元生活方式",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/1c227601-b761-4db7-9ae7-718c48cbc9d6_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "浙江省第十二届残疾人运动会在衢州开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/9e5d1c03-405d-4c82-b8a1-0153205f84d7_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西三江：柚香满城游人醉",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/c4e9a038-338e-4b05-9b5a-0663ba5baefd_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -271,62 +327,6 @@
       "slide": {
         "title": "2026世界斯诺克巡回赛国际锦标赛：苏格兰选手约翰·希金斯晋级决赛",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/f6ee4277-3710-43f1-afc2-a48a26629c24_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广东东莞：狮子洋通道主塔封顶后转入上部结构施工",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727891F107DT20261107151912.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中国常驻团在维也纳联合国总部举办新中国恢复联合国合法席位55周年主题活动",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727890F107DT20261107181038.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川苍溪：国际摄影师用镜头讲述“苍溪故事”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/20a81003-7e8c-42d0-8e48-ddf0f3567c70_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026世界斯诺克巡回赛国际锦标赛：中国选手常冰玉无缘决赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/d5b4ad92-b4b8-4f52-bd35-8e344e6b0407_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年中国金鸡百花电影节在厦门开幕 黄晓明、赵丽颖点亮金鸡",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/6823f997-605e-4aed-8319-86e679cb2cc8_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "新疆哈密：匠心守护甜蜜产业",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727807F107DT20261107111231.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "新疆：游客体验红色军垦文化",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-07/U893P4T8D10727805F107DT20261107110754.jpg",
         "subtitle": "  "
       }
     }
