@@ -13,6 +13,46 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "波兰克拉科夫发生枪击事件 已致6死16伤",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728354F107DT20261108151137.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "南宁粉纸扇扮靓城市 游客驻足打卡",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/b14bc5e7-0679-4717-8832-8ebb609fd5ee_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "山东荣成：秋假研学正当时",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/b8bd9ebb-6022-4f7e-915f-ace431d088ad_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "上海吴淞口国际邮轮港首次迎来国产大型邮轮“双船同靠”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/3c5ae3c3-ed35-4a16-aa6c-9a17236a39fa_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "北京雨雪天气结束 气温创下半年来新低",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728320F107DT20261108133046.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "福建龙岩：“五彩龙岩·山水有约”主题演出上演",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/cb8faff0-3eb8-4b12-a0cb-6856f0d4116a_zsite.jpeg",
         "subtitle": "  "
@@ -287,46 +327,6 @@
       "slide": {
         "title": "重庆举行太极拳传承实践展演 600人共展太极风采",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/be3e8b97-ce26-4269-a2fd-d044937749f7_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川茂县：苹果丰收采摘忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/ffe8e213-707d-4f02-8dea-3821cdacf2db_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "高铁时代的温情慢火车",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/980779a6-1f95-42a4-ad79-809776dce39c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "民众在宁夏博物馆内领悟长征精神",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/bdf29c5e-3cae-42ef-8f35-2eda66431422_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北鸡泽：市政铸件畅销海内外",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/b7074696-e8e8-4f25-abb8-736ce03a84d4_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福州高架三角梅盛开成空中花廊",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261107/0c9e5a31-e341-4901-83c7-4019013b7a66_zsite.jpeg",
         "subtitle": "  "
       }
     }
