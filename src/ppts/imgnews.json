@@ -7,7 +7,15 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-08"
+        "subtitle": "2026-11-09"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "埃及列车脱轨事故已致7死112伤",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U992P4T8D10728614F107DT20261109091435.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -319,14 +327,6 @@
       "slide": {
         "title": "北京雨雪天气结束 气温创下半年来新低",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728320F107DT20261108133046.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福建龙岩：“五彩龙岩·山水有约”主题演出上演",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/cb8faff0-3eb8-4b12-a0cb-6856f0d4116a_zsite.jpeg",
         "subtitle": "  "
       }
     }
