@@ -13,6 +13,54 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "（第九届进博会）在上海“四叶草”展望深圳APEC",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U1067P4T8D10728838F107DT20261109152148.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "暴雨侵袭 加沙地带帐篷营地被淹",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U574P4T8D10728818F107DT20261109144722.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广东东莞：广深改扩建项目加紧施工",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U1067P4T8D10728790F107DT20261109141210.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "长春举办动力伞编队展演 庆祝人民空军成立77周年",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/7b716b8c-7702-42a6-996d-86a29d546fc6_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“红鹰”编队飞越长春贺空军成立77周年",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/27ae5958-32c1-4f4c-96fa-d85fbd61a9ee_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "澳门青少年走进四川北川 沉浸式感受羌族非遗独特魅力",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/00e1397b-0386-4270-b75f-411df4c5cbfd_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "河北石家庄迎来低温霜冻天气",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/4c6cbc4b-d91b-4181-95e0-21cf396133a9_zsite.JPG",
         "subtitle": "  "
@@ -279,54 +327,6 @@
       "slide": {
         "title": "（第九届进博会）进博好物“护航”大众睡眠",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-08/U574P4T8D10728421F107DT20261108173223.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）第九届进博会向社会观众开放",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-08/U574P4T8D10728407F107DT20261108165133.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026眉山东坡马拉松比赛鸣枪开赛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/1d97346a-f2c5-4338-8db2-167642cde67c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川茂县羌族民众载歌载舞迎羌年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/3848077a-335b-4d3d-b47f-115c12f8f31f_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "香港宠物巴士开通两周年 民众体验人宠同乐",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/77738520-6640-4df1-ad62-b8b7ba9883b2_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北秦皇岛：多部门积极应对降雪天气",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/6202ac5e-26c7-4d95-aba5-8f7238f1a96c_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026合肥马拉松雨中鸣枪开跑",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261108/60f5ceac-f058-4190-b226-4624d37b3c94_zsite.jpeg",
         "subtitle": "  "
       }
     }
