@@ -7,7 +7,31 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-09"
+        "subtitle": "2026-11-10"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“卷帙匠心——古今书籍装帧美学”展在柏林开幕",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-10/U992P4T8D10729197F107DT20261110082445.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "航拍贵州威宁高原水库雪景",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/03cb3cc0-6f3c-4f0d-83b0-febcd42c914a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州松桃苗族自治县欢庆成立70周年",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/664fb08a-7765-4167-a5dd-3216aa1c75d7_zsite.JPG",
+        "subtitle": "  "
       }
     },
     {
@@ -303,30 +327,6 @@
       "slide": {
         "title": "澳门青少年走进四川北川 沉浸式感受羌族非遗独特魅力",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/00e1397b-0386-4270-b75f-411df4c5cbfd_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北石家庄迎来低温霜冻天气",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/4c6cbc4b-d91b-4181-95e0-21cf396133a9_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中国成功发射卫星互联网低轨29组卫星",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U1067P4T8D10728673F107DT20261109105431.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川汶川《爱在汶川》全域沉浸式演绎点亮羌年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/0cde9fb3-14fc-4062-a5c3-06b058f2f899_zsite.JPG",
         "subtitle": "  "
       }
     }
