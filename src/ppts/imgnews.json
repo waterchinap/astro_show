@@ -13,6 +13,30 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "美国白宫附近发生两起安全事件 白宫一度短暂封锁",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-10/U574P4T8D10729448F107DT20261110152725.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "海外华文媒体代表走进合肥包公园 古今交融中品读包公文化",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/b0971869-b6c0-4b47-8aef-d0a8aecbee81_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "北京初冬胜景引游客",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-10/U992P4T8D10729400F107DT20261110144341.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "万菊争妍姹紫嫣红 南京农业大学菊花基地绘就斑斓世界",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/0fc81aad-eb8b-4498-bd74-8d206e206e69_zsite.jpg",
         "subtitle": "  "
@@ -303,30 +327,6 @@
       "slide": {
         "title": "服务68载 呼和浩特白塔国际机场迎来转场倒计时",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/51f38ca2-148c-4808-b1c5-c623022c6da7_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）咖啡香飘进博会",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U1067P4T8D10728875F107DT20261109155458.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（第九届进博会）在上海“四叶草”展望深圳APEC",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U1067P4T8D10728838F107DT20261109152148.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "暴雨侵袭 加沙地带帐篷营地被淹",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U574P4T8D10728818F107DT20261109144722.jpg",
         "subtitle": "  "
       }
     }
