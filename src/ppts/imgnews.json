@@ -7,7 +7,71 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-10"
+        "subtitle": "2026-11-11"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/5112e788-15fe-49f8-b620-760edfe77fcf_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026澜沧江—湄公河地方政府合作论坛暨历史文化名城对话会在乐山开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/dce72550-9bc1-44bb-962a-abe9ab475ced_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河北邯郸：废弃锅炉房变身公共文化空间",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/1f5c3830-acb4-4ebd-a175-3b5990c95440_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "深圳福田红树林成候鸟越冬地 黑脸琵鹭等陆续抵达",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/53cb6bf9-55e6-4154-903b-f2c876f5d0fa_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "浙江义乌：“双十一”前夕直播忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/ce8dcca5-ed64-4f4e-ba23-fe94873769ee_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "深圳APEC主题灯光秀吸引游客",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-10/U574P4T8D10729848F107DT20261110220632.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "王沪宁会见老挝建国阵线中央委员会副主席布沙迪",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-10/U574P4T8D10729845F107DT20261110220152.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“双十一”将至 河北廊坊快递分拨中心作业忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/d6f3dda2-421d-4667-85a6-09e57a582605_zsite.JPG",
+        "subtitle": "  "
       }
     },
     {
@@ -263,70 +327,6 @@
       "slide": {
         "title": "郑州文庙银杏树渐次金黄吸引游人",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/fe97214d-b8cf-4dbd-9407-57d6d124d88d_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "世界一级方程式赛车锦标赛（F1）巴西大奖赛正赛举行",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U574P4T8D10729104F107DT20261109205616.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川汶川：“羌家乐·全民宴”开席 各族民众共庆羌年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/cb5827b0-b538-41f7-a322-6db4afb3bb6c_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "厦金大桥（厦门段）项目建设进展顺利",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/22437464-d19d-4a26-9d35-2d15d164e9a2_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "《伟大的长征》主创团队走进北京大学",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-09/U574P4T8D10729068F107DT20261109202900.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中国国际城市轨道交通展览会在广州开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/f0e6fd9f-a3ef-4ba6-9135-cb1efcbacda5_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山东青岛：博物馆打破周一闭馆惯例迎秋假研学热",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/252197fc-f5e8-4455-a380-2dc5d6e2f82f_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "三千架无人机长春腾空列阵 庆祝人民空军成立77周年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/08e45f18-5a7d-46dc-b702-1e964b9ba681_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "宁夏银川：落叶展引市民参观",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/819ce42d-42c2-4724-a240-be01d4ce7896_zsite.jpg",
         "subtitle": "  "
       }
     }
