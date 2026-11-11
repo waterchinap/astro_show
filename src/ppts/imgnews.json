@@ -13,6 +13,30 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "【这个城市有点潮】景德镇：到“瓷”一游！千年瓷都一直很会玩",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-11/U1129P4T8D10729937F107DT20261111100338.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年度邵逸夫奖颁奖典礼在香港举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/09fe94cf-5273-4060-bb1d-c398d0035c3d_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "银川五人制足球国际邀请赛收官 伊朗女队夺冠",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/74a782f8-7ccc-404d-a0dd-d3f198e70233_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/5112e788-15fe-49f8-b620-760edfe77fcf_zsite.jpg",
         "subtitle": "  "
@@ -303,30 +327,6 @@
       "slide": {
         "title": "航拍贵州威宁高原水库雪景",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/03cb3cc0-6f3c-4f0d-83b0-febcd42c914a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州松桃苗族自治县欢庆成立70周年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/664fb08a-7765-4167-a5dd-3216aa1c75d7_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "深圳中小科创企业借APEC契机加速出海",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/85e39f02-72ff-4468-8da3-0b0778329b1e_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "郑州文庙银杏树渐次金黄吸引游人",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261109/fe97214d-b8cf-4dbd-9407-57d6d124d88d_zsite.JPG",
         "subtitle": "  "
       }
     }
