@@ -7,7 +7,63 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-11"
+        "subtitle": "2026-11-12"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【四时映画】河南郑州：天鹅戏水晨雾间",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U1067P4T8D10730615F107DT20261112092358.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第49届东盟峰会将于菲律宾马尼拉举行 国际媒体中心正式开放",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U992P4T8D10730614F107DT20261112091441.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年APEC领导人会议周新闻中心启用",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U992P4T8D10730605F107DT20261112084132.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "哈尔滨：一条长街的“中山印记”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/7052684e-0c1e-4b91-ac67-6b00b4e72116_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "APEC会议倒计时一周 深圳街头繁花盛放迎八方宾朋",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-11/U574P4T8D10730539F107DT20261111214300.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河北廊坊：中试平台赋能 助力京津科创成果落地转化",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/1d811776-a5ad-41fe-83b8-5423f85a1101_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "土耳其航空开通成都至伊斯坦布尔客运航线",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/be2b285a-e0e5-45cb-a53d-5af59677d339_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -31,6 +87,14 @@
       "slide": {
         "title": "王沪宁会见古巴党和政府特使、古共中央政治局委员、外交部长罗德里格斯",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-11/U574P4T8D10730502F107DT20261111204637.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "千年商埠 梦里水乡——探访福建莆田萝苜田历史文化街区",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/88cf4e44-d466-4c3a-8fb1-316e3a09d1e6_zsite.jpeg",
         "subtitle": "  "
       }
     },
@@ -263,70 +327,6 @@
       "slide": {
         "title": "以味为桥 80名厨师烹制西部陆海新通道沿线美食",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/5112e788-15fe-49f8-b620-760edfe77fcf_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026澜沧江—湄公河地方政府合作论坛暨历史文化名城对话会在乐山开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/dce72550-9bc1-44bb-962a-abe9ab475ced_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北邯郸：废弃锅炉房变身公共文化空间",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/1f5c3830-acb4-4ebd-a175-3b5990c95440_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "深圳福田红树林成候鸟越冬地 黑脸琵鹭等陆续抵达",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/53cb6bf9-55e6-4154-903b-f2c876f5d0fa_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "浙江义乌：“双十一”前夕直播忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/ce8dcca5-ed64-4f4e-ba23-fe94873769ee_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "深圳APEC主题灯光秀吸引游客",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-10/U574P4T8D10729848F107DT20261110220632.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "王沪宁会见老挝建国阵线中央委员会副主席布沙迪",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-10/U574P4T8D10729845F107DT20261110220152.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“双十一”将至 河北廊坊快递分拨中心作业忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/d6f3dda2-421d-4667-85a6-09e57a582605_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第39届中国电影金鸡奖红毯仪式在福建厦门举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261110/baaa233b-c6b1-4441-b232-f8677c510233_zsite.JPG",
         "subtitle": "  "
       }
     }
