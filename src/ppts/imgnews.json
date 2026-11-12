@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "电影《云水谣》二十周年系列主题活动在福建南靖举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/1bf85901-e3b8-49f8-bb6d-c15a4bce11da_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "纪念孙中山先生诞辰160周年大会在北京举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U1067P4T8D10730754F107DT20261112135242.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "柬埔寨风情汇聚昆明 上演异域文化盛宴",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/8c5c9ba3-aa63-40fc-8379-fbb1c4eb596c_zsite.jpg",
         "subtitle": "  "
@@ -311,22 +327,6 @@
       "slide": {
         "title": "“双十一”青藏铁路进藏快件运量环比增近3倍",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/681a0f28-4c95-4da5-a828-f09ba99381c3_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "安徽合肥：“人工智能+”多场景落地赋“智”千行百业",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261111/6b247b59-4f66-4fdb-b4b9-24c992996524_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【中新画报】探寻孙中山的港澳史迹",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-11/U1129P4T8D10730136F107DT20261111162333.jpg",
         "subtitle": "  "
       }
     }
