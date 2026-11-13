@@ -7,7 +7,119 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-12"
+        "subtitle": "2026-11-13"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国排球超级联赛：北京越野男排0比3不敌上海光明男排",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-13/U992P4T8D10731275F107DT20261113090859.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "美国华盛顿枪击事件致1亡4伤 嫌疑人自杀",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-13/U992P4T8D10731270F107DT20261113085715.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "向美而行逐梦未来 江苏大学生艺术展演亮相东南大学",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/d80d5f8e-83db-441e-8766-03a0ffaf2707_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026年全国攀岩锦标赛（重庆九龙坡）开赛 240名攀岩健儿岩壁争锋",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/7a2f1910-f44c-4648-bf7d-36524e758537_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州雷山：载歌载舞欢庆苗年",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/72ba24bf-b8d6-4282-b874-c5ccd1bc3d98_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "四川省第十七届民族运动会：“珍珠球”比赛竞争激烈",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/c84135f6-0300-4abd-b1d7-4be998edce95_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“日新万象”展香港揭幕 纪念孙中山先生诞辰160周年",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/c7d4c515-f9dc-40a9-bb51-24a7563b51e7_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "山东东营“鸟浪”迎最佳观赏期",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/21e07b48-a828-4821-8711-03bce38afd6d_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“冬游西藏”正当时",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/cbcd88be-9723-4403-b8c4-09b3bc5a7344_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福建惠安影雕传承人：以石为纸，匠心绘影",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/3f4b1fa5-762c-4869-81a1-bcf55460a0b4_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "云南腾冲百年皮影戏舞出新天地",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/82d4b493-2898-488b-9a9b-091d5194f4bf_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "西宁百年老街开展民俗文化体验活动 丰富民众生活",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/435f2be9-1e09-403c-8e4e-27193aa21c50_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广东星湖国家湿地公园迎候鸟迁徙季",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/03caab6e-f243-418c-abd5-7bc37e5ebfaf_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "寻访杭州中山印记 湖山街巷光华永续",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/e4c1f305-193d-47d0-b71f-b9f1c8ca0535_zsite.JPG",
+        "subtitle": "  "
       }
     },
     {
@@ -215,118 +327,6 @@
       "slide": {
         "title": "松花江哈尔滨段：半冰半水 鸥鸟翩飞",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/7e6c6ed3-fce5-4627-a772-9e3b073de79f_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探访贵州贵阳中山路：横贯东西的“中轴线”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/a366e960-2884-4b05-b3fe-be2217540f51_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "美国纽约一建筑发生坍塌事故 现场遍地瓦砾",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U855P4T8D10730920F107DT20261112164444.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "香港举行孙中山先生诞辰160周年纪念仪式",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/3350b874-88cb-4b6c-9d00-9571559b5739_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "济南市中山公园：百年园林里的“中山印记”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/56c91c8e-cd09-4217-8fcd-653e3a973fea_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山东青岛：菊花盛放中山公园",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/862010f2-f99a-49c5-8f87-f778ef12dc33_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国残疾人跳绳比赛在北京举办",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U1067P4T8D10730910F107DT20261112163355.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "重庆綦江一包装制品公司发生火灾",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/4a7233e9-2970-471d-be5e-44025091743d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "电影《云水谣》二十周年系列主题活动在福建南靖举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/1bf85901-e3b8-49f8-bb6d-c15a4bce11da_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "纪念孙中山先生诞辰160周年大会在北京举行",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U1067P4T8D10730754F107DT20261112135242.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "柬埔寨风情汇聚昆明 上演异域文化盛宴",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/8c5c9ba3-aa63-40fc-8379-fbb1c4eb596c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西龙胜：培训技艺传非遗",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/cadd9777-0435-4926-9a35-23025420e88c_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "越剧《断桥·游湖》快闪西湖 “文艺赋美”吸引游人",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/f7a8ce15-fe4e-4bd1-ac37-ca22ce7d57dd_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "深圳华强北吸引海外客商参观采购",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/2eb5a9d7-fbdd-4b88-ac4c-cfa137b8d0e6_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "熊猫杯成都国际青年足球锦标赛：中国U19男足3比1胜越南队",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/5f67db2c-4583-4fc6-a169-959f5def6fe3_zsite.jpeg",
         "subtitle": "  "
       }
     }
