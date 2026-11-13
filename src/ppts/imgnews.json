@@ -13,6 +13,54 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "云南乡土文化能人闪耀腾冲 绽放民族文化魅力",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/a5355527-ae06-46f6-8d21-2414329af57a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "印度发生火车脱轨事故 8人受轻伤",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-13/U1132P4T8D10731309F107DT20261113094830.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "哈尔滨发布大雾橙色预警",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/e69c388d-acc3-4b5f-98b4-0aa51c95a333_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西南宁市集中开展高层建筑灭火救援实战演练",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/06a4dc8e-e84f-478f-a42d-be50e73aa8db_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西三江：丹青绘侗韵 技艺惠民生",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/735df276-3241-4a05-b8cc-546c618afbfd_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "民众漫步烟雨永泉小镇 沉浸式体验民俗乡土风情",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/e7089d8f-13ea-4661-9be3-005b3fa44a0b_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "中国排球超级联赛：北京越野男排0比3不敌上海光明男排",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-13/U992P4T8D10731275F107DT20261113090859.jpg",
         "subtitle": "  "
@@ -279,54 +327,6 @@
       "slide": {
         "title": "长沙中小学生秋假首日打卡科技盛宴",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/092dc6e6-d94d-4dc9-a78b-0b4b073c9178_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北霸州：小小台球杆 撑起特色制造产业",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/22b6fba3-a75f-4222-8326-3e054e8d6b8f_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "四川省第十七届少数民族传统体育运动会开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/7cadfe6e-f8ed-4a2d-921c-9bd967fc110d_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "近80个汽车品牌在河南展出 新能源汽车占比超六成",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/68c7fb3c-ab19-41ef-8919-3e9a4a38af9a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "走进“中国古铜都”安徽铜陵 探寻铜雕技艺创新传承之路",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/4f28b11d-fcf9-449b-b438-53f73afe05c6_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "纪念孙中山诞辰160周年 江苏各界人士拜谒南京中山陵",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/e6b6b645-cfdd-4cdd-9107-f9b9bb44f1c4_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "松花江哈尔滨段：半冰半水 鸥鸟翩飞",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/7e6c6ed3-fce5-4627-a772-9e3b073de79f_zsite.jpg",
         "subtitle": "  "
       }
     }
