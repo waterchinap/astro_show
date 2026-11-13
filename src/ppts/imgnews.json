@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "初冬秦岭腹地美如画 朱鹮翩飞晨雾间",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/09b86603-a512-4541-ac65-aeaacebe8671_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“达尔富拉姆事件”88周年纪念活动在澳大利亚伍伦贡市举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-13/U1067P4T8D10731502F107DT20261113152308.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州毕节多地迎红嘴鸥越冬",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/6a6390db-3d66-42f8-87df-09e92fb61b8f_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【四时映画】贵州威宁：黑颈鹤草海栖息",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-13/U992P4T8D10731438F107DT20261113140108.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "云南乡土文化能人闪耀腾冲 绽放民族文化魅力",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/a5355527-ae06-46f6-8d21-2414329af57a_zsite.jpg",
         "subtitle": "  "
@@ -295,38 +327,6 @@
       "slide": {
         "title": "欧亚企业重庆行产业对接会在渝举行",
         "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-12/U574P4T8D10730986F107DT20261112175231.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年全国残疾人跳绳比赛在北京举办",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/f83c8fd6-5a45-402d-8424-033b1d9108b5_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "纪念孙中山先生诞辰160周年大会在京举行",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U574P4T8D10730936F107DT20261112172150.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "海外华文媒体代表走进铜陵博物馆 触摸千年吉金文脉",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/89abf0fe-df98-4ab0-8956-593c5b3e5346_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "长沙中小学生秋假首日打卡科技盛宴",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/092dc6e6-d94d-4dc9-a78b-0b4b073c9178_zsite.jpeg",
         "subtitle": "  "
       }
     }
