@@ -13,6 +13,46 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "台湾媒体人走进广州大元帅府 追寻孙中山革命初心",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/1660595e-7632-4310-93a8-51714f5263ad_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "文艺复兴艺术与明清书画特展在海口展出",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/1ad825ea-d2fe-4ade-9af4-704214b1be23_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "在世界中文大会 看见“不止于语言”的国际中文教育",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-13/U574P4T8D10731705F107DT20261113200957.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "世界中文大会全体会议在北京举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-13/U574P4T8D10731704F107DT20261113200846.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "安徽铜陵：邂逅“水中大熊猫” 长江江豚乐享幸福家园",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/3339cf35-f842-4337-932d-12e165ae0185_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "西藏拉萨迎候鸟越冬",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/4456f6d6-d2ef-4380-949b-ba6a48d35c67_zsite.jpg",
         "subtitle": "  "
@@ -287,46 +327,6 @@
       "slide": {
         "title": "西宁百年老街开展民俗文化体验活动 丰富民众生活",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/435f2be9-1e09-403c-8e4e-27193aa21c50_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广东星湖国家湿地公园迎候鸟迁徙季",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/03caab6e-f243-418c-abd5-7bc37e5ebfaf_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "寻访杭州中山印记 湖山街巷光华永续",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/e4c1f305-193d-47d0-b71f-b9f1c8ca0535_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "宁夏银川：胡萝卜采收忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/01248f46-f69b-4c25-aadc-bbf4ce1da392_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "重庆首条城轨快线——轨道交通15号线开通运营",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261112/03db1d54-0f8f-40c3-972b-d155baba4893_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【中新画报】寻访金陵史迹 缅怀中山先生",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-12/U574P4T8D10731093F107DT20261112212347.jpg",
         "subtitle": "  "
       }
     }
