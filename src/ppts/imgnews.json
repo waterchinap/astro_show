@@ -13,6 +13,14 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "2026年APEC领导人会议周新闻中心举办广东、深圳专场中外媒体吹风会",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-14/U1066P4T8D10732014F107DT20261114152136.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "河南登封嵩山大法王寺千年银杏树披金",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/b2ade9eb-4808-4272-b871-370c119a8d67_zsite.jpg",
         "subtitle": "  "
@@ -319,14 +327,6 @@
       "slide": {
         "title": "【四时映画】贵州威宁：黑颈鹤草海栖息",
         "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-13/U992P4T8D10731438F107DT20261113140108.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "云南乡土文化能人闪耀腾冲 绽放民族文化魅力",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/a5355527-ae06-46f6-8d21-2414329af57a_zsite.jpg",
         "subtitle": "  "
       }
     }
