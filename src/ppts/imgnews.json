@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "河南登封嵩山大法王寺千年银杏树披金",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/b2ade9eb-4808-4272-b871-370c119a8d67_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "原创音乐剧《绝壁天路》首演：数字技术“穿越”讲述河南新乡“郭亮洞”开凿史",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/2f116f46-a6cb-4035-8c17-666df158675d_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福建省第十八届运动会在三明开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/82a58517-f4bb-4836-9510-b82712a898a9_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "美国联邦航空管理局因通信问题暂停全美航班起飞",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-14/U1066P4T8D10731908F107DT20261114103005.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "贵州雷山百年水上粮仓引客来",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/e0779ea1-e9c9-4717-af14-78a8e737fd50_zsite.jpg",
         "subtitle": "  "
@@ -295,38 +327,6 @@
       "slide": {
         "title": "云南乡土文化能人闪耀腾冲 绽放民族文化魅力",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/a5355527-ae06-46f6-8d21-2414329af57a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "印度发生火车脱轨事故 8人受轻伤",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-13/U1132P4T8D10731309F107DT20261113094830.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "哈尔滨发布大雾橙色预警",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/e69c388d-acc3-4b5f-98b4-0aa51c95a333_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西南宁市集中开展高层建筑灭火救援实战演练",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/06a4dc8e-e84f-478f-a42d-be50e73aa8db_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西三江：丹青绘侗韵 技艺惠民生",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261113/735df276-3241-4a05-b8cc-546c618afbfd_zsite.jpg",
         "subtitle": "  "
       }
     }
