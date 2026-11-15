@@ -13,6 +13,46 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "“港珠澳大桥半程马拉松赛2026”香港开跑　埃塞俄比亚选手包揽男、女冠军",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/84f5d341-de3c-4355-a8cd-7de8e9a22914_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "熊猫杯成都国际青年足球锦标赛：中国U-19男足1比1战平塔吉克斯坦U-19男足",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/d57e758b-921d-4f03-b3c2-baf045419d28_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026南昌马拉松鸣枪开跑 3.2万人参赛",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/44d53673-6d6f-4a88-b256-5eb62090af9c_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "无人机灯光秀点亮重庆夜空 光影演绎古城门记忆",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/4073d95e-e6a2-4d0d-a1ad-3417aa4e355e_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "同谒妈祖，共守根脉：两岸青年徒步200公里踏上寻根之旅",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/5bce3e4c-bd7f-49a6-9970-c746b198b3fc_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "河南三门峡：冬晨雾飘渺 天鹅入画来",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/e46259c3-85b3-4d9a-91f1-d97e701f0875_zsite.jpg",
         "subtitle": "  "
@@ -287,46 +327,6 @@
       "slide": {
         "title": "原创音乐剧《绝壁天路》首演：数字技术“穿越”讲述河南新乡“郭亮洞”开凿史",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/2f116f46-a6cb-4035-8c17-666df158675d_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福建省第十八届运动会在三明开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/82a58517-f4bb-4836-9510-b82712a898a9_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "美国联邦航空管理局因通信问题暂停全美航班起飞",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-14/U1066P4T8D10731908F107DT20261114103005.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州雷山百年水上粮仓引客来",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/e0779ea1-e9c9-4717-af14-78a8e737fd50_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年河南省女子排球城市联赛在郑州开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/9555c568-a0df-40bc-b768-a992fc9ad5c8_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "民众走进铜陵浮山 揽地质奇观识千年文脉",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/96940933-e9ab-4f9b-baf6-79a7d09eb96f_zsite.jpeg",
         "subtitle": "  "
       }
     }
