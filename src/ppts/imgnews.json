@@ -7,7 +7,47 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-15"
+        "subtitle": "2026-11-16"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026重庆武隆芙蓉湖铁人三项公开赛鸣枪开赛 中外“铁人”展开角逐",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/cde01ca1-544d-49ad-929f-e4df86568251_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "尼泊尔民众庆祝太阳节",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/777ff155-2089-45b4-82b2-830d0c312c96_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第49届东盟峰会在菲律宾马尼拉开幕",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U1067P4T8D10732557F107DT20261116083956.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功 由发射塔机械臂“捕获”回收",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U1067P4T8D10732552F107DT20261116081611.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U1067P4T8D10732547F107DT20261116075241.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -94,7 +134,7 @@
       "template": "ImgTitle",
       "slide": {
         "title": "（深圳APEC）中外客商汇聚深圳华强北 觅科技机遇",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-15/U855P4T8D10732457F107DT20261115193852.jpg",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-15/U855P4T8D10732457F107DT20261115193852.jpg",
         "subtitle": "  "
       }
     },
@@ -102,7 +142,7 @@
       "template": "ImgTitle",
       "slide": {
         "title": "（深圳APEC）打卡“深圳之眼” 媒体记者走进岗厦北枢纽",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-15/U855P4T8D10732450F107DT20261115192139.jpg",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-15/U855P4T8D10732450F107DT20261115192139.jpg",
         "subtitle": "  "
       }
     },
@@ -110,7 +150,7 @@
       "template": "ImgTitle",
       "slide": {
         "title": "（深圳APEC）媒体记者走进深圳第一高楼 俯瞰鹏城天际线",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-15/U855P4T8D10732445F107DT20261115191212.jpg",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-15/U855P4T8D10732445F107DT20261115191212.jpg",
         "subtitle": "  "
       }
     },
@@ -287,46 +327,6 @@
       "slide": {
         "title": "速度滑冰世界杯北京站：中国选手廉子文获男子500米金牌",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-15/U855P4T8D10732256F107DT20261115103702.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北故城贡面大赛：匠人同台“拉”出细密银丝",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/6a08147c-03a0-431b-9944-ce29b3275e23_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "海外华文媒体走进安徽楚文化博物馆 邂逅“最后楚都”千年文脉",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/1d77046f-20ef-48cf-9f76-8a6349e5cede_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "海外华文媒体探访安徽寿县安丰塘 感受千年古塘“在岗”智慧",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/24aeadea-c3ff-49c2-8a11-00cb5f6ee8ed_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "熊猫杯成都国际青年足球锦标赛：越南U-19男足1比2负于韩国U-19男足",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/5e31b4ba-0dd2-4f59-a49a-5cab8c2a72a4_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "宁夏银川：红嘴鸥飞抵“塞上湖城”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261114/ac2320bf-f0e8-43c3-bec3-148744960e18_zsite.jpg",
         "subtitle": "  "
       }
     }
