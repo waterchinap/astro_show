@@ -14,7 +14,679 @@
       "template": "TitleContent",
       "slide": {
         "title": "东方财富即时信息",
-        "content": "2026-11-16 18:24:44"
+        "content": "2026-11-16 21:24:27"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "伊朗军队称24小时内第三艘油轮在霍尔木兹海峡触雷起火",
+        "content": "2026-11-16 21:24:27"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "巴西计划和预算部长：若油价维持在80美元以上 将继续征收石油出口税",
+        "content": "2026-11-16 21:23:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "800G和1.6T光模块配套PCB研究进度如何？超声电子回应",
+        "content": "2026-11-16 21:15:49"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "Corvex签署1.03亿美元英伟达Blackwell算力保底采购协议",
+        "content": "2026-11-16 21:15:48"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "穆迪将沃尔沃汽车评级下调至Ba2",
+        "content": "2026-11-16 21:15:37"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "朗特智能：拟6.63亿元收购光器件公司成都奥捷51%股权",
+        "content": "2026-11-16 21:13:48"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "何小鹏：明年一季度首批量产机器人进入小鹏门店开启商用",
+        "content": "2026-11-16 21:13:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "何小鹏：期望明年获欧盟首批自动驾驶监管许可",
+        "content": "2026-11-16 21:10:57"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "A股算力产业链再回应“英伟达事件影响”：采购走合规渠道 不依赖特定人员",
+        "content": "2026-11-16 21:06:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "强生拟以22亿美元现金收购Ollin Biosciences 另有最高11.25亿美元里程碑付款",
+        "content": "2026-11-16 21:04:16"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "Strategy披露上周增持485枚比特币",
+        "content": "2026-11-16 21:02:54"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "OPPO Reno17系列发布",
+        "content": "2026-11-16 21:02:04"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "国内商品期货夜盘开盘 主力合约大面积飘绿",
+        "content": "2026-11-16 21:00:05"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "布伦特原油日内跌幅达1.5%",
+        "content": "2026-11-16 20:57:33"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "何小鹏：四季度小鹏汽车海外销量目标超4万台 全年将首次突破10万台",
+        "content": "2026-11-16 20:57:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "氯化铵市场正掀起一轮年内罕见的快速上涨 上周山东、河北干铵主流价格涨幅达12.5%",
+        "content": "2026-11-16 20:51:18"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "亚泰集团：与重整投资人签署重整投资协议",
+        "content": "2026-11-16 20:46:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "Knot据称预计将于本周退出欧洲央行行长的竞选",
+        "content": "2026-11-16 20:43:02"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "百度首席执行官：云基础设施投资的回报周期正在缩短",
+        "content": "2026-11-16 20:40:55"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "泰森食品第四财季调整后每股收益0.61美元 同比下降47%",
+        "content": "2026-11-16 20:34:37"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "尼日利亚10月消费者价格指数同比上涨14.06%",
+        "content": "2026-11-16 20:32:17"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "11月第2周生猪价格环比跌3.0% 猪肉价格环比跌1.2%",
+        "content": "2026-11-16 20:26:36"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美国民主党人要求美国商品期货交易委员会暂停实施预测市场相关规定",
+        "content": "2026-11-16 20:25:42"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美国股指期货跌幅扩大 纳斯达克100指数期货跌超1.5%",
+        "content": "2026-11-16 20:24:42"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "台积电美股盘前跌幅扩大至5.4%",
+        "content": "2026-11-16 20:24:12"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "科翔股份：拟8000万元—1.2亿元回购股份",
+        "content": "2026-11-16 20:23:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "顺钠股份：拟1.2亿元至2.4亿元回购公司股份",
+        "content": "2026-11-16 20:21:36"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "GIC、沙特电信据悉竞购数据中心开发商Pure DC股权",
+        "content": "2026-11-16 20:20:01"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "优利德：拟定增募资不超2.53亿元 用于高端光电测量仪器研发及产业化项目等",
+        "content": "2026-11-16 20:18:54"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "高盛将2026年第四季度布伦特原油价格预测从每桶108美元下调至每桶103美元",
+        "content": "2026-11-16 20:18:47"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中国成功连任国际电信联盟理事国",
+        "content": "2026-11-16 20:17:37"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中国证监会在沪召开国际顾问委员会第23次会议",
+        "content": "2026-11-16 20:07:01"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "国家市场监督管理总局副局长潘晓东在北京调研智慧监管体系建设工作",
+        "content": "2026-11-16 20:05:40"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "伯克希尔哈撒韦：巴菲特将向四家家族基金会捐赠B类股",
+        "content": "2026-11-16 20:04:12"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美光科技、西部数据、希捷科技美股盘前跌超5%",
+        "content": "2026-11-16 20:03:10"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "伯克希尔哈撒韦：名誉董事长沃伦·巴菲特将把6,150股A类股转换为922.5万股B类股",
+        "content": "2026-11-16 20:03:03"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "以色列两大阵营谈组阁无果而终",
+        "content": "2026-11-16 20:02:10"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "乌克兰称袭击了俄罗斯伊尔斯基炼油厂",
+        "content": "2026-11-16 20:01:03"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "迈威尔科技美股盘前跌超5%",
+        "content": "2026-11-16 19:57:10"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "英伟达美股盘前跌超3%",
+        "content": "2026-11-16 19:56:19"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "黑石数字基础设施信托拟以50亿美元收购亚马逊旗下数据中心资产控股权",
+        "content": "2026-11-16 19:52:35"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "瑞穗银行下调英伟达目标价",
+        "content": "2026-11-16 19:50:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成 五年硅片出货面积下调17%",
+        "content": "2026-11-16 19:49:45"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "国家数据局：加快编制《国家数据基础设施建设行动计划》",
+        "content": "2026-11-16 19:48:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "礼来拟以最高15亿美元现金收购Calytrix Bio",
+        "content": "2026-11-16 19:47:37"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "金科股份：股票收盘价低于1元 存在可能因股价低于面值被终止上市的风险",
+        "content": "2026-11-16 19:47:14"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "摩根士丹利上调2026、2027年布伦特原油价格预测",
+        "content": "2026-11-16 19:47:09"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "贝达药业与Mankind Pharma达成恩沙替尼印度独家许可合作协议",
+        "content": "2026-11-16 19:47:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "科翔股份：拟30亿元投建AI算力服务器PCB项目并签署投资合同",
+        "content": "2026-11-16 19:46:37"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "英国首相伯纳姆将发表讲话称脱欧并未奏效 失去比得到的更多",
+        "content": "2026-11-16 19:43:55"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "柴油发电机全球爆单 柴油发电机订单排到明年年底",
+        "content": "2026-11-16 19:43:15"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "德国总理：将在周二决定自2027年起下调电力税",
+        "content": "2026-11-16 19:39:48"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "天风证券吴开达：政策与AI需求双轮驱动 国内半导体产业正迈向全产业链体系建设",
+        "content": "2026-11-16 19:37:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "胜宏科技：拟向多家银行申请合计707亿元授信额度",
+        "content": "2026-11-16 19:34:19"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "胜宏科技：拟向马来西亚子公司增资不超1.7亿美元 用于承接核心国际客户FPC及软硬结合板订单",
+        "content": "2026-11-16 19:31:59"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中国保险行业协会召开第六届常务理事会第六次会议",
+        "content": "2026-11-16 19:31:38"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "胜宏科技：拟1.5亿元至3亿元回购公司股份",
+        "content": "2026-11-16 19:30:43"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐就中东局势进行了讨论",
+        "content": "2026-11-16 19:30:21"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "花旗上调SpaceX目标价",
+        "content": "2026-11-16 19:29:39"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "增量资金持续涌入 134只科创板ETF总规模上周首次突破4000亿元",
+        "content": "2026-11-16 19:29:23"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中科飞测：拟1亿元至1.5亿元回购股份用于股权激励或员工持股计划",
+        "content": "2026-11-16 19:26:26"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "19天11板文投控股：股票交易风险提示 前三季度净利润亏损3754.58万元",
+        "content": "2026-11-16 19:25:31"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "市场监管总局通报41批次食品抽检不合格情况",
+        "content": "2026-11-16 19:24:06"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美国综合性投资管理公司Coatue Management将其在亚马逊的持股比例下调1.8%",
+        "content": "2026-11-16 19:18:22"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "国家外汇管理局：10月以来我国外汇市场保持平稳运行",
+        "content": "2026-11-16 19:12:43"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "香港金管局：与Swift持续合作 通过Ensemble项目及Swift ledger探索跨境支付的互通性",
+        "content": "2026-11-16 19:08:07"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "伊朗战事死亡美军家属要求美军担责",
+        "content": "2026-11-16 19:07:35"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "外汇局：10月银行结汇18162亿元人民币 售汇14465亿元人民币",
+        "content": "2026-11-16 19:06:25"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "华为云：已有80%中国具身智能企业选择昇腾云",
+        "content": "2026-11-16 19:05:35"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "上纬新材：全资子公司获得政府补助4000万元",
+        "content": "2026-11-16 19:03:39"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "*ST美丽：股票收盘价低于1元 可能被终止上市",
+        "content": "2026-11-16 19:02:26"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "杉杉股份：现有产能满负荷运行 宁波硅基负极一期部分产能已投产",
+        "content": "2026-11-16 19:00:26"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "中巨芯：六氟化钨产能扩张系基于市场变化及客户需求反馈",
+        "content": "2026-11-16 19:00:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "金力泰：实控人刘少林获国家赔偿83.46万元",
+        "content": "2026-11-16 18:56:39"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "贝莱德智库负责人称市场对美联储加息的预期过于偏鹰",
+        "content": "2026-11-16 18:56:29"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "纳芯微：拟4.87亿元收购隔空智能78.15%股权",
+        "content": "2026-11-16 18:56:28"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "乌克兰军方称袭击了俄罗斯亚速城的两处油库",
+        "content": "2026-11-16 18:55:33"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "晶盛机电：拟1亿元至2亿元回购公司股份",
+        "content": "2026-11-16 18:52:01"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "力源科技：签订3490万元核电设备供货合同",
+        "content": "2026-11-16 18:50:06"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "14家理财公司10月净流入超9000亿元 含权固收理财较年初增近2万亿元",
+        "content": "2026-11-16 18:48:00"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "骏成科技：拟7.65亿元采购9000张GPU卡",
+        "content": "2026-11-16 18:46:30"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "美联储理事Barr称AI智能体或加大未来银行挤兑风险",
+        "content": "2026-11-16 18:46:22"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "一鸣食品：拟定增募资不超2.2亿元投建新型植乳基营养膳食食品生产线",
+        "content": "2026-11-16 18:46:14"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "芯海科技：汽车MCU芯片募投项目新增实施主体",
+        "content": "2026-11-16 18:46:09"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "兆龙互连：拟以5000万元-1亿元回购公司股份",
+        "content": "2026-11-16 18:43:18"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "全球基金在前一个交易日净买入556亿卢比的印度股票",
+        "content": "2026-11-16 18:42:40"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "恒基达鑫：拟5000万元-1亿元回购公司股份",
+        "content": "2026-11-16 18:42:27"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "标普：维持龙湖原有评级 展望为“稳定”",
+        "content": "2026-11-16 18:41:58"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "上大股份：因解除婚姻关系 特定股东拟将3.12%股份非交易过户至前妻名下",
+        "content": "2026-11-16 18:41:46"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "金荦会见渣打集团银行及券商业务全球总裁兼人民币国际化业务全球总裁张晓蕾一行",
+        "content": "2026-11-16 18:36:27"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "共达电声：控股股东一致行动人拟增持1.5亿至2.5亿元股份",
+        "content": "2026-11-16 18:36:05"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "ST东尼：拟申请撤销公司股票其他风险警示",
+        "content": "2026-11-16 18:33:59"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "报道：印度在预算案公布前正评估资本利得税",
+        "content": "2026-11-16 18:33:50"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "舒泰神：子公司产品注射用波米泰酶α纳入2026年国家医保目录",
+        "content": "2026-11-16 18:32:55"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "铁路建设高效推进 前10月完成投资超6700亿元",
+        "content": "2026-11-16 18:31:26"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
+        "title": "花旗下调戴尔科技目标价",
+        "content": "2026-11-16 18:26:28"
       }
     },
     {
@@ -34,687 +706,15 @@
     {
       "template": "TitleContent",
       "slide": {
+        "title": "脑机接口迎新进展！上下游产业链梳理",
+        "content": "2026-11-16 18:20:29"
+      }
+    },
+    {
+      "template": "TitleContent",
+      "slide": {
         "title": "遇害核科学家之子谈伊朗是否有核弹",
         "content": "2026-11-16 18:20:10"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "瑞银集团下调英伟达目标价",
-        "content": "2026-11-16 18:14:52"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "睿创微纳：拟5000万元至1亿元回购公司股份",
-        "content": "2026-11-16 18:11:16"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "商务部副部长凌激会见宝马集团董事长聂科维",
-        "content": "2026-11-16 18:09:40"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "华住集团称上调2026年全年的指引",
-        "content": "2026-11-16 18:07:56"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "两部门：酚丁类、比沙可啶类物质被列入非食用物质名录",
-        "content": "2026-11-16 18:07:34"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "胖东来：截至11月15日集团累计销售额达258.41亿元 同比上涨26.34%",
-        "content": "2026-11-16 18:06:46"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美国柴油零售价两个月来首次跌破6美元/加仑",
-        "content": "2026-11-16 18:03:06"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "亚洲对冲基金10月遭遇亏损 但仍守住年内涨幅",
-        "content": "2026-11-16 17:54:47"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "丰田Robotaxi业务进入示范运营阶段",
-        "content": "2026-11-16 17:54:46"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "盛屯矿业：拟4亿元至5亿元回购公司股份",
-        "content": "2026-11-16 17:54:29"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "Arm Holdings美股盘前跌超5%",
-        "content": "2026-11-16 17:53:28"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "康希诺：Td5cp疫苗获4-5周岁人群临床试验批准",
-        "content": "2026-11-16 17:52:27"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "法国外长：圣彼得堡石油码头也将被列入欧盟制裁名单",
-        "content": "2026-11-16 17:50:10"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "习近平在广东中山考察",
-        "content": "2026-11-16 17:49:09"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "小牛电动2026 Q3营收17.136亿元 毛利率提升至18%",
-        "content": "2026-11-16 17:48:26"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "联讯仪器：取得不超过1.35亿元股票回购专项贷款承诺函",
-        "content": "2026-11-16 17:46:19"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "光启技术：子公司签订17.9亿元超材料航空结构产品销售合同",
-        "content": "2026-11-16 17:46:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中微公司尹志尧：将与供应链紧密配合 持续提升公司交付能力",
-        "content": "2026-11-16 17:45:49"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "小鹏集团预计第四季度交付量16.9万至17.4万辆 同比增长约45%至50%",
-        "content": "2026-11-16 17:43:41"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "小鹏集团美股盘前涨超4%",
-        "content": "2026-11-16 17:43:38"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "小鹏集团第三季度营收242.8亿元同比增长19% 净亏损8.7亿元",
-        "content": "2026-11-16 17:42:03"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "捷捷微电：全资子公司拟投资15亿元建设车规级高功率半导体器件芯片生产线项目",
-        "content": "2026-11-16 17:39:27"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "南向资金净卖逾42亿港元 净买入MINIMAX-W近5亿港元",
-        "content": "2026-11-16 17:38:17"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "药康生物：拟3.12亿元收购佰麦生物80%股权",
-        "content": "2026-11-16 17:37:22"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "日研究所承认“富岳”超算遭非法访问",
-        "content": "2026-11-16 17:37:13"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中微公司尹志尧：在手订单充裕 大客户扩产需求旺盛",
-        "content": "2026-11-16 17:36:14"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "鼎泰高科：拟5000万元-1亿元回购公司股份",
-        "content": "2026-11-16 17:35:22"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美交通部长拒绝为全美航班停飞道歉",
-        "content": "2026-11-16 17:33:22"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美国服务器制造商股价盘前下跌",
-        "content": "2026-11-16 17:33:13"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "东材科技：拟5000万元至1亿元回购股份用于注销",
-        "content": "2026-11-16 17:32:44"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "2026年中央国库现金管理商业银行定期存款（二十三期）招投标 本期操作量1000亿元",
-        "content": "2026-11-16 17:31:49"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "巴西航空工业美股盘前一度涨超49%",
-        "content": "2026-11-16 17:31:48"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "锦浪科技：董事长提议回购2500万至5000万元股份",
-        "content": "2026-11-16 17:27:29"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "金陵药业：琥珀酸亚铁散剂上市许可申请获受理",
-        "content": "2026-11-16 17:27:23"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中海油服：拟109.28亿元投资建造六型59艘油田工作船",
-        "content": "2026-11-16 17:26:28"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "马士基将实施高峰季附加费",
-        "content": "2026-11-16 17:25:40"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美股盘前芯片股下跌 AMD、英特尔、台积电、SK海力士、ARM跌超4%",
-        "content": "2026-11-16 17:21:25"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "亿帆医药：二氮嗪口服混悬液纳入商保创新药目录",
-        "content": "2026-11-16 17:20:25"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美股芯片股创4月来最大周涨幅 对冲基金为何逢高减持？华尔街：警惕AI版量化紧缩",
-        "content": "2026-11-16 17:20:24"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "商务部：推动部分制造业项目在中部地区梯次转移和落地承接",
-        "content": "2026-11-16 17:18:17"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "龙蟠科技修订宁德时代采购框架协议年度上限至90亿元",
-        "content": "2026-11-16 17:17:21"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "瑞晟智能：拟定增募资不超9600万元投建智能物流搬运机器人项目",
-        "content": "2026-11-16 17:17:17"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中贝通信：取得合计不超1.8亿元回购专项贷款承诺函",
-        "content": "2026-11-16 17:16:14"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "涉17家重点车企 供应商账款支付情况调研评估将进行",
-        "content": "2026-11-16 17:16:03"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "金房能源：实控人提议回购4000万至8000万元股份",
-        "content": "2026-11-16 17:13:17"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "百度昆仑芯M100预计年底前具备量产条件",
-        "content": "2026-11-16 17:12:59"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "百度第三季度经营现金流28亿元 现金及投资总额2766亿元",
-        "content": "2026-11-16 17:12:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "百度集团：第三季度AI应用收入26亿元",
-        "content": "2026-11-16 17:11:20"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "《关于做好地方生态环境标准工作的意见》印发",
-        "content": "2026-11-16 17:11:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美国生物制药公司SummitTherapeutics盘前下跌29%",
-        "content": "2026-11-16 17:08:10"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "消息人士：胡塞武装逼近也门政府所在地亚丁",
-        "content": "2026-11-16 17:07:27"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "英伟达美股盘前下跌1.8%",
-        "content": "2026-11-16 17:06:34"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "摩根大通在中际旭创H股的持股比例于11月11日从14.13%降至13.79%",
-        "content": "2026-11-16 17:05:07"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美股算力云相关股票盘前普跌 甲骨文跌2.06%",
-        "content": "2026-11-16 17:05:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "贝莱德在李宁H股的持股比例于11月11日从5.83%升至6.18%",
-        "content": "2026-11-16 17:04:39"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "贝莱德在药明生物H股的持股比例于11月11日从6.16%降至5.76%",
-        "content": "2026-11-16 17:04:21"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美股光通信股盘前普跌 Lumentum跌4.15%",
-        "content": "2026-11-16 17:04:11"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "花旗集团在恒瑞医药H股的持股比例于11月10日从6.00%降至5.29%",
-        "content": "2026-11-16 17:04:02"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "以岭药业：半夏白术天麻汤颗粒获得药品注册证书",
-        "content": "2026-11-16 17:04:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "贝莱德在信达生物H股的持股比例于11月11日从6.07%降至5.66%",
-        "content": "2026-11-16 17:03:18"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "百度集团第三季度营收308亿元",
-        "content": "2026-11-16 17:03:10"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美股存储板块盘前普跌 闪迪、SK海力士跌超4%",
-        "content": "2026-11-16 17:00:37"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "麦格米特：董事长提议回购2亿元至4亿元股份",
-        "content": "2026-11-16 17:00:36"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "工信部：对应付账款规模大、故意拉长账期或投诉较多的车企 将联合相关部门开展约谈并督促整改",
-        "content": "2026-11-16 17:00:24"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "花旗：蒙牛乳业维持全年指引 料明年经营利润率恢复扩张",
-        "content": "2026-11-16 16:59:50"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中国东航：10月旅客周转量同比上升3.87%",
-        "content": "2026-11-16 16:59:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "吉祥航空：10月旅客周转量同比上升10.03%",
-        "content": "2026-11-16 16:58:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "南芯科技：取得不超过1.8亿元股票回购专项贷款承诺函",
-        "content": "2026-11-16 16:57:31"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "道琼斯指数期货转涨 纳斯达克100指数期货跌幅收窄",
-        "content": "2026-11-16 16:56:41"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "荣旗科技：当前未涉及物理AI和人形机器人研发",
-        "content": "2026-11-16 16:56:27"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "10月上海、沈阳二手房价格同比率先止跌",
-        "content": "2026-11-16 16:55:43"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "中仑新材：拟1亿元-2亿元回购公司股份",
-        "content": "2026-11-16 16:55:04"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "美国天然气期货跌超4%",
-        "content": "2026-11-16 16:54:06"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "多家国际银行看好 AI关联亚洲货币明年领跑",
-        "content": "2026-11-16 16:52:22"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "越南科技界名人Shark Binh被判处10年监禁",
-        "content": "2026-11-16 16:52:14"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "五一视界：启动建议A股上市计划 已提交上市前辅导登记申请",
-        "content": "2026-11-16 16:50:27"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "日久光电：拟1亿元-2亿元回购公司股份",
-        "content": "2026-11-16 16:48:30"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "复星医药：控股子公司药品HLX105获临床试验批准",
-        "content": "2026-11-16 16:44:54"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "穆迪评级将日本烟草的评级展望从稳定调整为负面",
-        "content": "2026-11-16 16:43:24"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "韩国央行增持黄金ETF 持仓增幅超四成",
-        "content": "2026-11-16 16:41:24"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "方大炭素新设检测科技公司 含AI相关业务",
-        "content": "2026-11-16 16:40:39"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "华兴源创：拟1500万元至3000万元回购公司股份",
-        "content": "2026-11-16 16:40:35"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "阿尔茨海默病研究有新发现",
-        "content": "2026-11-16 16:38:46"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "SBI证券将索尼的评级下调至“中性”",
-        "content": "2026-11-16 16:38:33"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "华金资本：控股子公司中标关联方废水处理项目 暂定合同总价9806.4万元",
-        "content": "2026-11-16 16:38:30"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "金智科技：公司及子公司合计中标5263.65万元项目",
-        "content": "2026-11-16 16:38:00"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "联瑞新材成立子公司 含磁性材料业务",
-        "content": "2026-11-16 16:36:39"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "立方制药：二巯丙磺钠原料药上市申请获受理",
-        "content": "2026-11-16 16:36:17"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "俄称克里米亚大桥遭袭 多地遭大规模无人机袭击",
-        "content": "2026-11-16 16:35:35"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "防止埃博拉病毒病疫情传入我国 海关总署发布公告",
-        "content": "2026-11-16 16:34:58"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "欧洲央行管委武伊契奇：信心减弱和借贷成本上升料将拖累经济增长",
-        "content": "2026-11-16 16:34:27"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "白云山：子公司拟3.5亿港元认缴亚洲大健康基金有限合伙份额",
-        "content": "2026-11-16 16:33:19"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "欧洲央行管委武伊契奇：金融稳定风险处于高位",
-        "content": "2026-11-16 16:33:08"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "欧洲央行副行长警告：人工智能估值过高及公共债务高企威胁金融稳定",
-        "content": "2026-11-16 16:32:30"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "哈工大破解热电器件“长寿”难题助力废热“变宝”",
-        "content": "2026-11-16 16:32:26"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "在岸人民币兑美元收盘报6.6678",
-        "content": "2026-11-16 16:30:25"
-      }
-    },
-    {
-      "template": "TitleContent",
-      "slide": {
-        "title": "科大讯飞携手SGS共建QTL授权联合实验室",
-        "content": "2026-11-16 16:29:31"
       }
     },
     {
@@ -722,6 +722,110 @@
       "slide": {
         "title": "中新社图片新闻",
         "subtitle": "2026-11-16"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）深圳迎接APEC",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733091F107DT20261116211735.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）在深圳看科技融入日常",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733082F107DT20261116211136.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "土耳其媒体人参访新疆艺术学院",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/e7d9eb6e-3fa8-45bd-8519-6ca710a0cf44_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）媒体记者探访中国首个具身智能机器人示范街区",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733057F107DT20261116204406.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "浙江慈溪棉拖鞋产销旺 企业订单排到明年初",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/36b1f927-8719-4ff0-8a3f-7f89c8015543_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "平陆运河出海口龙门港岛的别样风情：蚝壳砌墙筑“蚝宅”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/9d239bfc-0e8d-40d5-8c4a-074eb5af75a1_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "宁夏银川：沙地山药采收忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/f00d5fc2-bdec-4343-9b20-c34a22077c3d_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“镌史绘风”古籍版画展登陆上海",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/d0e483af-dd87-4f32-8673-abe6316958e9_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西柳城：粉色芦苇引客来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/3f338112-0e2f-43a8-8ddb-8e0991ea484c_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西南宁云海日出风光美",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/c1fc29ce-3cee-4b20-91ff-3a7e42e2817a_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "初冬时节 贵阳花溪湿地公园层林尽染美不胜收",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/b90698a9-07a0-4a4f-b34c-63743c45be89_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "射箭、摔跤、下象棋：实拍锡林郭勒小学生的“冬运会”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/302d72a1-949b-48a2-93d6-ac2d0f9d8d9d_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "辽宁大连长海大桥迎关键节点 主通航孔桥主塔承台浇筑完成",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/f5e44bd3-ad04-463c-9ea4-9084d0d0a4ec_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -937,110 +1041,6 @@
       "slide": {
         "title": "辽宁沈北禾丰女足获2026赛季女超冠军",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/232d04d7-fd41-4092-80ae-f7a6004b1a3d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年中国龙舟公开赛总决赛举行 闽江源上演速度与激情",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/72785971-ba87-4e16-91b0-09c87997c22b_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "安徽淮南：初冬八公山层林尽染",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/1eccfd9a-290a-4e70-8817-8100c2ecd8e6_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）中外客商汇聚深圳华强北 觅科技机遇",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-15/U855P4T8D10732457F107DT20261115193852.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）打卡“深圳之眼” 媒体记者走进岗厦北枢纽",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-15/U855P4T8D10732450F107DT20261115192139.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）媒体记者走进深圳第一高楼 俯瞰鹏城天际线",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-15/U855P4T8D10732445F107DT20261115191212.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "荆州崇湖湿地现初冬生态画卷",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/83443b12-fc08-43d0-876c-3fa53bd362f0_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "南京老机场跑道变身文化园地 战机模型吸睛",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/699239b8-e23d-4642-8b6d-4d19a16a7d6a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南登封：冬染少林客如织",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/aa3496c4-c43d-4037-9e9f-44e53068afad_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西仫佬族乡金色稻田成画卷 各族民众共赴丰收之约",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/ffa2e5de-e53f-42a6-925a-330386e43b0e_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "成渝中线高铁成都站主体结构完工",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/905b6372-3cc3-4b96-b70e-c0e764b8b7a3_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "安徽淮南：民众周末走进博物馆探寻地球生命起源",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/32a1a3d1-4859-44bc-a8ca-bf33a03782e8_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“港珠澳大桥半程马拉松赛2026”香港开跑　埃塞俄比亚选手包揽男、女冠军",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/84f5d341-de3c-4355-a8cd-7de8e9a22914_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "熊猫杯成都国际青年足球锦标赛：中国U-19男足1比1战平塔吉克斯坦U-19男足",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/d57e758b-921d-4f03-b3c2-baf045419d28_zsite.jpg",
         "subtitle": "  "
       }
     }
