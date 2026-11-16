@@ -13,6 +13,30 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "广西南宁：异木棉绚烂盛开 成初冬亮丽风景",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/99541de1-a100-473f-8123-3ec0f3482c0a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西容县沙田柚迎丰收 价格稳中有升",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/4b24492c-d84a-458a-ae90-710a9b3a37f5_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "江苏如东：洋口港LNG接收站吹响冬供号角",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/e05864c5-2ae8-4b02-b7e6-d8f927b323bb_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "2026重庆武隆芙蓉湖铁人三项公开赛鸣枪开赛 中外“铁人”展开角逐",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/cde01ca1-544d-49ad-929f-e4df86568251_zsite.JPG",
         "subtitle": "  "
@@ -303,30 +327,6 @@
       "slide": {
         "title": "西藏拉萨《文成公主》大型实景剧第十四季收官",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/3bf9f0c4-307c-4f50-a536-ebeaebecb00d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "速度滑冰世界杯北京站：中国选手韩梅获女子1500米铜牌",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-15/U855P4T8D10732274F107DT20261115111023.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "速度滑冰世界杯北京站：中国选手宁忠岩获男子1500米金牌",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-15/U855P4T8D10732260F107DT20261115104833.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "速度滑冰世界杯北京站：中国选手廉子文获男子500米金牌",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-15/U855P4T8D10732256F107DT20261115103702.jpg",
         "subtitle": "  "
       }
     }
