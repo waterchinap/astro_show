@@ -7,7 +7,79 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-16"
+        "subtitle": "2026-11-17"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）加拿大总理卡尼抵达深圳",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U1067P4T8D10733194F107DT20261117084620.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平在广东中山考察",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733147F107DT20261116224845.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "王沪宁会见瑙鲁总统阿迪昂",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733144F107DT20261116223947.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "泉州古城：半城烟火半城仙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/faf57b9a-e5c7-4638-a416-9eba135b51a4_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "万盆菊花争奇斗艳 杭州西湖边的“斗菊会”醉游人",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/cdda7ad2-3a93-4b7a-8524-af50a6f35505_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "南京：月牙堤披彩 前湖景如画",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/2e7f5f19-df55-4157-b7a9-5251600efb76_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）中外媒体走进比亚迪全球总部 感受新能源智造魅力",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733107F107DT20261116215136.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）媒体记者走进腾讯总部园区",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733098F107DT20261116214005.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）中外媒体参访荣耀全球制造中心",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U855P4T8D10733095F107DT20261116213315.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -255,78 +327,6 @@
       "slide": {
         "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功 由发射塔机械臂“捕获”回收",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U1067P4T8D10732552F107DT20261116081611.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）APEC经济体相关侨批原件首次联合展出 见证亚太民间往来",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U1067P4T8D10732547F107DT20261116075241.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "天津“遇见国防”市集周末人气十足",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/b9c22c7a-ba1a-4fa5-bd34-f53a3a28b406_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南柘城：小辣椒开启交易旺季",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/39935f37-26c7-40bb-badd-fa806a4a0cc1_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "安徽淮南工业遗存焕新烟火街区",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/8af3b597-ab13-4d72-9597-908248ed96f8_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "刘家琨全球首次大型个展在上海展出",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/d3d902b7-0120-408b-8fe8-0de4b4b9316b_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026桂林马拉松鸣枪开跑",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/7bcca3d0-9c46-4ff4-8c8d-7a4556198e90_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "浙江海宁：11只白天鹅飞抵钱塘江畔越冬",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/254f01d5-e56f-430a-ac99-cd7d578d51a7_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "张光北、卢奇等电影表演艺术家走进南京金陵老年大学共话表演艺术",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/13cc34ab-1c6b-44a5-94b2-aa888ae824f5_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "辽宁沈北禾丰女足获2026赛季女超冠军",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261115/232d04d7-fd41-4092-80ae-f7a6004b1a3d_zsite.jpg",
         "subtitle": "  "
       }
     }
