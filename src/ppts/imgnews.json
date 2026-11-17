@@ -13,8 +13,56 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "大理大学科研团队持续追踪水鸟动态 记录洱海生态之变",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/c4e3c44e-dc94-4c79-b366-354e47862ea7_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）墨西哥总统辛鲍姆抵达深圳 将出席APEC领导人非正式会议",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733269F107DT20261117103130.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访海口综合保税区：跨境维修火热",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/a1a41bf0-4cf8-4899-b150-a8fa1764a444_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "WCBA常规赛：山西竹叶青酒战胜合肥文旅",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/83faafb0-8ead-4b2a-bc10-3ab4cb5b5db7_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "巴西圣保罗举行“肥皂盒赛车”比赛",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733249F107DT20261117100330.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "（深圳APEC）加拿大总理卡尼抵达深圳",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U1067P4T8D10733194F107DT20261117084620.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第49届东盟峰会及系列会议在菲律宾举行",
+        "backgroundImage": "http://www.chinanews.com.cn/aseaninfo/2026/11-17/U1067P4T8D10733185F107DT20261117080419.jpg",
         "subtitle": "  "
       }
     },
@@ -279,54 +327,6 @@
       "slide": {
         "title": "广西南宁：异木棉绚烂盛开 成初冬亮丽风景",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/99541de1-a100-473f-8123-3ec0f3482c0a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西容县沙田柚迎丰收 价格稳中有升",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/4b24492c-d84a-458a-ae90-710a9b3a37f5_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江苏如东：洋口港LNG接收站吹响冬供号角",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/e05864c5-2ae8-4b02-b7e6-d8f927b323bb_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026重庆武隆芙蓉湖铁人三项公开赛鸣枪开赛 中外“铁人”展开角逐",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/cde01ca1-544d-49ad-929f-e4df86568251_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "尼泊尔民众庆祝太阳节",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261116/777ff155-2089-45b4-82b2-830d0c312c96_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第49届东盟峰会在菲律宾马尼拉开幕",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U1067P4T8D10732557F107DT20261116083956.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "美“星舰”第15次试飞：“筷子夹飞船”首试成功 由发射塔机械臂“捕获”回收",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-16/U1067P4T8D10732552F107DT20261116081611.jpg",
         "subtitle": "  "
       }
     }
