@@ -13,6 +13,62 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "舞剧《胡笳十八拍》2026全国巡演在鄂尔多斯收官",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/8dfde3ad-b365-4978-a7ca-0c723ab6d5fc_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西田林：山脊上风机吊装忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/ddf8a801-04f8-4933-b256-36f68d96c056_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西三江：花映楼桥景如画",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/9ed2b799-9e60-429a-83ea-3686639ea50f_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）深圳人才公园的“APEC时间”",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733904F107DT20261118100751.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）文莱苏丹哈桑纳尔抵达深圳",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733888F107DT20261118094553.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）韩国总统李在明抵达深圳",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733881F107DT20261118093314.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "熊猫杯成都国际青年足球锦标赛：中国U19男足2比1胜韩国U19男足并夺冠",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/ed5e82da-91c4-43a6-91c2-b63b8d112de9_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "（深圳APEC）俄罗斯总统普京抵达深圳",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733870F107DT20261118092200.jpg",
         "subtitle": "  "
@@ -271,62 +327,6 @@
       "slide": {
         "title": "一餐热饭暖夕阳 长春构建“15分钟养老服务圈”",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/62b182ee-10a5-4c1a-b345-80ca339368b8_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）智利总统卡斯特抵达深圳",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733491F107DT20261117155402.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "200余件民族服饰亮相山西 展现各族女性服饰风采",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/3d725379-a2a2-401f-b57e-9907a15ce9f4_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福建永春：第三届永春白鹤拳传承发展大会启幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/48390661-8bdc-4cda-95e5-7008d7d3a096_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "秦岭迎降雪 山峦“披”冬装",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/90bdf3ee-52b8-4bd4-b4d7-7f00b9df5ac8_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "初冬时节 西安城墙下景色如画",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/33059553-d8bf-4867-89b0-c71dd7c9720c_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "陕西西安：白雪覆秦岭 云雾绕层峦",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/41c6d7a3-6142-4dd6-b570-a46553612455_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见越共中央总书记、国家主席苏林",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733438F107DT20261117150605.jpg",
         "subtitle": "  "
       }
     }
