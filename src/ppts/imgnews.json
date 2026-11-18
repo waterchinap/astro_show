@@ -13,6 +13,78 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "湖北武汉：红枫层林尽染吸引民众游玩",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/8225f969-4557-4c66-bd5d-17fef737f931_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "哈尔滨迎降雪 文庙风景如画",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/f20cba87-e822-49d9-84a0-68fb8de318f6_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "大理大学来华留学生用手机镜头讲述大理故事",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/d6659505-16e9-4674-9963-45ba6198334d_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "一张农田“云图” 解锁广西贺州平桂良田管护新模式",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/6f1ef3f3-6564-414c-8381-60103893759e_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）印度尼西亚总统普拉博沃抵达深圳",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10734083F107DT20261118144329.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "邂逅冬日候鸟盛景 数千只大天鹅飞抵红碱淖",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/4eb20b0d-bf41-42c1-8784-282f71cac503_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）泰国总理阿努廷抵达深圳",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10734062F107DT20261118141750.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）2026年亚太经合组织工商领导人峰会开幕式在深圳举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10734051F107DT20261118140835.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）澳大利亚总理阿尔巴尼斯抵达深圳",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10734042F107DT20261118140118.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "舞剧《胡笳十八拍》2026全国巡演在鄂尔多斯收官",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/8dfde3ad-b365-4978-a7ca-0c723ab6d5fc_zsite.jpg",
         "subtitle": "  "
@@ -255,78 +327,6 @@
       "slide": {
         "title": "习近平会见秘鲁总统藤森庆子",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U1066P4T8D10733631F107DT20261117190855.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见墨西哥总统辛鲍姆",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U1066P4T8D10733628F107DT20261117190338.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "建设中的贵州安盘高速公路六车河大桥",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/d009c4ac-8cef-4faf-901f-cfd0907742d8_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "土耳其媒体人参访新疆博物馆",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/48530eea-6db8-45de-b937-55abc7d12a58_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州古牛河特大桥全桥贯通",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/693c1839-34e4-49f2-bc6e-5cbaa01d8b4a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见越共中央总书记、国家主席苏林",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U855P4T8D10733539F107DT20261117165804.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见加拿大总理卡尼",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733534F107DT20261117165329.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见巴布亚新几内亚总理马拉佩",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U1066P4T8D10733526F107DT20261117163710.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州天门北盘江大桥施工进度已完成99.9%",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/78fbe324-a28e-48be-9bcc-d271d2d87eef_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "一餐热饭暖夕阳 长春构建“15分钟养老服务圈”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/62b182ee-10a5-4c1a-b345-80ca339368b8_zsite.jpg",
         "subtitle": "  "
       }
     }
