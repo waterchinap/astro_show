@@ -7,7 +7,79 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-17"
+        "subtitle": "2026-11-18"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "（深圳APEC）俄罗斯总统普京抵达深圳",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733870F107DT20261118092200.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【这个城市有点潮】深圳：“鹏城”万里 APEC“圳”当时",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-18/U1067P4T8D10733860F107DT20261118090548.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "永春纸织画：经纬交织 朦胧入画",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/eec8594b-81a5-494c-8c70-5e8028f3a33f_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "西藏拉萨：民众参观朗孜夏陈列馆",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-18/U1067P4T8D10733833F107DT20261118073317.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "全国花滑少年逐梦长春 长春大冬会同步测试赛场",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/51d56b94-923f-4f1c-9846-3c6cd1e08970_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平会见智利总统卡斯特",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U1066P4T8D10733777F107DT20261117215659.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "赞歌故里迎远客 歌声为桥叙友谊",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U1066P4T8D10733773F107DT20261117215312.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "浙江杭州：丰食良境筑新驿 万千候鸟栖湾区",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/5b33a591-0dfb-4349-a4cb-ab8de73a75e5_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访海南省华文教育基地：扎根侨乡 会通中外",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/f27285b2-bd05-4a2b-80f1-cdcbf07bce61_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -255,78 +327,6 @@
       "slide": {
         "title": "习近平会见越共中央总书记、国家主席苏林",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733438F107DT20261117150605.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探访海南文昌宋氏祖居：中国华侨国际文化交流基地",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/7323b6e7-d78b-494a-b7c6-ec5ab972a413_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "青海西宁迎来降雪",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/c62fe4c1-2c04-40f3-929a-4cb53c8a9166_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）深圳图书馆举办澳大利亚华人华裔主题展览",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733429F107DT20261117144648.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见巴布亚新几内亚总理马拉佩",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733422F107DT20261117143409.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见加拿大总理卡尼",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733416F107DT20261117143040.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）深圳图书馆举办APEC主题展览",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733392F107DT20261117141850.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）2026年APEC领导人会议周新闻中心举行第五场吹风会",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733376F107DT20261117135236.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）越共中央总书记、国家主席苏林抵达深圳",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-17/U992P4T8D10733369F107DT20261117134059.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "大理大学科研团队持续追踪水鸟动态 记录洱海生态之变",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261117/c4e3c44e-dc94-4c79-b366-354e47862ea7_zsite.jpg",
         "subtitle": "  "
       }
     }
