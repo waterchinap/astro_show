@@ -7,7 +7,87 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-18"
+        "subtitle": "2026-11-19"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "22年历史“幻彩咏香江”收官 “香港冬日小镇·尖沙咀”接棒",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-19/U1067P4T8D10734470F107DT20261119084727.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【四时映画】哈尔滨迎降雪 文庙风景如画",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-19/U1067P4T8D10734459F107DT20261119081952.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U855P4T8D10734430F107DT20261118234602.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河北南皮“王厂錾铜浮雕”技艺：一锤一錾传承运河文脉",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/ee7545a2-e133-4ae5-b1ba-4c18db4e78a2_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "甘肃保安腰刀迎来“工厂模式”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/d1941cbe-9089-44af-b76e-20f979d0b1f4_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "数智赋能 浙江云和木玩产业加速“闯”世界",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/a535680b-cbe1-40fc-9063-046ddd4ee40f_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“第十一届书籍设计艺术展览”在广西桂林开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/f33a27b5-4c11-4375-a41b-5a7e0de70b81_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "多名内地选手亮相香港羽毛球公开赛单打首轮赛事",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/cac25eb8-2189-43bf-93d3-a7b8958e4d6f_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "探访中国木雕博物馆：木纳山河刀叙古今 尽显东方匠心",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/44846d00-ea1c-4dc0-a8dd-ea3ac3b72372_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "CBA俱乐部杯赛：北京控股队胜江西大谦队",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/ffdc2c5a-415e-48e6-b7c0-bc0593c3e1d5_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -247,86 +327,6 @@
       "slide": {
         "title": "舞剧《胡笳十八拍》2026全国巡演在鄂尔多斯收官",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/8dfde3ad-b365-4978-a7ca-0c723ab6d5fc_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西田林：山脊上风机吊装忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/ddf8a801-04f8-4933-b256-36f68d96c056_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西三江：花映楼桥景如画",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/9ed2b799-9e60-429a-83ea-3686639ea50f_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）深圳人才公园的“APEC时间”",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733904F107DT20261118100751.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）文莱苏丹哈桑纳尔抵达深圳",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733888F107DT20261118094553.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）韩国总统李在明抵达深圳",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733881F107DT20261118093314.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "熊猫杯成都国际青年足球锦标赛：中国U19男足2比1胜韩国U19男足并夺冠",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/ed5e82da-91c4-43a6-91c2-b63b8d112de9_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）俄罗斯总统普京抵达深圳",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-18/U992P4T8D10733870F107DT20261118092200.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【这个城市有点潮】深圳：“鹏城”万里 APEC“圳”当时",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-18/U1067P4T8D10733860F107DT20261118090548.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "永春纸织画：经纬交织 朦胧入画",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261118/eec8594b-81a5-494c-8c70-5e8028f3a33f_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "西藏拉萨：民众参观朗孜夏陈列馆",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-18/U1067P4T8D10733833F107DT20261118073317.jpg",
         "subtitle": "  "
       }
     }
