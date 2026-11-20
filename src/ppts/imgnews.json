@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "福州：向日葵竞相绽放扮靓中美青年友谊公园",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/0d419995-733c-4661-b883-51958a62a51b_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州长顺：千年银杏引客来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/db8d6995-d571-45eb-84a4-a0459234af6e_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "2026湖北农业博览会在湖北武汉开幕",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/9bf93e03-24a8-4174-bdc1-d467e4f24fed_zsite.jpg",
         "subtitle": "  "
@@ -31,6 +47,14 @@
       "slide": {
         "title": "福州：百对新人喜结良缘",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/d4487a9b-d5d6-4600-9625-345f77bea6a5_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "积雪浮云端 秦岭雪后秘境美不胜收",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/1bcca0fc-a96a-4088-b9b3-ffa0a069bc20_zsite.jpg",
         "subtitle": "  "
       }
     },
@@ -303,30 +327,6 @@
       "slide": {
         "title": "青海湟中银铜器手艺人：一锤一錾诠释工匠精神",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261119/913e3d99-5bca-47c2-a162-8bc1fe464bb1_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "太行腹地藏冷泉 邯郸涉县冷水鱼“游”出富民产业",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261119/c14b4b04-a2a9-4a93-a395-10cf1807479c_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平主持中俄美元首会晤",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-19/U1066P4T8D10734905F107DT20261119205404.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第十一届世界智能制造博览会开启 机器人云集南京展科技魅力",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261119/b1de136f-8a9a-49b3-a5cd-c8412459e6c9_zsite.jpg",
         "subtitle": "  "
       }
     }
