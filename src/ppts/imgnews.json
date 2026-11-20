@@ -13,6 +13,14 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "一移民船在塞内加尔沿海倾覆 已致数十人失踪",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-20/U1067P4T8D10735148F107DT20261120122729.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "大量日本民众国会前集会抗议高市政府扩军修宪危险动向",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-20/U992P4T8D10735034F107DT20261120091047.jpg",
         "subtitle": "  "
@@ -319,14 +327,6 @@
       "slide": {
         "title": "河南鲁山：雪落尧山映彩霞",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261119/d43df237-fd1b-46fc-a781-9a3c83bd991b_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "（深圳APEC）习近平主持亚太经合组织第三十三次领导人非正式会议",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-19/U574P4T8D10734561F107DT20261119115256.jpg",
         "subtitle": "  "
       }
     }
