@@ -13,8 +13,56 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "“大美上饶”主题观光列车南昌至婺源新线路首发",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/60096a66-6399-4d8d-833d-1572105844ea_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南汝州汝瓷文化节开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/c30602a2-16d3-44a6-97e4-9ba65cc07050_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第十四届中国中部投资贸易博览会在河南郑州开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/11bfc5e4-5d0a-4430-a6f7-5d9950e6e5bc_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "柴达木盆地盐湖博物馆：沉浸式展现盐湖人攻坚历程",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/7da409fd-aa4e-43d2-8c9b-2ec87dbd3b82_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "青海格尔木国际陆港：连藏通疆85%以上进藏物资在此中转",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/c39492d0-94c4-46b3-a0a7-111d283c61a6_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "河南：汝瓷借侨连四海",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/cfc5552b-fee9-414c-a6b8-7c85bcd38187_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "重庆秀山：云海漫过川河盖 一道“天路”入画来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/eef0184e-b349-4b51-a92a-f3017e8b7d88_zsite.JPG",
         "subtitle": "  "
       }
     },
@@ -279,54 +327,6 @@
       "slide": {
         "title": "长江三峡红叶进入最佳观赏期",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/fcd60342-4da8-4ad6-99b3-c7ff60d37308_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "初冬时节 南京明孝陵石象路层林尽染入画来",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/e0a9e5fe-54fa-42f8-abc3-8c07edb79d26_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "西安博物院古籍展吸引民众参观",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/2a69f715-f715-4f8b-967a-0a3b3ea3a15c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福建福州：古街秋假迎客来",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/06ea4b71-5530-42a0-a026-f2f83f419f7d_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026年空手道世界杯开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/3c4282e6-6c43-494f-8b02-ea8271732c80_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "气温回暖风光好 长沙湘江西岸芦苇引市民打卡",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/c7f64d02-039a-432c-b7ab-b1578fdfc8e3_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西三江：脐橙飘香引客来",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/d8873688-c5ed-46bf-bdf9-6f2aefcdf99c_zsite.jpg",
         "subtitle": "  "
       }
     }
