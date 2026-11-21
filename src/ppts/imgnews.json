@@ -13,6 +13,14 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "河南：汝瓷借侨连四海",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/cfc5552b-fee9-414c-a6b8-7c85bcd38187_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "中国成功发射卫星互联网低轨30组卫星",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/f6311e75-3097-4bc8-9c05-5d22a32c04e4_zsite.jpg",
         "subtitle": "  "
@@ -319,14 +327,6 @@
       "slide": {
         "title": "广西三江：脐橙飘香引客来",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/d8873688-c5ed-46bf-bdf9-6f2aefcdf99c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西融安金桔迎销售旺季 抢“鲜”供应市场",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/ab3cc9f8-2f00-412d-ac59-18b6a1e9ff6f_zsite.jpg",
         "subtitle": "  "
       }
     }
