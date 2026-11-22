@@ -7,7 +7,15 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-21"
+        "subtitle": "2026-11-22"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【诗画中国】落一点白 藏一冬安",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-22/U992P4T8D10735947F107DT20261122085723.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -319,14 +327,6 @@
       "slide": {
         "title": "习近平会见澳大利亚总理阿尔巴尼斯",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-20/U855P4T8D10735573F107DT20261120215420.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "习近平会见泰国总理阿努廷",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-20/U855P4T8D10735561F107DT20261120214324.jpg",
         "subtitle": "  "
       }
     }
