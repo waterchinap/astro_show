@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "湖北宜昌：千余名冬泳爱好者横渡长江",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/0f805ce2-1779-40f3-9d20-b2d3a0218ca6_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "沈阳苏家屯冬季游系列活动启幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/2aa2d2c1-b202-4584-b825-a22e7e5c1424_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵州铜仁：野生鸳鸯冬日戏水绘生态画卷",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/c2c46f9f-9e49-4d14-9c9a-ed3366bd4ab2_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "侨乡福建福清：中国现存最大的布袋弥勒造像吸引参观者",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/c552cba4-2ba2-4ace-9ba3-e21429647ce4_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "彩跑燃动长江岸 美心红酒小镇第11届国际高跟鞋彩色跑欢乐起跑",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/81650ff4-5509-487e-863c-fd97e181f283_zsite.jpg",
         "subtitle": "  "
@@ -55,6 +87,22 @@
       "slide": {
         "title": "江西赣州清晨现平流雾景观 宛若水墨画",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/91874d54-65e7-4755-bca8-fa90157cdb84_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "机器人格斗挑战赛登陆南京建邺上演 “硬核对决”",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/9adc838b-8cc5-4170-a122-38e344b4d461_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "龙江桥——九百年宋桥屹立 闽海古桥今仍通行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/b9ffdae6-920a-4ef1-933c-9064e8df1f3d_zsite.jpeg",
         "subtitle": "  "
       }
     },
@@ -279,54 +327,6 @@
       "slide": {
         "title": "重庆秀山：云海漫过川河盖 一道“天路”入画来",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/eef0184e-b349-4b51-a92a-f3017e8b7d88_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中国成功发射卫星互联网低轨30组卫星",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/f6311e75-3097-4bc8-9c05-5d22a32c04e4_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "数万名日本民众签名反对日本拥有核潜艇",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-21/U1067P4T8D10735624F107DT20261121091544.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-21/U1067P4T8D10735618F107DT20261121084600.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "浙江杭州：朱炳仁铜艺作品亮相“非遗盛会”吸引民众",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/4c79a994-93bf-4bce-84f5-09b0673f479b_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "首届历史经典产业博览会在浙江杭州开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/cc8434a1-6f7b-414d-bffa-8cd096915883_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "街球高手集结长沙 2V2百分大战搭配手游竞技",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261120/18de8f7e-ce16-4a7f-8e21-af895c23327b_zsite.jpeg",
         "subtitle": "  "
       }
     }
