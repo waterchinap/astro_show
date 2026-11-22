@@ -13,6 +13,54 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "纵览山水城林 2026南京马拉松鸣枪开跑",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/a9fa94be-2ded-4f44-ba4b-8221d8f72e52_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "福州陈氏五楼：帝师故园 文脉流长",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/0f5a6d6d-d73e-4a18-8fd6-279539d652aa_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河南郑州：《国家考古遗址公园（二）》特种邮票首发仪式举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/8da0363b-1785-4e3c-9a70-90df8b3a2953_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "大理白族自治州庆祝成立70周年",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/5e0365c9-33a1-4932-8e7d-83d722cb95cc_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "宁夏闽宁镇：游客周末打卡闽宁戏剧村落",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/d5d16e20-431d-4d85-a622-e903c48aa93d_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026脑机接口大会创新成果展吸引参观者",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-22/U992P4T8D10736075F107DT20261122154335.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "湖北宜昌：千余名冬泳爱好者横渡长江",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/0f805ce2-1779-40f3-9d20-b2d3a0218ca6_zsite.jpg",
         "subtitle": "  "
@@ -279,54 +327,6 @@
       "slide": {
         "title": "湖北巴东金丝猴国家级自然保护区“鸟家族”扩容",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/448cfb7e-58d3-488e-85ee-298719641db4_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南汝州汝瓷文化节开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/c30602a2-16d3-44a6-97e4-9ba65cc07050_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第十四届中国中部投资贸易博览会在河南郑州开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/11bfc5e4-5d0a-4430-a6f7-5d9950e6e5bc_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "柴达木盆地盐湖博物馆：沉浸式展现盐湖人攻坚历程",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/7da409fd-aa4e-43d2-8c9b-2ec87dbd3b82_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "青海格尔木国际陆港：连藏通疆85%以上进藏物资在此中转",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/c39492d0-94c4-46b3-a0a7-111d283c61a6_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南：汝瓷借侨连四海",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/cfc5552b-fee9-414c-a6b8-7c85bcd38187_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "重庆秀山：云海漫过川河盖 一道“天路”入画来",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/eef0184e-b349-4b51-a92a-f3017e8b7d88_zsite.JPG",
         "subtitle": "  "
       }
     }
