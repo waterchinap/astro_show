@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "三峡库区：小雪时节垄头忙",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/2064129b-7b59-45e7-9c36-a6ef46976bb9_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“中国食用菌之乡”河北肥乡：小蘑菇畅销海内外",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/91fc88a9-fce5-4585-824f-f2069cf54109_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "菊花展亮相广西南宁 民众在山水间赏菊韵",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/9e955fa1-2a32-443a-a1b3-9a59e5aefed8_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第73届澳门格兰披治大赛车在澳门举行",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-23/U1129P4T8D10736501F107DT20261123161202.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "第二艘国产大型邮轮“爱达·花城号”商业首航停靠香港",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-23/U1129P4T8D10736444F107DT20261123151605.jpg",
         "subtitle": "  "
@@ -295,38 +327,6 @@
       "slide": {
         "title": "婺剧《三打白骨精》在青海大剧院上演",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/510f4681-38c4-4029-8769-beea97e6b53a_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "天津：莫斯科中央音乐学院乐团到访南开大学 奏响中俄文化交流乐章",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/5ec8b7a2-33e8-46e3-a6f0-785b54df06ec_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "大型音舞诗画杂技剧《盐·运》在北京上演",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/e50ca5cd-af8a-43e6-9a9a-6fd629c95bad_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西赣州清晨现平流雾景观 宛若水墨画",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/91874d54-65e7-4755-bca8-fa90157cdb84_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "机器人格斗挑战赛登陆南京建邺上演 “硬核对决”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/9adc838b-8cc5-4170-a122-38e344b4d461_zsite.jpg",
         "subtitle": "  "
       }
     }
