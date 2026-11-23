@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "中蒙俄国际旅客列车整备一新 即将每周往返开行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-23/U992P4T8D10736677F107DT20261123212541.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【时光印象】大理白族千年扎染染出绚丽生活",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/296c26aa-472f-4359-88d4-fdce1d222a24_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "2026/2027赛季全国花样滑冰青年锦标赛在山东青岛举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/6098fd44-d181-4d7a-8680-84c169407e7e_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“京津冀最美湿地”衡水湖迎候鸟迁徙高峰 “鸟浪”翻涌成冬日画卷",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/874fc334-6559-452c-97e4-506c76a128ad_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "三峡库区：小雪时节垄头忙",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/2064129b-7b59-45e7-9c36-a6ef46976bb9_zsite.jpg",
         "subtitle": "  "
@@ -31,6 +63,14 @@
       "slide": {
         "title": "菊花展亮相广西南宁 民众在山水间赏菊韵",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/9e955fa1-2a32-443a-a1b3-9a59e5aefed8_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "银梭穿雪原 兰新高铁驶过冬日壮阔祁连山",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/8c81325b-8499-4345-a000-0651a242fc48_zsite.jpg",
         "subtitle": "  "
       }
     },
@@ -287,46 +327,6 @@
       "slide": {
         "title": "沈阳苏家屯冬季游系列活动启幕",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/2aa2d2c1-b202-4584-b825-a22e7e5c1424_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "贵州铜仁：野生鸳鸯冬日戏水绘生态画卷",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/c2c46f9f-9e49-4d14-9c9a-ed3366bd4ab2_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "侨乡福建福清：中国现存最大的布袋弥勒造像吸引参观者",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/c552cba4-2ba2-4ace-9ba3-e21429647ce4_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "彩跑燃动长江岸 美心红酒小镇第11届国际高跟鞋彩色跑欢乐起跑",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/81650ff4-5509-487e-863c-fd97e181f283_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第二届“川超”揭幕战打响 德阳队4比1胜凉山队",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/df0ba3fe-2188-40ca-aedf-83814e2ba48a_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "婺剧《三打白骨精》在青海大剧院上演",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/510f4681-38c4-4029-8769-beea97e6b53a_zsite.JPG",
         "subtitle": "  "
       }
     }
