@@ -7,7 +7,23 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-22"
+        "subtitle": "2026-11-23"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "山西芮城：天鹅翩跹 游弋圣天湖",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-23/U1066P4T8D10736246F107DT20261123085325.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "香港传奇赛马“浪漫勇士”退役 马迷不舍送别",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-23/U1066P4T8D10736241F107DT20261123082337.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -311,22 +327,6 @@
       "slide": {
         "title": "广西侨乡举办特色美食节 “侨”味促进乡村文旅融合",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/00823b06-17fd-48d1-9650-fa73bd042268_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "哈尔滨极地公园开启今冬首场企鹅巡游",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/1ebc5000-112e-4992-ae61-4417e1637b4e_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“广西书法之乡”各族学生挥毫泼墨 同台竞技",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261121/dff1be71-1b21-4e45-966a-a69dc2666042_zsite.JPG",
         "subtitle": "  "
       }
     }
