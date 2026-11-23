@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "第二艘国产大型邮轮“爱达·花城号”商业首航停靠香港",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-23/U1129P4T8D10736444F107DT20261123151605.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "5000架无人机点亮巫山夜空 红叶、峡江、高铁等元素吸睛",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/b43cd362-d3e0-47ed-b2f2-b0eee64788bf_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "小雪时节探访河南登封观星台",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/76551646-b968-4350-bae6-2ee60280a785_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "三峡百里荒：朝阳伴云海 山川染鎏金",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/70bd8ea7-a992-48ea-8024-8a29f9d9961c_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "马奎斯提前加冕2026赛季MotoGP世界冠军",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-23/U1129P4T8D10736357F107DT20261123114257.jpg",
         "subtitle": "  "
@@ -295,38 +327,6 @@
       "slide": {
         "title": "机器人格斗挑战赛登陆南京建邺上演 “硬核对决”",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/9adc838b-8cc5-4170-a122-38e344b4d461_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "龙江桥——九百年宋桥屹立 闽海古桥今仍通行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/b9ffdae6-920a-4ef1-933c-9064e8df1f3d_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江苏盱眙：观赏石博物园成为秋日假期好去处",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-22/U992P4T8D10735980F107DT20261122103829.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【诗画中国】落一点白 藏一冬安",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-22/U992P4T8D10735947F107DT20261122085723.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探访秘鲁钱凯港：跨越太平洋的发展新机遇",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-21/U1067P4T8D10735918F107DT20261121212929.jpg",
         "subtitle": "  "
       }
     }
