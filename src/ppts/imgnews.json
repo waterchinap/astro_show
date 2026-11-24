@@ -13,6 +13,38 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "湖北武汉：晴川阁银杏金黄引游客",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/018950ba-ec60-42a8-8782-aac57088b2c9_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "河北景县：小胶管撑起百亿级产业集群",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/b7d35b6b-a4e7-4776-8fec-d6ef2a996344_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "北京胡同里穿着彩色毛衣的大树吸引市民打卡",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-24/U893P4T8D10736983F107DT20261124154232.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "神二十四乘组地面训练照片公布",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-24/U1129P4T8D10736980F107DT20261124154058.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "秦岭冷水鱼养殖忙 “游”出特色渔业致富路",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/70f5273d-3351-40a1-a0d3-281c625ca453_zsite.jpg",
         "subtitle": "  "
@@ -295,38 +327,6 @@
       "slide": {
         "title": "河南开封：小雪时节冬桃红 特色林果助振兴",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/6a7ca345-831f-41eb-a52c-e7e5cb3fc054_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南郑州：人形机器人秀“功夫” 吸引观众驻足观看",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/9564759e-cf68-40e5-8d79-4337cc6ddb28_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河南郑州：龙子湖赛艇挑战赛举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/decc1b50-f2f2-4e03-aa35-d23791bc8c2e_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "探访全球最大液态空气储能项目：全国产设备破解“靠天吃饭”",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/e2eab5d3-8ae1-434c-a0f7-d56ba5825fe5_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "纵览山水城林 2026南京马拉松鸣枪开跑",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/a9fa94be-2ded-4f44-ba4b-8221d8f72e52_zsite.jpg",
         "subtitle": "  "
       }
     }
