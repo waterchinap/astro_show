@@ -13,6 +13,14 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "神舟二十四号乘组阵容公布：汤洪波、武毅和巴基斯坦航天员穆罕默德·齐尚·阿里",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-24/U893P4T8D10736794F107DT20261124095154.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "“寿而康——国医大师邓铁涛的养生智慧展”在广州开展",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/e6e5c41c-5635-4d3f-bdb2-b9aa8d641b29_zsite.jpeg",
         "subtitle": "  "
@@ -38,7 +46,7 @@
       "template": "ImgTitle",
       "slide": {
         "title": "【时光印象】大理白族千年扎染染出绚丽生活",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/296c26aa-472f-4359-88d4-fdce1d222a24_zsite.jpg",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-23/U1066P4T8D10736636F107DT20261124093454.jpg",
         "subtitle": "  "
       }
     },
@@ -319,14 +327,6 @@
       "slide": {
         "title": "宁夏闽宁镇：游客周末打卡闽宁戏剧村落",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/d5d16e20-431d-4d85-a622-e903c48aa93d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "2026脑机接口大会创新成果展吸引参观者",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-22/U992P4T8D10736075F107DT20261122154335.jpg",
         "subtitle": "  "
       }
     }
