@@ -7,7 +7,23 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-23"
+        "subtitle": "2026-11-24"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“寿而康——国医大师邓铁涛的养生智慧展”在广州开展",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/e6e5c41c-5635-4d3f-bdb2-b9aa8d641b29_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "第五届琶洲算法大赛具身机器人场景应用大赛决赛在广州举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/bb15a371-59d8-4472-acc5-2b4040faab28_zsite.jpeg",
+        "subtitle": "  "
       }
     },
     {
@@ -311,22 +327,6 @@
       "slide": {
         "title": "2026脑机接口大会创新成果展吸引参观者",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-22/U992P4T8D10736075F107DT20261122154335.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "湖北宜昌：千余名冬泳爱好者横渡长江",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/0f805ce2-1779-40f3-9d20-b2d3a0218ca6_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "沈阳苏家屯冬季游系列活动启幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261122/2aa2d2c1-b202-4584-b825-a22e7e5c1424_zsite.jpg",
         "subtitle": "  "
       }
     }
