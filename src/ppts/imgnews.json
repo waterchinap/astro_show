@@ -7,7 +7,63 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-24"
+        "subtitle": "2026-11-25"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "神舟二十四号载人飞船发射取得圆满成功",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U1066P4T8D10737314F107DT20261125085711.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“超级月亮”现身天宇",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U1066P4T8D10737301F107DT20261125082416.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U1066P4T8D10737288F107DT20261125073109.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "神舟二十四号载人飞行任务航天员与记者见面",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-24/U992P4T8D10737267F107DT20261124224316.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西龙胜县举行盘王节 展瑶家民俗",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/dc1b50d6-48dc-494f-85f0-42e78108f4cb_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "祁连山下野生动物“庇护所”：守护高原珍稀生灵",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/e6dcd1bd-3f63-412b-bad9-42a4846a7945_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“超级月亮”现身苍穹",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/916c49ab-2dd5-41f4-a671-d7e2356f2d6e_zsite.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -271,62 +327,6 @@
       "slide": {
         "title": "小雪时节探访河南登封观星台",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/76551646-b968-4350-bae6-2ee60280a785_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "三峡百里荒：朝阳伴云海 山川染鎏金",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/70bd8ea7-a992-48ea-8024-8a29f9d9961c_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "马奎斯提前加冕2026赛季MotoGP世界冠军",
-        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-23/U1129P4T8D10736357F107DT20261123114257.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "福州：村景如画 人在画中游",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/a413a317-8292-4466-b043-a6632da3b9f5_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "各族民众载歌载舞欢庆大理白族自治州成立70周年",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/54542ac4-bb13-4762-896a-02557d196fa2_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西金秀民众欢庆瑶族盘王节",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/50cf9cae-75a0-40ea-bbc2-abae14764e1d_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "重庆举行“2026中国—东盟周”无人机灯光秀专场展演",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/a715b438-0a4a-4927-8f5a-c6b4d1273ba2_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "第二十四届CMC职业模特大赛总决赛在北京举行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261123/097b4cf0-49f7-4dd4-ad5f-d7c7e17d0ae6_zsite.jpeg",
         "subtitle": "  "
       }
     }
