@@ -7,7 +7,15 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-25"
+        "subtitle": "2026-11-26"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【图片故事】祁连山腹地管护员：守望逐年萎缩的八一冰川",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U992P4T8D10737818F107DT20261125215252.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -319,14 +327,6 @@
       "slide": {
         "title": "湖北开展森林草原火灾扑救跨区域实战演练",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/392d6537-5a01-48e2-9f55-1fa27ca9cdc2_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "外国嘉宾走进山西晋中 感受晋商文化",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/39cbffb2-bb3d-4b99-acb0-f9e740414d86_zsite.jpg",
         "subtitle": "  "
       }
     }
