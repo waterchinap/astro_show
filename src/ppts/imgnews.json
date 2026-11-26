@@ -13,6 +13,62 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "中国成功发射遥感四十九号01组卫星",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-26/U992P4T8D10738274F107DT20261126181704.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "浙江金华：中国婺剧“圈粉”外国青年",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/3fc39eb9-7bae-4f0a-9fe1-f1f1af4b6846_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "南狮腾跃广东省第八届民族传统体育运动会",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/c3c98927-e272-4484-b87e-71e1d6133388_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "川菜厨艺大比拼 四川省第二届川菜职业技能竞赛在成都举行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/96933669-4d97-4f2d-9f05-8fcd1e3b7437_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“中国科技第一展”第二十八届高交会在深圳开幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/50d43588-a042-4c53-b071-f9c89acb7d45_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "【四时映画】云海彩林衬民居 重庆秀山晨景如画",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-26/U1067P4T8D10738146F107DT20261126165151.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "贵阳：观山湖云雾缥缈 绘就生态画卷",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-26/U992P4T8D10738119F107DT20261126154314.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "河南巩义：探访北魏石窟造像艺术",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/0d54fcd2-5de3-4d89-9b27-4332a281b319_zsite.jpg",
         "subtitle": "  "
@@ -271,62 +327,6 @@
       "slide": {
         "title": "2026年广西建设工程消防技能竞赛在南宁开赛",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/411f5d94-ab60-46b2-bf21-4a3c554136be_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【这个城市有点潮】辽宁锦州：话里带着“问号”，生活里都是热闹",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-25/U1066P4T8D10737334F107DT20261125093745.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "神舟二十四号载人飞船发射取得圆满成功",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-25/U1066P4T8D10737314F107DT20261125085711.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“超级月亮”现身天宇",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U1066P4T8D10737301F107DT20261125082416.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心举行",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U1066P4T8D10737288F107DT20261125073109.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "神舟二十四号载人飞行任务航天员与记者见面",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-24/U992P4T8D10737267F107DT20261124224316.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西龙胜县举行盘王节 展瑶家民俗",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/dc1b50d6-48dc-494f-85f0-42e78108f4cb_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "祁连山下野生动物“庇护所”：守护高原珍稀生灵",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/e6dcd1bd-3f63-412b-bad9-42a4846a7945_zsite.jpg",
         "subtitle": "  "
       }
     }
