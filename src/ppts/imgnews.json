@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "西部计划原创音乐剧《向西》在重庆首演",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/d976bbe9-6589-447a-afee-ecbef556d231_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "埃及吉萨省车祸引发火灾 烧毁27辆车致31人死亡",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-26/U1067P4T8D10737952F107DT20261126100414.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "【图片故事】祁连山腹地管护员：守望逐年萎缩的八一冰川",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U992P4T8D10737818F107DT20261125215252.jpg",
         "subtitle": "  "
@@ -311,22 +327,6 @@
       "slide": {
         "title": "笔墨绘华章 百家金陵中国画展在南京举办",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/1dccba75-7956-4b34-8e75-dfb9c8b0a440_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“广州唐宋窑业与海上丝绸之路”展览在穗开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/733067bc-e2e8-47f4-8ed0-00dc763f544d_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "湖北开展森林草原火灾扑救跨区域实战演练",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/392d6537-5a01-48e2-9f55-1fa27ca9cdc2_zsite.jpg",
         "subtitle": "  "
       }
     }
