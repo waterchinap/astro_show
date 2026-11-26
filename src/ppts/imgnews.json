@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "河南巩义：探访北魏石窟造像艺术",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/0d54fcd2-5de3-4d89-9b27-4332a281b319_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "青海西宁：冬日大熊猫憨态可掬惹人爱",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/d5d49c5b-ad6d-4cff-905f-37cd96dc1384_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "西部计划原创音乐剧《向西》在重庆首演",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/d976bbe9-6589-447a-afee-ecbef556d231_zsite.JPG",
         "subtitle": "  "
@@ -311,22 +327,6 @@
       "slide": {
         "title": "祁连山下野生动物“庇护所”：守护高原珍稀生灵",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/e6dcd1bd-3f63-412b-bad9-42a4846a7945_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“超级月亮”现身苍穹",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/916c49ab-2dd5-41f4-a671-d7e2356f2d6e_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "笔墨绘华章 百家金陵中国画展在南京举办",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261124/1dccba75-7956-4b34-8e75-dfb9c8b0a440_zsite.jpg",
         "subtitle": "  "
       }
     }
