@@ -7,7 +7,31 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-26"
+        "subtitle": "2026-11-27"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "新加坡城市风光吸引游客",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-27/U1066P4T8D10738515F107DT20261127091259.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "李强会见亚洲开发银行行长神田真人",
+        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-26/U992P4T8D10738465F107DT20261126222133.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "京津冀首个卫星AIT共享中心落地雄安",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/7530348d-2e9a-4172-8a65-dacd9c7989a4_zsite.jpeg",
+        "subtitle": "  "
       }
     },
     {
@@ -303,30 +327,6 @@
       "slide": {
         "title": "江西龙南：赣南脐橙丰收时 果园飘香采摘忙",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/4559fbeb-0800-47e7-ab33-388378a1f205_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西山区降温如进“冷藏室” 树叶被冰层包裹",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/3aad5f4a-4e39-4f90-bd71-d7d1b9062b22_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "内蒙古草原小城绝美瞬间：当维纳斯带邂逅超级月亮",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/c077c63e-d24d-4eeb-bc39-d0c55dd35cce_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "古韵“疯”姿 老秧歌舞出新活力",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/cc9c2598-baa4-4d17-bf99-098f4f86daa0_zsite.jpeg",
         "subtitle": "  "
       }
     }
