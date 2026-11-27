@@ -13,8 +13,56 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "中国交响乐团建团70周年港澳巡演在北京启动",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-27/U1129P4T8D10738645F107DT20261127120156.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "泰国曼谷一炼油厂发生爆炸 现场浓烟滚滚造成至少7人受伤",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-27/U1067P4T8D10738641F107DT20261127114218.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西恭城月柿丰收 游客络绎不绝",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/e131dffd-d326-4bd6-98cb-6a2bffb50c91_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "“让世界聆听青海”舞台艺术作品展演亮相西宁",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/0e924e33-76fe-4975-b8ae-710d1c80d275_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广东省第八届民族传统体育运动会在中山开幕",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-27/U1129P4T8D10738516F107DT20261127100502.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "新加坡城市风光吸引游客",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-27/U1066P4T8D10738515F107DT20261127091259.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "WCBA常规赛：山西竹叶青酒战胜上海浦发银行",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/ee86a423-d2b9-459c-be4a-654eb8b095ff_zsite.jpg",
         "subtitle": "  "
       }
     },
@@ -279,54 +327,6 @@
       "slide": {
         "title": "不惧千度烈焰 消防侦察狗在苏州完成实战演练",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/61afd410-4764-4098-a27e-67f814b5b6e0_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广东中山：孙中山故居纪念馆游人如织",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/5d6cbe6d-37b8-44b1-9729-14fcc6c21b60_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "走进“赣南最高围屋”——江西龙南燕翼围",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/e1b045f1-a009-4912-a748-597c9105d1cd_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "书香河南第五届全民阅读大会在漯河开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/bc02c9f6-754b-4d21-b285-f5b00287c24e_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "驻华使节、外交官走进北京青创村",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U992P4T8D10737727F107DT20261125190844.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "中柬“金龙—2026”联合演习开始",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U992P4T8D10737718F107DT20261125185653.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "江西龙南：赣南脐橙丰收时 果园飘香采摘忙",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/4559fbeb-0800-47e7-ab33-388378a1f205_zsite.jpg",
         "subtitle": "  "
       }
     }
