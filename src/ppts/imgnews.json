@@ -13,6 +13,46 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "广西防城港双墩渔港丰收 金鲳鱼抢鲜上市",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/15152d11-d50c-41f4-be0a-eb488dcfbb4f_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "江苏泗洪：洪泽湖湿地迎来越冬天鹅",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-27/U1129P4T8D10738685F107DT20261127141234.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "广西东兴智慧渔业养殖绘就生态画卷",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/130bba4c-18ca-4639-aaa2-aa1a8dc9eea4_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "西班牙：伊维萨岛附近海域一艘燃油船沉没 致1死6伤",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-27/U1067P4T8D10738677F107DT20261127135018.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "美国西海岸遭遇天文大潮 巨浪冲击面临洪涝风险",
+        "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-27/U1129P4T8D10738670F107DT20261127132401.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "中国交响乐团建团70周年港澳巡演在北京启动",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-27/U1129P4T8D10738645F107DT20261127120156.jpg",
         "subtitle": "  "
@@ -287,46 +327,6 @@
       "slide": {
         "title": "埃及吉萨省车祸引发火灾 烧毁27辆车致31人死亡",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-26/U1067P4T8D10737952F107DT20261126100414.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "【图片故事】祁连山腹地管护员：守望逐年萎缩的八一冰川",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-25/U992P4T8D10737818F107DT20261125215252.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“海上观潮——海派与20世纪中国画的现代转型”展览在广州开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/90021849-e3b2-4dbd-bb5e-c11025d185f5_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "国球进公园：王曼昱、孙颖莎等在成都与乒乓球爱好者互动",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/d088d439-070a-4cb3-8ccf-449d79d916bd_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "浙江杭州：古韵落廊桥 国乐赋新美",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/66ffe683-ce8d-46c2-babd-2d5d6abe7ab2_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "不惧千度烈焰 消防侦察狗在苏州完成实战演练",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261125/61afd410-4764-4098-a27e-67f814b5b6e0_zsite.jpg",
         "subtitle": "  "
       }
     }
