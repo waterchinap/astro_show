@@ -7,7 +7,39 @@
       "template": "Cover",
       "slide": {
         "title": "中新社图片新闻",
-        "subtitle": "2026-11-27"
+        "subtitle": "2026-11-28"
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "当机器人“遇上”无人机 2026香港AI科普周开幕",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-28/U574P4T8D10739101F107DT20261128083230.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "多件周秦汉唐文物亮相广西南宁",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/74903d43-343c-4468-a1da-cab91e6dc823_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "初冬西湖层林染 锦绣江南入画来",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/98ade742-5bb0-49d2-bb80-823d035521e9_zsite.JPG",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "中国成功发射遥感五十号04星",
+        "backgroundImage": "http://www.chinanews.com.cn/2026/11-27/U992P4T8D10739075F107DT20261127213840.jpg",
+        "subtitle": "  "
       }
     },
     {
@@ -295,38 +327,6 @@
       "slide": {
         "title": "山东泰安：初冬泰山普照寺彩叶斑斓",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/62c89b65-205b-49d1-8138-d5227ce99408_zsite.jpeg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "“物华天宝 金玉锦绣——清宫御用珍品特展”在长春开幕",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/c9f1d41d-aeee-4555-9481-4e0c29902670_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "20余名缅甸华裔在昆明体验中华传统技艺",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/6845d9a0-e884-403a-8f9e-1f7e2c2273ac_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "河北峰峰：“以赛育匠”激活磁州窑产业发展",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/c4831755-dec2-4abb-97bc-e1872533c838_zsite.JPG",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "首趟中蒙俄国际旅客列车整装出境",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-26/U992P4T8D10738341F107DT20261126194454.jpg",
         "subtitle": "  "
       }
     }
