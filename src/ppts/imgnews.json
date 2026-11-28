@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "海丝国际文化旅游节非遗体验与展演活动在福州启幕",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261128/fe2d1aa1-6a86-47ca-859c-8f01b98c59fc_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "天津首条GOA4级全自动无人驾驶地铁8号线开通运营",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261128/757137cf-ef3d-4d68-ac71-4ef69111d8f2_zsite.jpeg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "向上攀登挑战高峰 2026上海中心高塔竞速挑战赛鸣枪开赛",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261128/5513b09a-89be-42c3-80e9-13532ed3aab2_zsite.jpg",
         "subtitle": "  "
@@ -23,6 +39,14 @@
       "slide": {
         "title": "穿行“林都”伊春林海雪原 千名徒步爱好者踏雪赴冬",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261128/3cb1555c-27bd-43c6-8bf1-93060a40fabf_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "歼35-A飞抵珠海 将首次静态展示",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261128/6384c4b7-26a5-452c-9b36-43a54d64f7f2_zsite.jpg",
         "subtitle": "  "
       }
     },
@@ -303,30 +327,6 @@
       "slide": {
         "title": "广东省第八届民族传统体育运动会在中山开幕",
         "backgroundImage": "http://www.chinanews.com.cn/https/www.chinanews.com.cn/tp/hd2011/2026/11-27/U1129P4T8D10738516F107DT20261127100502.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "新加坡城市风光吸引游客",
-        "backgroundImage": "http://www.chinanews.com.cn/2026/11-27/U1066P4T8D10738515F107DT20261127091259.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "WCBA常规赛：山西竹叶青酒战胜上海浦发银行",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261127/ee86a423-d2b9-459c-be4a-654eb8b095ff_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "李强会见亚洲开发银行行长神田真人",
-        "backgroundImage": "http://www.chinanews.com.cn/tp/2026/11-26/U992P4T8D10738465F107DT20261126222133.jpg",
         "subtitle": "  "
       }
     }
