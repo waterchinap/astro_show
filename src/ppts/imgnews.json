@@ -13,6 +13,22 @@
     {
       "template": "ImgTitle",
       "slide": {
+        "title": "舞剧《天工开物》在海南省歌舞剧院上演",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261128/73e0d1d3-330c-4e4a-91c5-f65f7a46f462_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
+        "title": "云南保山永子“浴火重生”滴制千年弈脉",
+        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261128/9c8948ae-1b61-42d7-a112-8c48c484528a_zsite.jpg",
+        "subtitle": "  "
+      }
+    },
+    {
+      "template": "ImgTitle",
+      "slide": {
         "title": "当机器人“遇上”无人机 2026香港AI科普周开幕",
         "backgroundImage": "http://www.chinanews.com.cn/2026/11-28/U574P4T8D10739101F107DT20261128083230.jpg",
         "subtitle": "  "
@@ -311,22 +327,6 @@
       "slide": {
         "title": "初冬时节 江苏淮安白马湖乡野景致入画来",
         "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/dc8e6b89-2c9b-4d09-98e4-b49bb5b497a3_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "广西南宁：巧克力博物馆引游人",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/35558a91-fc97-4e22-84b0-10df3fa3e7ed_zsite.jpg",
-        "subtitle": "  "
-      }
-    },
-    {
-      "template": "ImgTitle",
-      "slide": {
-        "title": "山东泰安：初冬泰山普照寺彩叶斑斓",
-        "backgroundImage": "http://i2.chinanews.com.cn/simg/ypt/2026/261126/62c89b65-205b-49d1-8138-d5227ce99408_zsite.jpeg",
         "subtitle": "  "
       }
     }
